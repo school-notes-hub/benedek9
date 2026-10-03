@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 460" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>Hatszög, csúcsain a hat Holland-típus: realista, vizsgálódó, művészi, szociális, vállalkozó, konvencionális</title>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse" viewBox="0 0 10 10"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs>
+<rect width="820" height="460" rx="18" fill="#f7f9fc"/>
+<text x="410" y="40" text-anchor="middle" font-size="24" font-weight="800" fill="#23395d">A Holland-hatszög (RIASEC)</text>
+<g transform="translate(0,28)"><polygon points="410,80 527,148 527,282 410,350 293,282 293,148" fill="none" stroke="#bbb" stroke-width="3"/>
+<circle cx="410" cy="80" r="34" fill="#e25c4b"/><text x="410" y="90" text-anchor="middle" font-size="28" font-weight="800" fill="#fff">R</text>
+<text x="410" y="33" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">realista</text>
+<circle cx="527" cy="148" r="34" fill="#3f7fd6"/><text x="527" y="158" text-anchor="middle" font-size="28" font-weight="800" fill="#fff">I</text>
+<text x="575" y="152" text-anchor="start" font-size="16" font-weight="700" fill="#23395d">vizsgálódó</text>
+<circle cx="527" cy="282" r="34" fill="#8e5cc7"/><text x="527" y="292" text-anchor="middle" font-size="28" font-weight="800" fill="#fff">A</text>
+<text x="575" y="288" text-anchor="start" font-size="16" font-weight="700" fill="#23395d">művészi</text>
+<circle cx="410" cy="350" r="34" fill="#2ea99a"/><text x="410" y="360" text-anchor="middle" font-size="28" font-weight="800" fill="#fff">S</text>
+<text x="410" y="407" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">szociális</text>
+<circle cx="293" cy="282" r="34" fill="#f0a830"/><text x="293" y="292" text-anchor="middle" font-size="28" font-weight="800" fill="#fff">E</text>
+<text x="245" y="288" text-anchor="end" font-size="16" font-weight="700" fill="#23395d">vállalkozó</text>
+<circle cx="293" cy="148" r="34" fill="#6b6b7b"/><text x="293" y="158" text-anchor="middle" font-size="28" font-weight="800" fill="#fff">C</text>
+<text x="245" y="152" text-anchor="end" font-size="16" font-weight="700" fill="#23395d">konvencionális</text>
+<text x="410" y="222" text-anchor="middle" font-size="13" fill="#555">a szomszédos típusok</text><text x="410" y="240" text-anchor="middle" font-size="13" fill="#555">hasonlítanak egymásra</text>
+</g>
+</svg>

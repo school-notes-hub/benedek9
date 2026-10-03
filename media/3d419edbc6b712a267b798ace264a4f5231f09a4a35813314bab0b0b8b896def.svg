@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="600" height="340" role="img" aria-label="Venn-diagram két halmazzal a kitöltés sorrendjével: 1. a közös rész (mindkettő), 2. csak A és csak B, 3. a körökön kívüli rész (egyik sem)">
+  <rect width="600" height="340" rx="16" fill="#fdfaf3"/>
+  <rect x="30" y="50" width="540" height="270" rx="8" fill="#eef2f5" stroke="#2c3e50" stroke-width="3"/>
+  <text x="50" y="80" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">U</text>
+  <text x="300" y="34" font-family="sans-serif" font-size="19" font-weight="bold" text-anchor="middle" fill="#2c3e50">Kitöltés belülről kifelé</text>
+  <circle cx="240" cy="185" r="105" fill="#f5b7b1" fill-opacity="0.8" stroke="#c0392b" stroke-width="3"/>
+  <circle cx="360" cy="185" r="105" fill="#aed6f1" fill-opacity="0.7" stroke="#2471a3" stroke-width="3"/>
+  <g font-family="sans-serif" text-anchor="middle" fill="#2c3e50">
+    <text x="170" y="100" font-size="20" font-weight="bold" fill="#c0392b">A</text>
+    <text x="430" y="100" font-size="20" font-weight="bold" fill="#2471a3">B</text>
+    <circle cx="300" cy="170" r="17" fill="#8e44ad"/><text x="300" y="177" font-size="18" font-weight="bold" fill="#fff">1</text>
+    <text x="300" y="210" font-size="15">mindkettő</text>
+    <circle cx="190" cy="170" r="17" fill="#8e44ad"/><text x="190" y="177" font-size="18" font-weight="bold" fill="#fff">2</text>
+    <text x="190" y="210" font-size="15">csak A</text>
+    <circle cx="410" cy="170" r="17" fill="#8e44ad"/><text x="410" y="177" font-size="18" font-weight="bold" fill="#fff">2</text>
+    <text x="410" y="210" font-size="15">csak B</text>
+    <circle cx="520" cy="270" r="17" fill="#8e44ad"/><text x="520" y="277" font-size="18" font-weight="bold" fill="#fff">3</text>
+    <text x="520" y="305" font-size="15">egyik sem</text>
+  </g>
+</svg>

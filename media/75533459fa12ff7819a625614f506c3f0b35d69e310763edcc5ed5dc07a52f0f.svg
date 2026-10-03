@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 560" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <title>Maslow-piramis: a szükségletek öt szintje</title>
+  <rect width="820" height="560" rx="18" fill="#fffaf0"/>
+  <text x="410" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#3b2f2f">Maslow-piramis</text>
+  <text x="410" y="70" text-anchor="middle" font-size="15" fill="#6b5b53">Öt szükségletszint; egyszerre több is fontos lehet.</text>
+  
+  <polygon points="300,95 352,179 248,179" fill="#8e5cc7"/>
+  <polygon points="248,179 352,179 404,263 196,263" fill="#3f7fd6"/>
+  <polygon points="196,263 404,263 456,347 144,347" fill="#2ea99a"/>
+  <polygon points="144,347 456,347 508,431 92,431" fill="#f0a830"/>
+  <polygon points="92,431 508,431 560,515 40,515" fill="#e25c4b"/>
+  <g font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="300" y="165" font-size="20">5</text>
+    <text x="300" y="228" font-size="17">4. Önbecsülés</text>
+    <text x="300" y="312" font-size="17">3. Szociális</text>
+    <text x="300" y="396" font-size="17">2. Biztonság</text>
+    <text x="300" y="480" font-size="17">1. Fiziológiai</text>
+  </g>
+  <g font-size="14" fill="#3b2f2f">
+    <line x1="340" y1="140" x2="590" y2="140" stroke="#8e5cc7" stroke-width="2"/>
+    <text x="598" y="136" font-weight="700" fill="#8e5cc7">Önmegvalósítás</text>
+    <text x="598" y="154">kreativitás, erkölcs, fejlődés</text>
+    <line x1="385" y1="224" x2="590" y2="224" stroke="#3f7fd6" stroke-width="2"/>
+    <text x="598" y="220" font-weight="700" fill="#3f7fd6">Önbecsülés</text>
+    <text x="598" y="238">presztízs, elismerés</text>
+    <line x1="437" y1="308" x2="590" y2="308" stroke="#2ea99a" stroke-width="2"/>
+    <text x="598" y="304" font-weight="700" fill="#2ea99a">Szociális szükségletek</text>
+    <text x="598" y="322">barátság, család, szeretet</text>
+    <line x1="489" y1="392" x2="590" y2="392" stroke="#f0a830" stroke-width="2"/>
+    <text x="598" y="388" font-weight="700" fill="#d08a10">Biztonság</text>
+    <text x="598" y="406">testi, anyagi biztonság</text>
+    <line x1="541" y1="476" x2="590" y2="476" stroke="#e25c4b" stroke-width="2"/>
+    <text x="598" y="472" font-weight="700" fill="#e25c4b">Fiziológiai</text>
+    <text x="598" y="490">légzés, étel, víz, alvás</text>
+  </g>
+  <text x="410" y="545" text-anchor="middle" font-size="12" fill="#8a7d74">A szintek szélessége nem mért adat; a sorrend nem merev lépcsősor.</text>
+</svg>

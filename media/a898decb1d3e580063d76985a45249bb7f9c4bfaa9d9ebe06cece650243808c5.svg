@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>Nyolcszög: egy csúcsból 5 átló indul, a két szomszédos csúcshoz oldal vezet</title>
+<rect width="800" height="400" rx="18" fill="#fffaf0"/>
+<polygon points="303.6,70.7 379.3,146.4 379.3,253.6 303.6,329.3 196.4,329.3 120.7,253.6 120.7,146.4 196.4,70.7" fill="#fff" stroke="#333" stroke-width="3"/>
+<line x1="120.7" y1="253.6" x2="303.6" y2="70.7" stroke="#e25c4b" stroke-width="3"/>
+<line x1="120.7" y1="253.6" x2="379.3" y2="146.4" stroke="#e25c4b" stroke-width="3"/>
+<line x1="120.7" y1="253.6" x2="379.3" y2="253.6" stroke="#e25c4b" stroke-width="3"/>
+<line x1="120.7" y1="253.6" x2="303.6" y2="329.3" stroke="#e25c4b" stroke-width="3"/>
+<line x1="120.7" y1="253.6" x2="196.4" y2="70.7" stroke="#e25c4b" stroke-width="3"/>
+<line x1="120.7" y1="253.6" x2="196.4" y2="329.3" stroke="#3f7fd6" stroke-width="6"/>
+<line x1="120.7" y1="253.6" x2="120.7" y2="146.4" stroke="#3f7fd6" stroke-width="6"/>
+<circle cx="303.6" cy="70.7" r="6" fill="#333"/>
+<circle cx="379.3" cy="146.4" r="6" fill="#333"/>
+<circle cx="379.3" cy="253.6" r="6" fill="#333"/>
+<circle cx="303.6" cy="329.3" r="6" fill="#333"/>
+<circle cx="196.4" cy="329.3" r="6" fill="#333"/>
+<circle cx="120.7" cy="253.6" r="9" fill="#e25c4b"/>
+<circle cx="120.7" cy="146.4" r="6" fill="#333"/>
+<circle cx="196.4" cy="70.7" r="6" fill="#333"/>
+<g font-size="17" fill="#333">
+<text x="450" y="110" font-weight="800" font-size="20" fill="#3b2f2f">Egy csúcsból:</text>
+<text x="450" y="145"><tspan fill="#e25c4b" font-weight="800">5 átló</tspan> (piros) = 8 - 3</text>
+<text x="450" y="175"><tspan fill="#3f7fd6" font-weight="800">2 oldal</tspan> (kék): a szomszédok</text>
+<text x="450" y="205">+ önmagához nem húzunk</text>
+<text x="450" y="260" font-weight="800" font-size="20" fill="#3b2f2f">Összesen:</text>
+<text x="450" y="295">8 · 5 : 2 = 20 átló</text>
+<text x="450" y="322" font-size="14" fill="#666">(osztunk 2-vel: minden átlónak két vége van)</text>
+</g></svg>

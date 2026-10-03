@@ -1,0 +1,59 @@
+
+
+
+
+<svg width="405pt" height="814pt" viewBox="0.00 0.00 405.00 814.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(14.4 800.1)">
+<title>Munemek</title>
+<polygon fill="#fcfaf6" stroke="none" points="-14.4,14.4 -14.4,-800.1 391.08,-800.1 391.08,14.4 -14.4,14.4"/>
+
+<g id="node1" class="node">
+<title>title</title>
+<path fill="#c7b8cd" stroke="#c7b8cd" d="M342.56,-785.7C342.56,-785.7 34.12,-785.7 34.12,-785.7 28.12,-785.7 22.12,-779.7 22.12,-773.7 22.12,-773.7 22.12,-719.16 22.12,-719.16 22.12,-713.16 28.12,-707.16 34.12,-707.16 34.12,-707.16 342.56,-707.16 342.56,-707.16 348.56,-707.16 354.56,-713.16 354.56,-719.16 354.56,-719.16 354.56,-773.7 354.56,-773.7 354.56,-779.7 348.56,-785.7 342.56,-785.7"/>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-752.33" font-family="DejaVu Sans" font-size="23.00" fill="#30253f">Három műnem</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-724.58" font-family="DejaVu Sans" font-size="23.00" fill="#30253f">Ki beszél, és mit közvetít?</text>
+</g>
+
+<g id="node2" class="node">
+<title>ep</title>
+<path fill="#e8edf9" stroke="#c7b8cd" d="M343.31,-695.16C343.31,-695.16 33.38,-695.16 33.38,-695.16 27.38,-695.16 21.38,-689.16 21.38,-683.16 21.38,-683.16 21.38,-516.12 21.38,-516.12 21.38,-510.12 27.38,-504.12 33.38,-504.12 33.38,-504.12 343.31,-504.12 343.31,-504.12 349.31,-504.12 355.31,-510.12 355.31,-516.12 355.31,-516.12 355.31,-683.16 355.31,-683.16 355.31,-689.16 349.31,-695.16 343.31,-695.16"/>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-664.64" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">EPIKA</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-616.64" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">Elbeszélő mondja a történetet.</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-592.64" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">Események, szereplők,</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-568.64" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">idő és hely.</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-520.64" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">Példa: novella, monda.</text>
+</g>
+
+
+<g id="node3" class="node">
+<title>li</title>
+<path fill="#f5e8f0" stroke="#c7b8cd" d="M334.74,-492.12C334.74,-492.12 41.94,-492.12 41.94,-492.12 35.94,-492.12 29.94,-486.12 29.94,-480.12 29.94,-480.12 29.94,-313.08 29.94,-313.08 29.94,-307.08 35.94,-301.08 41.94,-301.08 41.94,-301.08 334.74,-301.08 334.74,-301.08 340.74,-301.08 346.74,-307.08 346.74,-313.08 346.74,-313.08 346.74,-480.12 346.74,-480.12 346.74,-486.12 340.74,-492.12 334.74,-492.12"/>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-461.6" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">LÍRA</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-413.6" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">A lírai beszélő szólal meg.</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-389.6" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">Érzések, hangulatok,</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-365.6" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">gondolatok.</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-317.6" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">Jellemzően verses forma.</text>
+</g>
+
+
+<g id="node4" class="node">
+<title>dr</title>
+<path fill="#f8eddc" stroke="#c7b8cd" d="M337.31,-289.08C337.31,-289.08 39.38,-289.08 39.38,-289.08 33.38,-289.08 27.38,-283.08 27.38,-277.08 27.38,-277.08 27.38,-110.04 27.38,-110.04 27.38,-104.04 33.38,-98.04 39.38,-98.04 39.38,-98.04 337.31,-98.04 337.31,-98.04 343.31,-98.04 349.31,-104.04 349.31,-110.04 349.31,-110.04 349.31,-277.08 349.31,-277.08 349.31,-283.08 343.31,-289.08 337.31,-289.08"/>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-258.56" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">DRÁMA</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-210.56" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">A szereplők szólalnak meg.</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-186.56" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">Párbeszéd, monológ, tettek;</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-162.56" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">szerzői utasítások.</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-114.56" font-family="DejaVu Sans" font-size="20.00" fill="#30253f">Színpadi előadásra szánt mű.</text>
+</g>
+
+
+<g id="node5" class="node">
+<title>end</title>
+<path fill="#c7b8cd" stroke="#c7b8cd" d="M364.68,-86.04C364.68,-86.04 12,-86.04 12,-86.04 6,-86.04 0,-80.04 0,-74.04 0,-74.04 0,-12 0,-12 0,-6 6,0 12,0 12,0 364.68,0 364.68,0 370.68,0 376.68,-6 376.68,-12 376.68,-12 376.68,-74.04 376.68,-74.04 376.68,-80.04 370.68,-86.04 364.68,-86.04"/>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-58.37" font-family="DejaVu Sans" font-size="17.00" fill="#30253f">Tipikus jellemzők, nem merev szabályok.</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-37.37" font-family="DejaVu Sans" font-size="17.00" fill="#30253f">A szerző és a szöveg beszélője</text>
+<text xml:space="preserve" text-anchor="middle" x="188.34" y="-16.37" font-family="DejaVu Sans" font-size="17.00" fill="#30253f">külön fogalom.</text>
+</g>
+
+</g>
+</svg>

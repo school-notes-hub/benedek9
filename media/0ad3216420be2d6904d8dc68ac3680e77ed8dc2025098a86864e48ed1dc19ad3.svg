@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 620" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>A hat művészeti ág</title>
+<rect width="480" height="620" rx="18" fill="#f7f1fa"/>
+<rect x="100" y="18" width="280" height="56" rx="28" fill="#7d3c98"/>
+<text x="240" y="54" text-anchor="middle" font-size="24" font-weight="800" fill="#fff">A hat művészeti ág</text>
+<g font-size="19" font-weight="800" fill="#fff" text-anchor="middle">
+<g transform="translate(20,94)">
+<rect width="210" height="160" rx="16" fill="#7d3c98"/>
+<path d="M105,40 q-25,-12 -55,-6 v60 q30,-6 55,6 z" fill="#fff"/><path d="M105,40 q25,-12 55,-6 v60 q-30,-6 -55,6 z" fill="#ebdef0"/>
+<text x="105" y="136">Irodalom</text>
+</g>
+<g transform="translate(250,94)">
+<rect width="210" height="160" rx="16" fill="#e2703a"/>
+<path d="M60,70 c0,-30 40,-45 70,-35 c25,8 35,30 20,40 c-10,6 -25,-2 -30,10 c-4,10 8,18 -8,22 c-30,6 -52,-10 -52,-37 z" fill="#fff"/>
+<circle cx="85" cy="55" r="7" fill="#d63031"/><circle cx="108" cy="45" r="7" fill="#0984e3"/><circle cx="130" cy="52" r="7" fill="#00b894"/><circle cx="80" cy="80" r="7" fill="#fdcb6e"/>
+<text x="105" y="136">Képzőművészet</text>
+</g>
+<g transform="translate(20,270)">
+<rect width="210" height="160" rx="16" fill="#a0640a"/>
+<path d="M50,50 l55,-28 l55,28 z" fill="#fff"/><rect x="55" y="52" width="100" height="8" fill="#fff"/>
+<g fill="#fbeee0"><rect x="62" y="62" width="12" height="36"/><rect x="87" y="62" width="12" height="36"/><rect x="112" y="62" width="12" height="36"/><rect x="137" y="62" width="12" height="36"/></g>
+<rect x="50" y="98" width="110" height="8" fill="#fff"/>
+<text x="105" y="136">Építészet</text>
+</g>
+<g transform="translate(250,270)">
+<rect width="210" height="160" rx="16" fill="#1f6fb2"/>
+<path d="M88,28 l40,-8 v58" stroke="#fff" stroke-width="5" fill="none"/><path d="M88,28 v62" stroke="#fff" stroke-width="5"/>
+<ellipse cx="78" cy="92" rx="13" ry="10" fill="#fff"/><ellipse cx="118" cy="80" rx="13" ry="10" fill="#fff"/>
+<text x="105" y="136">Zeneművészet</text>
+</g>
+<g transform="translate(20,446)">
+<rect width="210" height="160" rx="16" fill="#c0392b"/>
+<circle cx="105" cy="30" r="11" fill="#fff"/>
+<path d="M105,42 v34 M105,50 l-32,-14 M105,50 l30,10 M105,76 l-24,30 M105,76 l34,18" stroke="#fff" stroke-width="7" stroke-linecap="round" fill="none"/>
+<text x="105" y="136">Táncművészet</text>
+</g>
+<g transform="translate(250,446)">
+<rect width="210" height="160" rx="16" fill="#2d3436"/>
+<rect x="45" y="28" width="120" height="76" rx="6" fill="#fff"/>
+<g fill="#2d3436"><rect x="52" y="34" width="10" height="8"/><rect x="52" y="52" width="10" height="8"/><rect x="52" y="70" width="10" height="8"/><rect x="52" y="88" width="10" height="8"/><rect x="148" y="34" width="10" height="8"/><rect x="148" y="52" width="10" height="8"/><rect x="148" y="70" width="10" height="8"/><rect x="148" y="88" width="10" height="8"/></g>
+<path d="M92,50 v32 l28,-16 z" fill="#e17055"/>
+<text x="105" y="136">Filmművészet</text>
+</g>
+</g>
+</svg>

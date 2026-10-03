@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" role="img" aria-label="Két Venn-diagram: balra V az U-n belül (részhalmaz), jobbra V a 2, 3, 5, 7 elemekkel az U-n belül, U-nak V-n kívül is van eleme (valódi részhalmaz)">
+  <rect width="600" height="300" rx="16" fill="#fdfaf3"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <text x="150" y="34" font-size="19" font-weight="bold" fill="#2c3e50">részhalmaz: V ⊆ U</text>
+    <ellipse cx="150" cy="160" rx="120" ry="95" fill="#d6eaf8" stroke="#2e86c1" stroke-width="3"/>
+    <ellipse cx="160" cy="175" rx="65" ry="50" fill="#fdebd0" stroke="#e67e22" stroke-width="3"/>
+    <text x="68" y="112" font-size="22" font-weight="bold" fill="#2e86c1">U</text>
+    <text x="160" y="183" font-size="22" font-weight="bold" fill="#e67e22">V</text>
+    <text x="150" y="285" font-size="15" fill="#2c3e50">V minden eleme U-nak is eleme</text>
+    <text x="450" y="34" font-size="19" font-weight="bold" fill="#2c3e50">valódi részhalmaz: V ⊂ U</text>
+    <ellipse cx="450" cy="160" rx="120" ry="95" fill="#d6eaf8" stroke="#2e86c1" stroke-width="3"/>
+    <ellipse cx="435" cy="170" rx="70" ry="52" fill="#fdebd0" stroke="#e67e22" stroke-width="3"/>
+    <text x="368" y="112" font-size="22" font-weight="bold" fill="#2e86c1">U</text>
+    <text x="435" y="150" font-size="18" font-weight="bold" fill="#e67e22">V</text>
+    <text x="435" y="183" font-size="20" fill="#2c3e50">2, 3, 5, 7</text>
+    <text x="535" y="160" font-size="20" fill="#2e86c1">...</text>
+    <text x="450" y="285" font-size="15" fill="#2c3e50">és U-nak van V-n kívüli eleme is</text>
+  </g>
+</svg>

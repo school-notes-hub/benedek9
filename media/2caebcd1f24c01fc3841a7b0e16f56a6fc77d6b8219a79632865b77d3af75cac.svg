@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>A kommunikáció hat tényezője és a hozzájuk tartozó funkciók (Jakobson-modell)</title>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse" viewBox="0 0 10 10"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs>
+<rect width="820" height="400" rx="18" fill="#f4f8ff"/>
+<text x="410" y="40" text-anchor="middle" font-size="24" font-weight="800" fill="#23395d">Melyik funkció melyik tényezőre figyel?</text>
+<rect x="260.0" y="70" width="300" height="60" rx="12" fill="#2ea99a"/><text x="410" y="94" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Kontextus</text><text x="410" y="116" text-anchor="middle" font-size="14" fill="#fff">tájékoztató funkció</text>
+<rect x="25.0" y="190" width="210" height="60" rx="12" fill="#3f7fd6"/><text x="130" y="214" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Adó</text><text x="130" y="236" text-anchor="middle" font-size="14" fill="#fff">kifejező funkció</text>
+<rect x="295.0" y="190" width="230" height="60" rx="12" fill="#8e5cc7"/><text x="410" y="214" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Üzenet</text><text x="410" y="236" text-anchor="middle" font-size="14" fill="#fff">esztétikai funkció</text>
+<rect x="585.0" y="190" width="210" height="60" rx="12" fill="#e25c4b"/><text x="690" y="214" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Vevő</text><text x="690" y="236" text-anchor="middle" font-size="14" fill="#fff">felhívó funkció</text>
+<rect x="145.0" y="310" width="250" height="60" rx="12" fill="#f0a830"/><text x="270" y="334" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Csatorna</text><text x="270" y="356" text-anchor="middle" font-size="14" fill="#fff">kapcsolatfenntartó</text>
+<rect x="425.0" y="310" width="250" height="60" rx="12" fill="#6b6b7b"/><text x="550" y="334" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Kód</text><text x="550" y="356" text-anchor="middle" font-size="14" fill="#fff">értelmező (metanyelvi)</text>
+<g stroke="#555" stroke-width="3" fill="none"><line x1="236" y1="220" x2="292" y2="220" marker-end="url(#a)"/><line x1="526" y1="220" x2="582" y2="220" marker-end="url(#a)"/><line x1="410" y1="130" x2="410" y2="188" stroke-dasharray="6 5"/><line x1="340" y1="250" x2="300" y2="308" stroke-dasharray="6 5"/><line x1="480" y1="250" x2="520" y2="308" stroke-dasharray="6 5"/></g>
+</svg>

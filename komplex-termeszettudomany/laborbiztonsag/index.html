@@ -1,0 +1,371 @@
+<!DOCTYPE html><html lang="hu" dir="ltr" data-theme="dark" data-has-toc data-has-sidebar class="astro-g5ptsecz"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Laborbiztonság és veszélyjelek | Benedek jegyzetei</title><link rel="canonical" href="https://school-notes-hub.github.io/benedek9/komplex-termeszettudomany/laborbiztonsag/"/><link rel="sitemap" href="/benedek9/sitemap-index.xml"/><link rel="shortcut icon" href="/benedek9/media/4ec378f444720c24dae4b04041c80ad8c3c692682d3222dd97b112dcc3274b53.png" type="image/png"/><meta name="generator" content="Astro v7.3.5"/><meta name="generator" content="Starlight v0.42.4"/><meta property="og:title" content="Laborbiztonság és veszélyjelek"/><meta property="og:type" content="article"/><meta property="og:url" content="https://school-notes-hub.github.io/benedek9/komplex-termeszettudomany/laborbiztonsag/"/><meta property="og:locale" content="hu"/><meta property="og:site_name" content="Benedek jegyzetei"/><meta name="twitter:card" content="summary_large_image"/><script>
+	window.StarlightThemeProvider = (() => {
+		const storedTheme =
+			typeof localStorage !== 'undefined' && localStorage.getItem('starlight-theme');
+		const theme =
+			storedTheme ||
+			(window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+		document.documentElement.dataset.theme = theme === 'light' ? 'light' : 'dark';
+		return {
+			updatePickers(theme = storedTheme || 'auto') {
+				document.querySelectorAll('starlight-theme-select').forEach((picker) => {
+					const select = picker.querySelector('select');
+					if (select) select.value = theme;
+					/** @type {HTMLTemplateElement | null} */
+					const tmpl = document.querySelector(`#theme-icons`);
+					const newIcon = tmpl && tmpl.content.querySelector('.' + theme);
+					if (newIcon) {
+						const oldIcon = picker.querySelector('svg.label-icon');
+						if (oldIcon) {
+							oldIcon.replaceChildren(...newIcon.cloneNode(true).childNodes);
+						}
+					}
+				});
+			},
+		};
+	})();
+</script><template id="theme-icons"><svg aria-hidden="true" class="light astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M5 12a1 1 0 0 0-1-1H3a1 1 0 0 0 0 2h1a1 1 0 0 0 1-1Zm.64 5-.71.71a1 1 0 0 0 0 1.41 1 1 0 0 0 1.41 0l.71-.71A1 1 0 0 0 5.64 17ZM12 5a1 1 0 0 0 1-1V3a1 1 0 0 0-2 0v1a1 1 0 0 0 1 1Zm5.66 2.34a1 1 0 0 0 .7-.29l.71-.71a1 1 0 1 0-1.41-1.41l-.66.71a1 1 0 0 0 0 1.41 1 1 0 0 0 .66.29Zm-12-.29a1 1 0 0 0 1.41 0 1 1 0 0 0 0-1.41l-.71-.71a1.004 1.004 0 1 0-1.43 1.41l.73.71ZM21 11h-1a1 1 0 0 0 0 2h1a1 1 0 0 0 0-2Zm-2.64 6A1 1 0 0 0 17 18.36l.71.71a1 1 0 0 0 1.41 0 1 1 0 0 0 0-1.41l-.76-.66ZM12 6.5a5.5 5.5 0 1 0 5.5 5.5A5.51 5.51 0 0 0 12 6.5Zm0 9a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7Zm0 3.5a1 1 0 0 0-1 1v1a1 1 0 0 0 2 0v-1a1 1 0 0 0-1-1Z"/></svg><svg aria-hidden="true" class="dark astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M21.64 13a1 1 0 0 0-1.05-.14 8.049 8.049 0 0 1-3.37.73 8.15 8.15 0 0 1-8.14-8.1 8.59 8.59 0 0 1 .25-2A1 1 0 0 0 8 2.36a10.14 10.14 0 1 0 14 11.69 1 1 0 0 0-.36-1.05Zm-9.5 6.69A8.14 8.14 0 0 1 7.08 5.22v.27a10.15 10.15 0 0 0 10.14 10.14 9.784 9.784 0 0 0 2.1-.22 8.11 8.11 0 0 1-7.18 4.32v-.04Z"/></svg><svg aria-hidden="true" class="auto astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M21 14h-1V7a3 3 0 0 0-3-3H7a3 3 0 0 0-3 3v7H3a1 1 0 0 0-1 1v2a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3v-2a1 1 0 0 0-1-1ZM6 7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7H6V7Zm14 10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-1h16v1Z"/></svg></template><link rel="stylesheet" href="/benedek9/_astro/print.ehPL0gv-.css" media="print"><style>.study-pagination:where(.astro-df5goeu7) a:where(.astro-df5goeu7){overflow-wrap:anywhere;min-width:0}.study-feedback:where(.astro-df5goeu7){border-top:1px solid var(--sl-color-hairline);margin-block:2rem;padding-block:1rem;font-size:.875rem}.study-feedback:where(.astro-df5goeu7) p:where(.astro-df5goeu7){color:var(--sl-color-gray-2);max-width:78ch;margin-top:.4rem}@media print{.study-feedback:where(.astro-df5goeu7){display:none}}
+</style><link rel="stylesheet" href="/benedek9/_astro/styles.CZdb4oQN.css"><link rel="stylesheet" href="/benedek9/_astro/middleware.CuQ0l8mG.css"><script type="module" src="/benedek9/_astro/page.Dwipeu-R.js"></script></head><body class="astro-g5ptsecz"><a class="sl-skip-link astro-qb7clj6f" href="#_top">Tovább a tartalomhoz</a><div class="page sl-flex astro-yntsjkba"><header class="header astro-yntsjkba"><div class="header astro-by6fddyj"><div class="title-wrapper sl-flex astro-by6fddyj"><a href="/benedek9/" class="study-brand"><span class="study-brand-mark study-brand-image" aria-hidden="true"><img class="brand-light" src="/benedek9/media/260b8b23dd451bec66100bedd3942d6f1ec4c62cb44c1e2c9cb18acf3eee7dcd.png" width="42" height="42" alt=""><img class="brand-dark" src="/benedek9/media/4ec378f444720c24dae4b04041c80ad8c3c692682d3222dd97b112dcc3274b53.png" width="42" height="42" alt=""></span><span class="study-brand-name" translate="no">Benedek jegyzetei</span></a><script type="module">function e(){let e=document.documentElement.dataset.theme===`light`?`light`:`dark`,t=document.querySelector(`.study-brand .brand-${e}`),n=document.querySelector(`link[rel~="icon"]`);t&&n&&(n.href=t.src,n.type=`image/png`)}e(),new MutationObserver(e).observe(document.documentElement,{attributes:!0,attributeFilter:[`data-theme`]});</script></div><div class="sl-flex print:hidden astro-by6fddyj"><site-search class="astro-by6fddyj astro-b5kgnn7o" data-translations="{&quot;placeholder&quot;:&quot;Keresés&quot;,&quot;clear_search&quot;:&quot;Törlés&quot;,&quot;load_more&quot;:&quot;Több találat betöltése&quot;,&quot;search_label&quot;:&quot;Keresés ezen az oldalon&quot;,&quot;filters_label&quot;:&quot;Szűrők&quot;,&quot;zero_results&quot;:&quot;Erre a kifejezésre nincs találat: [SEARCH_TERM]&quot;,&quot;many_results&quot;:&quot;[COUNT] találat erre: [SEARCH_TERM]&quot;,&quot;one_result&quot;:&quot;[COUNT] találat erre: [SEARCH_TERM]&quot;,&quot;alt_search&quot;:&quot;Erre a kifejezésre nincs találat: [SEARCH_TERM]. Találatok mutatása erre: [DIFFERENT_TERM]&quot;,&quot;search_suggestion&quot;:&quot;Erre a kifejezésre nincs találat: [SEARCH_TERM]. Próbáld meg ezek közül az egyiket:&quot;,&quot;searching&quot;:&quot;Keresés erre: [SEARCH_TERM]...&quot;}"><button data-open-modal disabled aria-label="Keresés" aria-keyshortcuts="Control+K" class="astro-b5kgnn7o"><svg aria-hidden="true" class="astro-b5kgnn7o astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M21.71 20.29 18 16.61A9 9 0 1 0 16.61 18l3.68 3.68a.999.999 0 0 0 1.42 0 1 1 0 0 0 0-1.39ZM11 18a7 7 0 1 1 0-14 7 7 0 0 1 0 14Z"/></svg><span class="sl-hidden md:sl-block astro-b5kgnn7o" aria-hidden="true">Keresés</span><kbd class="sl-hidden md:sl-flex astro-b5kgnn7o" style="display: none;"><kbd class="astro-b5kgnn7o">Ctrl</kbd><kbd class="astro-b5kgnn7o">K</kbd></kbd></button><dialog style="padding:0" aria-label="Keresés" class="astro-b5kgnn7o"><div class="dialog-frame sl-flex astro-b5kgnn7o"><button data-close-modal class="sl-flex md:sl-hidden astro-b5kgnn7o">Mégsem</button><div class="search-container astro-b5kgnn7o"><div id="starlight__search" class="astro-b5kgnn7o"></div></div></div></dialog></site-search><script>
+	(() => {
+		const openBtn = document.querySelector('button[data-open-modal]');
+		const shortcut = openBtn?.querySelector('kbd');
+		if (!openBtn || !(shortcut instanceof HTMLElement)) return;
+		const platformKey = shortcut.querySelector('kbd');
+		if (platformKey && /(Mac|iPhone|iPod|iPad)/i.test(navigator.platform)) {
+			platformKey.textContent = '⌘';
+			openBtn.setAttribute('aria-keyshortcuts', 'Meta+K');
+		}
+		shortcut.style.display = '';
+	})();
+</script><script type="module" src="/benedek9/_astro/Search.astro_astro_type_script_index_0_lang.YIoswia2.js"></script></div><div class="sl-hidden md:sl-flex print:hidden right-group astro-by6fddyj"><div class="sl-flex social-icons astro-by6fddyj"></div><starlight-theme-select><label style="--sl-select-width: 6.25em" class="astro-2z5xp7gb"><span class="sr-only astro-2z5xp7gb">Téma választás</span><svg aria-hidden="true" class="icon label-icon astro-2z5xp7gb astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M21 14h-1V7a3 3 0 0 0-3-3H7a3 3 0 0 0-3 3v7H3a1 1 0 0 0-1 1v2a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3v-2a1 1 0 0 0-1-1ZM6 7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7H6V7Zm14 10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-1h16v1Z"/></svg><select autocomplete="off" class="astro-2z5xp7gb"><option value="dark" class="astro-2z5xp7gb">Sötét</option><option value="light" class="astro-2z5xp7gb">Világos</option><option value="auto" selected class="astro-2z5xp7gb">Auto</option></select><svg aria-hidden="true" class="icon caret astro-2z5xp7gb astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M17 9.17a1 1 0 0 0-1.41 0L12 12.71 8.46 9.17a1 1 0 1 0-1.41 1.42l4.24 4.24a1.002 1.002 0 0 0 1.42 0L17 10.59a1.002 1.002 0 0 0 0-1.42Z"/></svg></label></starlight-theme-select><script>
+	StarlightThemeProvider.updatePickers();
+</script><script type="module">var e=`starlight-theme`,t=e=>e===`auto`||e===`dark`||e===`light`?e:`auto`,n=()=>t(typeof localStorage<`u`&&localStorage.getItem(e));function r(t){typeof localStorage<`u`&&localStorage.setItem(e,t===`light`||t===`dark`?t:``)}var i=()=>matchMedia(`(prefers-color-scheme: light)`).matches?`light`:`dark`;function a(e){StarlightThemeProvider.updatePickers(e),document.documentElement.dataset.theme=e===`auto`?i():e,r(e)}matchMedia(`(prefers-color-scheme: light)`).addEventListener(`change`,()=>{n()===`auto`&&a(`auto`)});var o=class extends HTMLElement{constructor(){super(),a(n()),this.querySelector(`select`)?.addEventListener(`change`,e=>{e.currentTarget instanceof HTMLSelectElement&&a(t(e.currentTarget.value))})}};customElements.define(`starlight-theme-select`,o);</script><script type="module">var e=class extends HTMLElement{constructor(){super();let e=this.querySelector(`select`);e&&(e.addEventListener(`change`,e=>{e.currentTarget instanceof HTMLSelectElement&&(window.location.pathname=e.currentTarget.value)}),window.addEventListener(`pageshow`,t=>{if(!t.persisted)return;let n=e.querySelector(`option[selected]`)?.index;n!==e.selectedIndex&&(e.selectedIndex=n??0)}))}};customElements.define(`starlight-lang-select`,e);</script></div></div></header><nav class="sidebar print:hidden astro-yntsjkba" aria-label="Fő"><button popovertarget="starlight__sidebar" class="sl-menu-button sl-flex md:sl-hidden print:hidden astro-r2osgdlg"><svg aria-hidden="true" class="open-menu astro-r2osgdlg astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M3 8h18a1 1 0 1 0 0-2H3a1 1 0 0 0 0 2Zm18 8H3a1 1 0 0 0 0 2h18a1 1 0 0 0 0-2Zm0-5H3a1 1 0 0 0 0 2h18a1 1 0 0 0 0-2Z"/></svg><svg aria-hidden="true" class="close-menu astro-r2osgdlg astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="m13.41 12 6.3-6.29a1.004 1.004 0 1 0-1.42-1.42L12 10.59l-6.29-6.3a1.004 1.004 0 0 0-1.42 1.42l6.3 6.29-6.3 6.29a1 1 0 0 0 0 1.42.998.998 0 0 0 1.42 0l6.29-6.3 6.29 6.3a.999.999 0 0 0 1.42 0 1 1 0 0 0 0-1.42L13.41 12Z"/></svg><span class="sr-only astro-r2osgdlg">Menü</span></button><script type="module">var e=class extends HTMLElement{constructor(){super();let e=matchMedia(`(min-width: 50em)`),t=()=>{this.popover=e.matches?null:`auto`};t(),e.addEventListener(`change`,()=>t()),this.addEventListener(`toggle`,({newState:e})=>this.trapFocus(e===`open`))}trapFocus(e){document.querySelectorAll(`.main-frame, .sl-skip-link`).forEach(t=>{t.toggleAttribute(`inert`,e)})}};customElements.define(`sl-sidebar-pane`,e);</script><sl-sidebar-pane popover id="starlight__sidebar" class="sidebar-pane astro-yntsjkba"><div class="sidebar-content sl-flex astro-yntsjkba"><sl-sidebar-state-persist data-hash="00rog8o" class="astro-ipdry5cl"><script aria-hidden="true">
+		(() => {
+			try {
+				if (!matchMedia('(min-width: 50em)').matches) return;
+				/** @type {HTMLElement | null} */
+				const target = document.querySelector('sl-sidebar-state-persist');
+				const state = JSON.parse(sessionStorage.getItem('sl-sidebar-state') || '0');
+				if (!target || !state || target.dataset.hash !== state.hash) return;
+				window._starlightScrollRestore = state.scroll;
+				customElements.define(
+					'sl-sidebar-restore',
+					class SidebarRestore extends HTMLElement {
+						connectedCallback() {
+							try {
+								const idx = parseInt(this.dataset.index || '');
+								const details = this.closest('details');
+								if (details && typeof state.open[idx] === 'boolean') details.open = state.open[idx];
+							} catch {}
+						}
+					}
+				);
+			} catch {}
+		})();
+	</script><ul class="top-level astro-rmhv4bp6"><li class="astro-rmhv4bp6"><a href="/benedek9/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">🏠 Kezdőlap</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/gazdasagi-es-jogi-alapismeretek/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">💼 Gazdasági és jogi alapismeretek</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/komplex-termeszettudomany/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">🔬 Komplex természettudomány</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/irodalom/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">📖 Irodalom</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/magyar-nyelv/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">🗣️ Magyar nyelv</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/matematika/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">📐 Matematika</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/munkavalloi-ismeretek/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">🤝 Munkavállalói ismeretek</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/tortenelem/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">🏛️ Történelem</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/a-projektrol/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">A projektről és a felhasználásról</span></a></li></ul><script aria-hidden="true">
+		(() => {
+			const scroller = document.getElementById('starlight__sidebar');
+			if (!window._starlightScrollRestore || !scroller) return;
+			scroller.scrollTop = window._starlightScrollRestore;
+			delete window._starlightScrollRestore;
+		})();
+	</script></sl-sidebar-state-persist><div class="md:sl-hidden"><div class="mobile-preferences sl-flex astro-p4azlveh"><div class="social-icons astro-p4azlveh"></div><starlight-theme-select><label style="--sl-select-width: 6.25em" class="astro-2z5xp7gb"><span class="sr-only astro-2z5xp7gb">Téma választás</span><svg aria-hidden="true" class="icon label-icon astro-2z5xp7gb astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M21 14h-1V7a3 3 0 0 0-3-3H7a3 3 0 0 0-3 3v7H3a1 1 0 0 0-1 1v2a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3v-2a1 1 0 0 0-1-1ZM6 7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7H6V7Zm14 10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-1h16v1Z"/></svg><select autocomplete="off" class="astro-2z5xp7gb"><option value="dark" class="astro-2z5xp7gb">Sötét</option><option value="light" class="astro-2z5xp7gb">Világos</option><option value="auto" selected class="astro-2z5xp7gb">Auto</option></select><svg aria-hidden="true" class="icon caret astro-2z5xp7gb astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M17 9.17a1 1 0 0 0-1.41 0L12 12.71 8.46 9.17a1 1 0 1 0-1.41 1.42l4.24 4.24a1.002 1.002 0 0 0 1.42 0L17 10.59a1.002 1.002 0 0 0 0-1.42Z"/></svg></label></starlight-theme-select><script>
+	StarlightThemeProvider.updatePickers();
+</script></div></div></div></sl-sidebar-pane></nav><div class="main-frame astro-yntsjkba"><script type="module">var e=document.getElementById(`starlight__sidebar`),t=e?.querySelector(`sl-sidebar-state-persist`),n=`sl-sidebar-state`,r=()=>{let r=[],i=t?.dataset.hash||``;try{let e=sessionStorage.getItem(n),t=JSON.parse(e||`{}`);Array.isArray(t.open)&&t.hash===i&&(r=t.open)}catch{}return{hash:i,open:r,scroll:e?.scrollTop||0}},i=e=>{try{sessionStorage.setItem(n,JSON.stringify(e))}catch{}},a=()=>i(r()),o=(e,t)=>{let n=r();n.open[t]=e,i(n)};t?.addEventListener(`click`,e=>{if(!(e.target instanceof Element))return;let t=e.target.closest(`summary`)?.closest(`details`);if(!t)return;let n=t.querySelector(`sl-sidebar-restore`),r=parseInt(n?.dataset.index||``);isNaN(r)||o(!t.open,r)}),addEventListener(`visibilitychange`,()=>{document.visibilityState===`hidden`&&a()});</script><div class="study-columns study-has-toc astro-sfifgsse"><div class="main-pane astro-sfifgsse"><main data-pagefind-body class="astro-g5ptsecz" lang="hu" dir="ltr"><div class="content-panel astro-a7po4psb"><div class="sl-container astro-a7po4psb"><h1 id="_top" class="astro-bebwqqxs">Laborbiztonság és veszélyjelek</h1></div></div><div class="content-panel astro-a7po4psb"><div class="sl-container astro-a7po4psb"><div class="sl-markdown-content"><nav class="study-tools astro-df5goeu7" aria-label="Tanulási eszközök" data-pagefind-ignore><a href="/benedek9/" class="astro-df5goeu7">Kezdőlap</a><a href="/benedek9/komplex-termeszettudomany/" class="astro-df5goeu7">Komplex természettudomány</a><a href="/benedek9/pdf/komplex-termeszettudomany-laborbiztonsag-11df0cf4c3ca.pdf" download class="astro-df5goeu7">PDF letöltése</a><button type="button" id="study-answers" class="astro-df5goeu7">Válaszok megnyitása</button></nav><div class="sl-markdown-content study-content astro-df5goeu7" data-pagefind-body><p><img src="/benedek9/media/banner-30c4efdcbb6f1fa782018e973ea29848d64740020bd532e71ed7c6522226e0ce.webp" alt="Laborbiztonság és veszélyjelek" loading="eager" decoding="async" class="study-banner"></p>
+
+<span id="laborbiztonság-és-veszélyjelek" class="heading-alias"></span>
+<aside class="study-callout study-important" aria-label="Fontos">
+<p>⚡ <strong>Röviden</strong></p>
+<ul>
+<li>A laborban csak a tanár engedélyével és utasítása szerint kísérletezünk, és minden balesetet azonnal jelzünk.</li>
+<li>Vegyszert nem kóstolunk és nem szagolunk közvetlenül; melegítéskor a kémcső száját senki felé nem fordítjuk.</li>
+<li>A <strong>veszélyjel</strong> (piktogram) a vegyszer címkéjén szöveg nélkül mutatja meg, milyen jellegű veszélyt hordozhat az anyag.</li>
+<li>A vegyszerek GHS/CLP-címkézésében kilenc piktogramot használunk, piros keretes rombuszban; például láng = tűzveszélyes, koponya = mérgező, felkiáltójel = ártalmas, irritáló.</li>
+<li>Balesetnél azonnal jelezz; szembe fröccsent vegyszernél késlekedés nélkül kezdd az öblítést. Súlyos rosszullétnél vagy tűznél <strong>112</strong>. <a href="/benedek9/komplex-termeszettudomany/laborbiztonsag/#ha-baleset-t%C3%B6rt%C3%A9nik">Baleseti teendők</a>.<br><small class="study-label">➕ Codex🤖 kiegészítése</small></li>
+</ul>
+</aside>
+<p>📚 A fejezet összefoglalója: <a href="/benedek9/komplex-termeszettudomany/osszefoglalo-meres-megfigyeles/">Összefoglaló: Mérés, megfigyelés</a></p>
+<p>A természettudományos órákon kísérletezünk, és vegyszerekkel dolgozunk. Ezért az első óra a biztonságról szólt: füzetvezetés, balesetvédelem, rend, tisztaság és fegyelem a tanteremben.<sup><a href="#user-content-user-content-fn-kt-mertekegysegek-kiserletek-jegyzet" id="user-content-user-content-fnref-kt-mertekegysegek-kiserletek-jegyzet" data-footnote-ref="" aria-describedby="user-content-footnote-label">1</a></sup> Ez az oldal két dolgot foglal össze: hogyan viselkedjünk a laborban, és mit jelentenek a vegyszerek címkéjén a veszélyjelek. Magukról a kísérletekről a <a href="/benedek9/komplex-termeszettudomany/bemutato-kiserletek/">bemutató kísérletek</a> oldal szól. Forrás: <a href="/benedek9/komplex-termeszettudomany/2026-09-25-mertekegysegek-kiserletek-jegyzet/">a füzetjegyzet</a>.</p>
+<br>
+<h2 id="hogyan-viselkedjünk-a-laborban">Hogyan viselkedjünk a laborban?</h2>
+<aside class="study-callout study-note" aria-label="Megjegyzés">
+<p>A laborban szokásos alapszabályok:</p>
+<ul>
+<li>Csak a tanár engedélyével és az utasítása szerint kísérletezünk.</li>
+<li>A vegyszert nem kóstoljuk, és nem szagoljuk közvetlenül. Szagpróbát csak a tanár kifejezett utasítására, az általa bemutatott biztonságos módon végzünk; önállóan nem próbáljuk ki.</li>
+<li>A kísérlethez előírt védőeszközöket, például védőszemüveget viseljük.</li>
+<li>Melegítéskor a kémcső száját soha nem fordítjuk magunk vagy más felé, mert a forró folyadék kifröccsenhet.</li>
+<li>Minden balesetet, még a kicsit is, azonnal jelzünk a tanárnak.<br><small class="study-label">➕ Claude🤖 kiegészítése</small></li>
+</ul>
+</aside>
+<br>
+<h3 id="mielőtt-elkezded">Mielőtt elkezded</h3>
+<aside class="study-callout study-note" aria-label="Megjegyzés">
+<p>Még a vegyszerek használata előtt:</p>
+<ul>
+<li>Tudd, hol van a kijárat, a szemöblítő és az elsősegély-felszerelés; a használatukat a tanár mutassa meg előre.</li>
+<li>Vegyszeres vagy melegítéssel járó munkánál viselj megfelelő védőszemüveget, akkor is, ha csak nézed a bemutatót. A hétköznapi szemüveg nem helyettesíti a fröccsenés elleni védőszemüveget.</li>
+<li>Hosszú haj összefogva, zárt cipő; a laza ruhaujj és ékszer ne érjen lánghoz vagy vegyszerhez. A köpenyt és az adott anyaghoz megfelelő kesztyűt az előírás szerint használd.</li>
+<li>Olvasd el a címkét és az utasítást. Ismeretlen, felirat nélküli anyagot ne használj. A <strong>biztonsági adatlap</strong> az anyag veszélyeit és a védekezés, elsősegély szabályait részletezi; ezt a tanár a kísérlet előtt ellenőrzi.<sup><a href="#user-content-user-content-fn-acs-safety" id="user-content-user-content-fnref-acs-safety" data-footnote-ref="" aria-describedby="user-content-footnote-label">2</a></sup><br><small class="study-label">➕ Codex🤖 kiegészítése</small></li>
+</ul>
+</aside>
+<br>
+<h3 id="munka-közben-és-utána">Munka közben és utána</h3>
+<aside class="study-callout study-note" aria-label="Megjegyzés">
+<p>A környezetedben dolgozókra is vigyázz:</p>
+<ul>
+<li>A laborban ne egyél, ne igyál, és ne pipettázz szájjal: a folyadék felszívására eszköz való. Vegyszeres kézzel ne érj az arcodhoz; munka után moss kezet.</li>
+<li>Ne változtass önállóan az anyagokon, mennyiségeken vagy az eljáráson. Ha nem érted a feladatot, előbb kérdezz.</li>
+<li><strong>A forró üveg ránézésre lehet olyan, mint a hideg.</strong> Fogóval, az előírt módon kezeld; ne nyúlj át láng fölött. Repedt üvegedényt vagy sérült vezetékű eszközt ne használj; elektromos csatlakozóhoz csak száraz kézzel nyúlj.</li>
+<li>Kiömlött vegyszert és törött üveget azonnal jelents; ne kezdd önállóan eltakarítani. A maradék vegyszert ne öntsd vissza az eredeti üvegbe vagy engedély nélkül a lefolyóba: az előírt gyűjtőbe kerül.<sup><a href="#user-content-user-content-fn-school-safety" id="user-content-user-content-fnref-school-safety" data-footnote-ref="" aria-describedby="user-content-footnote-label">3</a></sup></li>
+<li><strong>Lezárt edényt ne melegíts:</strong> a növekvő nyomás szétrepesztheti. Égőt vagy melegítést ne hagyj felügyelet nélkül.<sup><a href="#user-content-user-content-fn-burner-safety" id="user-content-user-content-fnref-burner-safety" data-footnote-ref="" aria-describedby="user-content-footnote-label">4</a></sup><br><small class="study-label">➕ Codex🤖 kiegészítése</small></li>
+</ul>
+</aside>
+<br>
+<h2 id="ha-baleset-történik">Ha baleset történik</h2>
+<p><strong>Azonnal szólj a tanárnak. Az elsősegély és a segítségkérés párhuzamosan történjen: például te öblítesz, egy társad hív segítséget.</strong><sup><a href="#user-content-user-content-fn-poison-first-aid" id="user-content-user-content-fnref-poison-first-aid" data-footnote-ref="" aria-describedby="user-content-footnote-label">5</a></sup>
+<br><small class="study-label">➕ Codex🤖 kiegészítése</small></p>
+<h3 id="vegyszer-került-a-szembe-vagy-a-bőrre">Vegyszer került a szembe vagy a bőrre</h3>
+<aside class="study-callout study-note" aria-label="Megjegyzés">
+<p>A gyors eltávolítás csökkenti a vegyszerrel való érintkezés idejét:</p>
+<ul>
+<li><strong>Szembe fröccsenés:</strong> azonnal öblíts bő, tiszta, nem forró folyó vízzel, legalább <strong>20 percig</strong>. Tartsd nyitva a szemhéjadat; ha könnyen megy, vedd ki a kontaktlencsét, de emiatt ne késleltesd az öblítést.</li>
+<li><strong>Bőrre fröccsent vegyszeroldat:</strong> azonnal öblíts bő folyó vízzel legalább <strong>15 percig</strong>, és távolítsd el a szennyezett ruhát. Másnak segítve ne érj védelem nélkül a vegyszerhez.<sup><a href="#user-content-user-content-fn-poison-first-aid" id="user-content-user-content-fnref-poison-first-aid-2" data-footnote-ref="" aria-describedby="user-content-footnote-label">5</a></sup></li>
+<li><strong>Száraz vegyszerpor a bőrön:</strong> az öblítés előtt óvatosan távolítsd el a port, csupasz kézzel ne érj hozzá. A sérülést ne próbáld más vegyszerrel "semlegesíteni", és ne kend be krémmel.<sup><a href="#user-content-user-content-fn-chemical-burns" id="user-content-user-content-fnref-chemical-burns" data-footnote-ref="" aria-describedby="user-content-footnote-label">6</a></sup></li>
+</ul>
+<p>Az öblítési idő minimum, nem automatikus befejezési határ: az anyag és a sérülés miatt hosszabb öblítés is kellhet. A tanár kérjen szaksegítséget; maró sérülés vagy erős panasz esetén sürgős orvosi ellátás szükséges.<sup><a href="#user-content-user-content-fn-chemical-burns" id="user-content-user-content-fnref-chemical-burns-2" data-footnote-ref="" aria-describedby="user-content-footnote-label">6</a></sup><br><small class="study-label">➕ Codex🤖 kiegészítése</small></p>
+</aside>
+<br>
+<h3 id="belégzés-lenyelés-égés">Belégzés, lenyelés, égés</h3>
+<aside class="study-callout study-note" aria-label="Megjegyzés">
+<p>A teendő a sérülés módjától függ:</p>
+<ul>
+<li><strong>Gáz vagy gőz belégzése:</strong> menj biztonságosan friss levegőre; veszélyes légtérbe senki ne menjen vissza menteni vagy szellőztetni megfelelő védelem nélkül.<sup><a href="#user-content-user-content-fn-poison-first-aid" id="user-content-user-content-fnref-poison-first-aid-3" data-footnote-ref="" aria-describedby="user-content-footnote-label">5</a></sup></li>
+<li><strong>Vegyszer lenyelése:</strong> ne hánytasd magad vagy a sérültet. Azonnal kérjetek mérgezési tanácsot; az itatásról és más teendőről az anyag ismeretében szakember adjon utasítást. Eszméletlen ember szájába semmit ne adj.<sup><a href="#user-content-user-content-fn-red-cross-poison" id="user-content-user-content-fnref-red-cross-poison" data-footnote-ref="" aria-describedby="user-content-footnote-label">7</a></sup></li>
+<li><strong>Forró tárgy vagy folyadék okozta égés:</strong> hűtsd a sérült részt hűvös folyó vízzel <strong>20 percig</strong>; ne jéggel vagy kenőccsel. A bőrbe tapadt ruhát ne tépd le. A súlyos égés orvosi ellátást igényel.<sup><a href="#user-content-user-content-fn-heat-burns" id="user-content-user-content-fnref-heat-burns" data-footnote-ref="" aria-describedby="user-content-footnote-label">8</a></sup><br><small class="study-label">➕ Codex🤖 kiegészítése</small></li>
+</ul>
+</aside>
+<br>
+<h3 id="tűz-és-segítségkérés">Tűz és segítségkérés</h3>
+<aside class="study-callout study-note" aria-label="Megjegyzés">
+<p>Tűznél jelezz, és kövesd a tanár kiürítési utasítását; ne kezdj önálló oltásba. <strong>A víz nem általános oltószer:</strong> például égő nátriumhoz nem használható, mert a nátrium a vízzel hevesen reagál.<sup><a href="#user-content-user-content-fn-acs-safety" id="user-content-user-content-fnref-acs-safety-2" data-footnote-ref="" aria-describedby="user-content-footnote-label">2</a></sup></p>
+<p><strong>112:</strong> tűz, súlyos sérülés, nehézlégzés, görcs vagy eszméletlenség esetén azonnali segítség kell. Mondd el, <strong>hol vagytok, mi történt, hány sérült van és milyen az állapotuk</strong>; kövesd a híváskezelő utasításait. Ha valaki nem reagál és nem lélegzik normálisan, ezt rögtön mondd el: a mentésirányító az újraélesztésben is irányít.<sup><a href="#user-content-user-content-fn-help-112" id="user-content-user-content-fnref-help-112" data-footnote-ref="" aria-describedby="user-content-footnote-label">9</a></sup><sup><a href="#user-content-user-content-fn-oms-help" id="user-content-user-content-fnref-oms-help" data-footnote-ref="" aria-describedby="user-content-footnote-label">10</a></sup></p>
+<p><strong>Mérgezés vagy annak gyanúja Magyarországon:</strong> az <strong>ETTSZ</strong> (Egészségügyi Toxikológiai Tájékoztató Szolgálat) <strong>06 80 201 199</strong> száma éjjel-nappal, díjmentesen hívható. Ez mérgezési tanácsadás; életveszélynél a <strong>112 az első</strong>. Az anyag neve és címkéje segít a tájékoztatásban, de ezek megszerzése ne veszélyeztessen és ne késleltesse a segítségkérést.<sup><a href="#user-content-user-content-fn-ettsz" id="user-content-user-content-fnref-ettsz" data-footnote-ref="" aria-describedby="user-content-footnote-label">11</a></sup><br><small class="study-label">➕ Codex🤖 kiegészítése</small></p>
+</aside>
+<br>
+<h3 id="két-szabály-amely-otthon-is-fontos">Két szabály, amely otthon is fontos</h3>
+<aside class="study-callout study-note" aria-label="Megjegyzés">
+<p><strong>Tisztítószereket ne keverj.</strong> Hipó és savas tisztítószer együtt mérgező klórgázt fejleszthet; hipó és ammóniatartalmú szer keveréséből veszélyes klóraminok képződhetnek.<sup><a href="#user-content-user-content-fn-cleaners" id="user-content-user-content-fnref-cleaners" data-footnote-ref="" aria-describedby="user-content-footnote-label">12</a></sup></p>
+<p><strong>Vegyszert ne tölts italos palackba.</strong> A háztartási szerek maradjanak eredeti, feliratozott csomagolásukban, ételtől és italtól elkülönítve.<sup><a href="#user-content-user-content-fn-containers" id="user-content-user-content-fnref-containers" data-footnote-ref="" aria-describedby="user-content-footnote-label">13</a></sup><br><small class="study-label">➕ Codex🤖 kiegészítése</small></p>
+</aside>
+<br>
+<h2 id="mik-azok-a-veszélyjelek">Mik azok a veszélyjelek?</h2>
+<p><small class="study-label">🗓️ Óra: ? (2026-09-01 után, legkésőbb 2026-09-25)</small></p>
+<aside class="study-callout study-tip" aria-label="Magyarázat">
+<p>A veszélyjel (más néven <strong>piktogram</strong>) egy kis ábra a vegyszer címkéjén. Szöveg nélkül, egy pillantással megmutatja, milyen jellegű veszélyt hordozhat az anyag. Otthon is találkozol velük, például a tisztítószeres és a lefolyótisztító flakonokon.<br><small class="study-label">💡 Claude🤖 magyarázata</small></p>
+</aside>
+<p>A füzetben rajzolt jelek: <strong>tűzveszélyes, robbanásveszély, mérgező, környezetre ártalmas, ingerlő hatású</strong> (X), és egy felirat nélküli jel, amelyen kémcsőből folyadék csöpög egy kézre.<sup><a href="#user-content-user-content-fn-kt-mertekegysegek-kiserletek-jegyzet" id="user-content-user-content-fnref-kt-mertekegysegek-kiserletek-jegyzet-2" data-footnote-ref="" aria-describedby="user-content-footnote-label">1</a></sup></p>
+<aside class="study-callout study-note" aria-label="Megjegyzés">
+<p>A kézre és fémre csöpögő folyadék a <strong>maró hatás</strong> jelképe. A konkrét anyag a besorolásától függően bőrmaró, súlyos szemkárosodást okozó vagy fémre korrozív lehet; a jel nem állítja, hogy mindhárom egyszerre igaz.<sup><a href="#user-content-user-content-fn-ghs" id="user-content-user-content-fnref-ghs" data-footnote-ref="" aria-describedby="user-content-footnote-label">14</a></sup><br><small class="study-label">➕ Codex🤖 kiegészítése</small></p>
+</aside>
+<br>
+<h2 id="a-vegyszercímkék-kilenc-ghsclp-piktogramja">A vegyszercímkék kilenc GHS/CLP-piktogramja</h2>
+<p>A <strong>GHS</strong> a vegyi veszélyek globálisan harmonizált osztályozási és jelölési rendszere, a <strong>CLP</strong> pedig az osztályozás, címkézés és csomagolás uniós szabályozása: a vegyszercímkék egységes jelei laborban és otthon is segítik a veszély felismerését, míg árufuvarozáskor külön szállítási jelölések is használatosak.<sup><a href="#user-content-user-content-fn-legacy-x" id="user-content-user-content-fnref-legacy-x" data-footnote-ref="" aria-describedby="user-content-footnote-label">15</a></sup><sup><a href="#user-content-user-content-fn-clp" id="user-content-user-content-fnref-clp" data-footnote-ref="" aria-describedby="user-content-footnote-label">16</a></sup></p>
+<p>A piktogram a <strong>veszély fajtáját</strong> jelzi. A pontos hatást a címke veszélyre utaló mondataiból tudjuk meg; a kép önmagában nem mondja meg, mennyire veszélyes egy adott használat. Egy címkén több piktogram is szerepelhet.<sup><a href="#user-content-user-content-fn-ghs" id="user-content-user-content-fnref-ghs-2" data-footnote-ref="" aria-describedby="user-content-footnote-label">14</a></sup><sup><a href="#user-content-user-content-fn-clp" id="user-content-user-content-fnref-clp-2" data-footnote-ref="" aria-describedby="user-content-footnote-label">16</a></sup></p>
+<p>Az alábbi jelek az eredeti GHS-ábrák; a jelentések rövid példák, nem teljes besorolási listák.<sup><a href="#user-content-user-content-fn-ghs" id="user-content-user-content-fnref-ghs-3" data-footnote-ref="" aria-describedby="user-content-footnote-label">14</a></sup></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Piktogram</th><th>Mire figyelmeztet?</th></tr></thead><tbody><tr><td><img src="/benedek9/media/03561d4e5231ff535bd963b880255d58689f0ff64b479031a10880e22dbb94de.gif" alt="GHS01: Felrobbanó bomba" width="110" loading="lazy" decoding="async" class="study-figure"></td><td><strong>Felrobbanó bomba · GHS01</strong><br>Robbanásveszély. Például robbanóanyagok, egyes önreaktív anyagok és szerves peroxidok.</td></tr><tr><td><img src="/benedek9/media/f6f5e78dfb8f446f3391d27122a665597af74c227cd13790bb19fa59e837fae9.gif" alt="GHS02: Láng" width="110" loading="lazy" decoding="async" class="study-figure"></td><td><strong>Láng · GHS02</strong><br>Tűzveszély. Például tűzveszélyes folyadékok vagy gázok.</td></tr><tr><td><img src="/benedek9/media/b3e962f877c15ab7f88445f5cd452ff318d20fc34e924a6e4726065cc4855aa0.gif" alt="GHS03: Láng egy kör fölött" width="110" loading="lazy" decoding="async" class="study-figure"></td><td><strong>Láng egy kör fölött · GHS03</strong><br>Oxidáló hatás: tüzet okozhat vagy fokozhatja az égést.</td></tr><tr><td><img src="/benedek9/media/bad1c0e0832f721c6f1886d085c150d15700801c19fbd95a542f856d27f5eb8b.gif" alt="GHS04: Gázpalack" width="110" loading="lazy" decoding="async" class="study-figure"></td><td><strong>Gázpalack · GHS04</strong><br>Nyomás alatt lévő gáz.</td></tr><tr><td><img src="/benedek9/media/5adc171c4ccaf6239ac544a870205712caad24c917045c64728491067086bc99.gif" alt="GHS05: Kézre és fémre csöpögő folyadék" width="110" loading="lazy" decoding="async" class="study-figure"></td><td><strong>Kézre és fémre csöpögő folyadék · GHS05</strong><br>Maró hatás: bőrmarás, súlyos szemkárosodás vagy fémkorrózió.</td></tr><tr><td><img src="/benedek9/media/e7787b7404cdf72b3c70b711b12b30b7e6b3c9f8358269d132eb6ebf1db46d4e.gif" alt="GHS06: Koponya és keresztbe tett csontok" width="110" loading="lazy" decoding="async" class="study-figure"></td><td><strong>Koponya és keresztbe tett csontok · GHS06</strong><br>Súlyos akut mérgező hatás: rövid idejű érintkezés is mérgezést vagy halált okozhat.</td></tr><tr><td><img src="/benedek9/media/61dced7f35166b9733b0291b297383eae1f8d0da0fe5a6ee506d51bcdb6b2c85.gif" alt="GHS07: Felkiáltójel" width="110" loading="lazy" decoding="async" class="study-figure"></td><td><strong>Felkiáltójel · GHS07</strong><br>Például ártalmas akut hatás, bőr- vagy szemirritáció, illetve allergiás bőrreakció.</td></tr><tr><td><img src="/benedek9/media/beecccaeef3ed4388d99155497c81caa78b7b0f13738cde1644061d3b88ba616.gif" alt="GHS08: Emberi felsőtest csillaggal a mellkason" width="110" loading="lazy" decoding="async" class="study-figure"></td><td><strong>Emberi felsőtest csillaggal a mellkason · GHS08</strong><br>Súlyos egészségi veszély. Például rákkeltő hatás, szervkárosítás vagy légúti allergia.</td></tr><tr><td><img src="/benedek9/media/f8cb43b898d6a18804a8e50a8d26e4e6e2c6539af015d6cd73fb6b5af68babab.gif" alt="GHS09: Kiszáradt fa és hal" width="110" loading="lazy" decoding="async" class="study-figure"></td><td><strong>Kiszáradt fa és hal · GHS09</strong><br>A vízi környezetre veszélyes.</td></tr></tbody></table>
+<p><small class="study-label">➕ Codex🤖 kiegészítése</small></p>
+
+<br>
+<h3 id="megjegyzés-a-füzet-jelöléséről">Megjegyzés a füzet jelöléséről</h3>
+<p>A <span>4. füzetfotón (nem nyilvános forrás)</span> <strong>X áll "ingerlő hatású" felirattal</strong>: ez egy <strong>elavult jelölés</strong>, nem a mai címkézés mintája.<sup><a href="#user-content-user-content-fn-kt-mertekegysegek-kiserletek-jegyzet" id="user-content-user-content-fnref-kt-mertekegysegek-kiserletek-jegyzet-3" data-footnote-ref="" aria-describedby="user-content-footnote-label">1</a></sup></p>
+<p>A régi hivatalos X-jel és két mai megfelelője <strong>a jelzett veszély szerint</strong>:<sup><a href="#user-content-user-content-fn-eye-labels" id="user-content-user-content-fnref-eye-labels" data-footnote-ref="" aria-describedby="user-content-footnote-label">17</a></sup></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Régi jel</th><th>Mai jel</th></tr></thead><tbody><tr><td><img src="/benedek9/media/d2dda5312ea4e0174295f63c73f60d3f5d7802f012ff10713bcb0293cc7535a6.gif" alt="Régi irritáló jel: fekete X narancssárga négyzetben" width="80" loading="lazy" decoding="async" class="study-figure"><br><strong>Xi: irritáló.</strong> Szemirritációra is használták.</td><td><img src="/benedek9/media/61dced7f35166b9733b0291b297383eae1f8d0da0fe5a6ee506d51bcdb6b2c85.gif" alt="GHS07: felkiáltójel piros rombuszban" width="80" loading="lazy" decoding="async" class="study-figure"><br><strong>Szemirritáció:</strong> felkiáltójel (GHS07).</td></tr><tr><td><img src="/benedek9/media/d2dda5312ea4e0174295f63c73f60d3f5d7802f012ff10713bcb0293cc7535a6.gif" alt="Ugyanaz a régi X-jel, súlyos szemkárosodás veszélyére is" width="80" loading="lazy" decoding="async" class="study-figure"><br><strong>Xi: irritáló.</strong> Súlyos szemkárosodás veszélyére is ezt használták.</td><td><img src="/benedek9/media/5adc171c4ccaf6239ac544a870205712caad24c917045c64728491067086bc99.gif" alt="GHS05: kézre és fémre csöpögő folyadék piros rombuszban" width="80" loading="lazy" decoding="async" class="study-figure"><br><strong>Súlyos szemkárosodás:</strong> a maró hatás piktogramja (GHS05).</td></tr></tbody></table>
+<p>Ugyanez a régi X <strong>Xn: ártalmas</strong> jelentéssel is szerepelt, például lenyelve ártalmas anyagokon.<sup><a href="#user-content-user-content-fn-legacy-x" id="user-content-user-content-fnref-legacy-x-2" data-footnote-ref="" aria-describedby="user-content-footnote-label">15</a></sup> A képek hivatalos jelölések; a füzetben csak az X rajza és az "ingerlő hatású" felirat áll.
+<br><small class="study-label">➕ Codex🤖 kiegészítése</small></p>
+
+<aside class="study-callout study-warning" aria-label="Figyelmeztetés">
+<p>A régi <strong>X</strong> jelből nem lehet automatikusan kiválasztani egy mai piktogramot. A felkiáltójel többek között irritáló hatást jelölhet, de a mai jelöléshez az anyag tényleges veszélyességi besorolását kell ismerni.<sup><a href="#user-content-user-content-fn-clp" id="user-content-user-content-fnref-clp-3" data-footnote-ref="" aria-describedby="user-content-footnote-label">16</a></sup><br><small class="study-label">⚠️ Codex🤖 javítása</small></p>
+</aside>
+<br>
+<h2 id="amit-érdemes-megjegyezni">Amit érdemes megjegyezni</h2>
+<aside class="study-callout study-tip" aria-label="Magyarázat">
+<p>Mielőtt egy vegyszerhez nyúlsz, nézd meg a címkéjét és rajta a veszélyjeleket. A laborban mindig a tanár utasítása szerint dolgozz, és minden balesetet azonnal jelezz.<br><small class="study-label">💡 Claude🤖 magyarázata</small></p>
+</aside>
+<br>
+<h2 id="-kérdezd-ki-magad">🧠 Kérdezd ki magad</h2>
+<p><em>Saját kérdések (nem a füzetből) - előbb próbáld fejből, aztán nyisd le a választ.</em></p>
+<details data-pagefind-ignore=""><summary>1. Mikor végezhetsz szagpróbát egy vegyszerrel?</summary>
+<dl><dd>
+<br>
+<p>Csak a tanár kifejezett utasítására, az általa bemutatott biztonságos módon. Ismeretlen vegyszert önállóan nem szagolunk meg, közvetlenül nem hajolunk fölé.</p>
+<p class="study-spacer"><br><br></p>
+</dd></dl>
+</details>
+<details data-pagefind-ignore=""><summary>2. Mire figyelj, amikor kémcsőben melegítesz valamit?</summary>
+<dl><dd>
+<br>
+<p>A kémcső száját soha nem fordítjuk magunk vagy más felé, mert a forró folyadék kifröccsenhet.</p>
+<p class="study-spacer"><br><br></p>
+</dd></dl>
+</details>
+<details data-pagefind-ignore=""><summary>3. Mit teszel, ha vegyszer kerül a szemedbe vagy a bőrödre?</summary>
+<dl><dd>
+<br>
+<p>Azonnal segítséget kérsz, közben megkezded az öblítést: szembe fröccsenésnél legalább 20 percig, bőrre fröccsent vegyszeroldatnál legalább 15 percig. Szakember hosszabb öblítést is előírhat. A <a href="#vegyszer-ker%C3%BClt-a-szembe-vagy-a-b%C5%91rre">részletes teendők</a> az eltérő eseteket is tisztázzák.
+<br><small class="study-label">➕ Codex🤖 kiegészítése</small></p>
+<p class="study-spacer"><br><br></p>
+</dd></dl>
+</details>
+<details data-pagefind-ignore=""><summary>4. Mi az a veszélyjel?</summary>
+<dl><dd>
+<br>
+<p>Egy kis ábra (piktogram) a vegyszer címkéjén, amely szöveg nélkül, egy pillantással megmutatja, milyen jellegű veszélyt hordozhat az anyag.</p>
+<p class="study-spacer"><br><br></p>
+</dd></dl>
+</details>
+<details data-pagefind-ignore=""><summary>5. Mit jelent a koponya két keresztbe tett csonttal és a kézre és fémre csöpögő folyadék?</summary>
+<dl><dd>
+<br>
+<p>A koponya súlyos akut mérgező hatást jelez. A kézre és fémre csöpögő folyadék bőrmarást, súlyos szemkárosodást vagy fémkorróziót jelölhet. A konkrét veszélyt a címke szövege pontosítja.</p>
+<p class="study-spacer"><br><br></p>
+</dd></dl>
+</details>
+<details data-pagefind-ignore=""><summary>6. Mit jelent a füzet X jele, és miért nem cserélhető automatikusan felkiáltójelre?</summary>
+<dl><dd>
+<br>
+<p>A füzet "ingerlő hatású" felirata az irritáló hatást nevezi meg. A régi rendszerben az X ábra Xi mellett irritálót, Xn mellett ártalmast jelentett. A szemirritációhoz ma felkiáltójel, a súlyos szemkárosodáshoz a maró hatás piktogramja tartozik, pedig régen mindkettőre az Xi jelét használták. Ezért az X önmagában nem elég a mai jel kiválasztásához.<sup><a href="#user-content-user-content-fn-eye-labels" id="user-content-user-content-fnref-eye-labels-2" data-footnote-ref="" aria-describedby="user-content-footnote-label">17</a></sup></p>
+<p class="study-spacer"><br><br></p>
+</dd></dl>
+</details>
+<details data-pagefind-ignore=""><summary>7. Mit teszel kiömlött vegyszer vagy törött üveg esetén?</summary>
+<dl><dd>
+<br>
+<p>Azonnal szólsz a tanárnak, és nem kezdesz önálló takarításba. A megfelelő eszközt és eljárást ő határozza meg.</p>
+<p class="study-spacer"><br><br></p>
+</dd></dl>
+</details>
+<details data-pagefind-ignore=""><summary>8. Melyik számot hívjuk életveszélynél, és melyiket mérgezési tanácsért?</summary>
+<dl><dd>
+<br>
+<p>Életveszélynél a 112-t. Magyarországon mérgezés vagy annak gyanúja esetén az ETTSZ: 06 80 201 199, éjjel-nappal. Az ETTSZ nem helyettesíti a sürgős mentőhívást.</p>
+<p class="study-spacer"><br><br></p>
+</dd></dl>
+</details>
+<section data-footnotes="" class="footnotes"><h2 class="sr-only" id="user-content-footnote-label">Források</h2>
+<ol>
+<li id="user-content-user-content-fn-kt-mertekegysegek-kiserletek-jegyzet">
+<p>Komplex természettudomány füzet, 1-4. óra (évelejei tudnivalók, mértékegységek, mérés és megfigyelés), öt fotó, mentve 2026-09-25. <a href="#user-content-user-content-fnref-kt-mertekegysegek-kiserletek-jegyzet" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a> <a href="#user-content-user-content-fnref-kt-mertekegysegek-kiserletek-jegyzet-2" data-footnote-backref="" aria-label="Back to reference 1-2" class="data-footnote-backref">↩<sup>2</sup></a> <a href="#user-content-user-content-fnref-kt-mertekegysegek-kiserletek-jegyzet-3" data-footnote-backref="" aria-label="Back to reference 1-3" class="data-footnote-backref">↩<sup>3</sup></a></p>
+</li>
+<li id="user-content-user-content-fn-acs-safety">
+<p><a href="https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/acs-secondary-safety-guidelines.pdf">ACS: Guidelines for Chemical Laboratory Safety in Secondary Schools</a>. Ellenőrizve: 2026-09-29. <a href="#user-content-user-content-fnref-acs-safety" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a> <a href="#user-content-user-content-fnref-acs-safety-2" data-footnote-backref="" aria-label="Back to reference 2-2" class="data-footnote-backref">↩<sup>2</sup></a></p>
+</li>
+<li id="user-content-user-content-fn-school-safety">
+<p><a href="https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/student-safety-rules/">St. Vrain Valley Schools: Student Safety Rules</a>. Ellenőrizve: 2026-09-29. <a href="#user-content-user-content-fnref-school-safety" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-user-content-fn-burner-safety">
+<p><a href="https://ehs.usc.edu/research/lab/laboratory-burner-safety/">USC: Laboratory Burner Safety</a>. Ellenőrizve: 2026-09-29. <a href="#user-content-user-content-fnref-burner-safety" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-user-content-fn-poison-first-aid">
+<p><a href="https://www.poison.org/first-aid-for-poisonings">Poison Control: First aid guidelines</a>. Ellenőrizve: 2026-09-29. <a href="#user-content-user-content-fnref-poison-first-aid" data-footnote-backref="" aria-label="Back to reference 5" class="data-footnote-backref">↩</a> <a href="#user-content-user-content-fnref-poison-first-aid-2" data-footnote-backref="" aria-label="Back to reference 5-2" class="data-footnote-backref">↩<sup>2</sup></a> <a href="#user-content-user-content-fnref-poison-first-aid-3" data-footnote-backref="" aria-label="Back to reference 5-3" class="data-footnote-backref">↩<sup>3</sup></a></p>
+</li>
+<li id="user-content-user-content-fn-chemical-burns">
+<p><a href="https://www.nhs.uk/conditions/acid-and-chemical-burns/">NHS: Acid and chemical burns</a>. Ellenőrizve: 2026-09-29. <a href="#user-content-user-content-fnref-chemical-burns" data-footnote-backref="" aria-label="Back to reference 6" class="data-footnote-backref">↩</a> <a href="#user-content-user-content-fnref-chemical-burns-2" data-footnote-backref="" aria-label="Back to reference 6-2" class="data-footnote-backref">↩<sup>2</sup></a></p>
+</li>
+<li id="user-content-user-content-fn-red-cross-poison">
+<p>American Red Cross: <a href="https://www.redcross.org/take-a-class/resources/learn-first-aid/poison-exposure">Poison Exposure</a>. Lenyelésnél ne hánytassunk, enni-inni csak szakutasításra adjunk; ellenőrizve 2026-09-29. <a href="#user-content-user-content-fnref-red-cross-poison" data-footnote-backref="" aria-label="Back to reference 7" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-user-content-fn-heat-burns">
+<p><a href="https://www.nhs.uk/conditions/burns-and-scalds/">NHS: Burns and scalds</a>. Ellenőrizve: 2026-09-29. <a href="#user-content-user-content-fnref-heat-burns" data-footnote-backref="" aria-label="Back to reference 8" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-user-content-fn-help-112">
+<p><a href="https://www.police.hu/hu/112">Rendőrség: Mi a 112-es segélyhívószám?</a>. Ellenőrizve: 2026-09-29. <a href="#user-content-user-content-fnref-help-112" data-footnote-backref="" aria-label="Back to reference 9" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-user-content-fn-oms-help">
+<p>Országos Mentőszolgálat: <a href="https://www.mentok.hu/ha-baj-van/ki-es-mikor-hivhat-mentot/">Ki és mikor hívhat mentőt?</a>. Segélyhívás és telefonos elsősegély-irányítás; ellenőrizve 2026-09-29. <a href="#user-content-user-content-fnref-oms-help" data-footnote-backref="" aria-label="Back to reference 10" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-user-content-fn-ettsz">
+<p><a href="https://nngyk.gov.hu/hu/?catid=536&#x26;id=3720:kemiai-biztonsagi-es-kompetens-hatosagi-foosztaly&#x26;view=article">NNGYK: Egészségügyi Toxikológiai Tájékoztató Szolgálat</a>. Ellenőrizve: 2026-09-29. <a href="#user-content-user-content-fnref-ettsz" data-footnote-backref="" aria-label="Back to reference 11" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-user-content-fn-cleaners">
+<p><a href="https://www.poison.org/articles/spring-cleaning">Poison Control: Top tips for a safe spring cleaning</a>. Ellenőrizve: 2026-09-29. <a href="#user-content-user-content-fnref-cleaners" data-footnote-backref="" aria-label="Back to reference 12" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-user-content-fn-containers">
+<p><a href="https://www.poison.org/articles/container-transfers">Poison Control: Why container transfers are dangerous</a>. Ellenőrizve: 2026-09-29. <a href="#user-content-user-content-fnref-containers" data-footnote-backref="" aria-label="Back to reference 13" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-user-content-fn-ghs">
+<p>PubChem / NCBI / NLM: <a href="https://pubchem.ncbi.nlm.nih.gov/ghs/ghs_10.html">GHS Classification (Rev. 10, 2023), Hazard Class Pictograms</a>. A kilenc piktogram változtatás nélküli forrása; megtekintve 2026-09-29. <a href="#user-content-user-content-fnref-ghs" data-footnote-backref="" aria-label="Back to reference 14" class="data-footnote-backref">↩</a> <a href="#user-content-user-content-fnref-ghs-2" data-footnote-backref="" aria-label="Back to reference 14-2" class="data-footnote-backref">↩<sup>2</sup></a> <a href="#user-content-user-content-fnref-ghs-3" data-footnote-backref="" aria-label="Back to reference 14-3" class="data-footnote-backref">↩<sup>3</sup></a></p>
+</li>
+<li id="user-content-user-content-fn-legacy-x">
+<p>Európai Bizottság, <a href="https://sampling-manual-customs-taxation.ec.europa.eu/health-and-safety/hazardous-substances/hazard-symbols_en">SAMANCTA: Hazard symbols</a>, 2-3. rész: GHS és régi Xi/Xn jelölés; a régi X ábrája változtatás nélkül, © European Union, <a href="https://european-union.europa.eu/legal-notice_en">CC BY 4.0</a>. A régi kategóriák magyarázatához: <a href="https://www.legislation.gov.uk/uksi/2009/716/pdfs/uksi_20090716_en.pdf">CHIP 2009, Schedule 1</a>, történeti definíciók; nem mai EU-besorolási útmutató. <a href="#user-content-user-content-fnref-legacy-x" data-footnote-backref="" aria-label="Back to reference 15" class="data-footnote-backref">↩</a> <a href="#user-content-user-content-fnref-legacy-x-2" data-footnote-backref="" aria-label="Back to reference 15-2" class="data-footnote-backref">↩<sup>2</sup></a></p>
+</li>
+<li id="user-content-user-content-fn-clp">
+<p>ECHA: <a href="https://echa.europa.eu/web/guest/regulations/clp/labelling">CLP-címkézés</a>; 1272/2008/EK rendelet, <a href="https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02008R1272-20260701">a 2026-07-01-i egységes szerkezetű szöveg</a>, I. és V. melléklet. A kép mellett a teljes veszélyességi besorolás és a címke szövege is szükséges. <a href="#user-content-user-content-fnref-clp" data-footnote-backref="" aria-label="Back to reference 16" class="data-footnote-backref">↩</a> <a href="#user-content-user-content-fnref-clp-2" data-footnote-backref="" aria-label="Back to reference 16-2" class="data-footnote-backref">↩<sup>2</sup></a> <a href="#user-content-user-content-fnref-clp-3" data-footnote-backref="" aria-label="Back to reference 16-3" class="data-footnote-backref">↩<sup>3</sup></a></p>
+</li>
+<li id="user-content-user-content-fn-eye-labels">
+<p>HSENI: <a href="https://www.hseni.gov.uk/cleaning-products-and-corrosive-pictogram">Cleaning products and the corrosive pictogram</a>. Két konkrét példa: szemirritáció (régi R36, mai H319) és súlyos szemkárosodás (régi R41, mai H318); nem teljes átváltási táblázat. <a href="#user-content-user-content-fnref-eye-labels" data-footnote-backref="" aria-label="Back to reference 17" class="data-footnote-backref">↩</a> <a href="#user-content-user-content-fnref-eye-labels-2" data-footnote-backref="" aria-label="Back to reference 17-2" class="data-footnote-backref">↩<sup>2</sup></a></p>
+</li>
+</ol>
+</section></div><aside class="study-feedback astro-df5goeu7" data-pagefind-ignore><a href="https://github.com/school-notes-hub/benedek9/issues/new?template=bejelentes.yml&amp;page=https%3A%2F%2Fschool-notes-hub.github.io%2Fbenedek9%2Fkomplex-termeszettudomany%2Flaborbiztonsag%2F" class="astro-df5goeu7">Hibát találtál? Jelezd!</a><p class="astro-df5goeu7">Tartalmi, megjelenítési vagy szerzői jogi kérdést is jelezhetsz. A GitHub-bejelentés nyilvános, és bejelentkezést igényel; személyes adatot vagy nem nyilvános tananyagot ne csatolj.</p></aside><nav class="study-pagination astro-df5goeu7" aria-label="Tanulási sorrend" data-pagefind-ignore><a href="/benedek9/komplex-termeszettudomany/osszefoglalo-meres-megfigyeles/" class="astro-df5goeu7"><small class="astro-df5goeu7">Előző</small>Összefoglaló: Mérés, megfigyelés</a><a href="/benedek9/komplex-termeszettudomany/bemutato-kiserletek/" class="astro-df5goeu7"><small class="astro-df5goeu7">Következő</small>Bemutató kísérletek - mérés, megfigyelés</a></nav></div><footer class="sl-flex astro-ddtxxk7k"><div class="meta sl-flex astro-ddtxxk7k"><p>Utoljára frissítve: <time datetime="2026-10-03T11:17:40.000Z">2026. okt. 3.</time></p></div><div class="pagination-links print:hidden astro-b5raizh3" dir="ltr"></div></footer></div></div></main></div><aside class="right-sidebar-container print:hidden astro-sfifgsse"><div class="right-sidebar astro-sfifgsse"><div class="lg:sl-hidden astro-qok35upx"><mobile-starlight-toc data-min-h="2" data-max-h="3" class="astro-66cqc7ze"><nav aria-labelledby="starlight__on-this-page--mobile" class="astro-66cqc7ze"><details id="starlight__mobile-toc" class="astro-66cqc7ze"><summary id="starlight__on-this-page--mobile" class="sl-flex astro-66cqc7ze"><span class="toggle sl-flex astro-66cqc7ze">Ezen az oldalon<svg aria-hidden="true" class="caret astro-66cqc7ze astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1rem;"><path d="m14.83 11.29-4.24-4.24a1 1 0 1 0-1.42 1.41L12.71 12l-3.54 3.54a1 1 0 0 0 0 1.41 1 1 0 0 0 .71.29 1 1 0 0 0 .71-.29l4.24-4.24a1.002 1.002 0 0 0 0-1.42Z"/></svg></span><span class="display-current astro-66cqc7ze"></span></summary><div class="dropdown astro-66cqc7ze"><ul class="isMobile astro-jugkfwgx" style="--depth: 0;"><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#_top" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Tartalom</span></a></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#hogyan-viselkedjünk-a-laborban" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Hogyan viselkedjünk a laborban?</span></a><ul class="isMobile astro-jugkfwgx" style="--depth: 1;"><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#mielőtt-elkezded" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Mielőtt elkezded</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#munka-közben-és-utána" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Munka közben és utána</span></a></li></ul></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#ha-baleset-történik" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Ha baleset történik</span></a><ul class="isMobile astro-jugkfwgx" style="--depth: 1;"><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#vegyszer-került-a-szembe-vagy-a-bőrre" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Vegyszer került a szembe vagy a bőrre</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#belégzés-lenyelés-égés" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Belégzés, lenyelés, égés</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#tűz-és-segítségkérés" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Tűz és segítségkérés</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#két-szabály-amely-otthon-is-fontos" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Két szabály, amely otthon is fontos</span></a></li></ul></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#mik-azok-a-veszélyjelek" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Mik azok a veszélyjelek?</span></a></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#a-vegyszercímkék-kilenc-ghsclp-piktogramja" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">A vegyszercímkék kilenc GHS/CLP-piktogramja</span></a><ul class="isMobile astro-jugkfwgx" style="--depth: 1;"><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#megjegyzés-a-füzet-jelöléséről" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Megjegyzés a füzet jelöléséről</span></a></li></ul></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#amit-érdemes-megjegyezni" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Amit érdemes megjegyezni</span></a></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#-kérdezd-ki-magad" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">🧠 Kérdezd ki magad</span></a></li></ul></div></details></nav></mobile-starlight-toc><script type="module" src="/benedek9/_astro/MobileTableOfContents.astro_astro_type_script_index_0_lang.C3fM4Kra.js"></script></div><div class="right-sidebar-panel sl-hidden lg:sl-block astro-qok35upx"><div class="sl-container astro-qok35upx"><starlight-toc data-min-h="2" data-max-h="3"><nav aria-labelledby="starlight__on-this-page"><h2 id="starlight__on-this-page">Ezen az oldalon</h2><ul class="astro-jugkfwgx" style="--depth: 0;"><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#_top" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Tartalom</span></a></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#hogyan-viselkedjünk-a-laborban" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Hogyan viselkedjünk a laborban?</span></a><ul class="astro-jugkfwgx" style="--depth: 1;"><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#mielőtt-elkezded" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Mielőtt elkezded</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#munka-közben-és-utána" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Munka közben és utána</span></a></li></ul></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#ha-baleset-történik" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Ha baleset történik</span></a><ul class="astro-jugkfwgx" style="--depth: 1;"><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#vegyszer-került-a-szembe-vagy-a-bőrre" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Vegyszer került a szembe vagy a bőrre</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#belégzés-lenyelés-égés" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Belégzés, lenyelés, égés</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#tűz-és-segítségkérés" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Tűz és segítségkérés</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#két-szabály-amely-otthon-is-fontos" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Két szabály, amely otthon is fontos</span></a></li></ul></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#mik-azok-a-veszélyjelek" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Mik azok a veszélyjelek?</span></a></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#a-vegyszercímkék-kilenc-ghsclp-piktogramja" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">A vegyszercímkék kilenc GHS/CLP-piktogramja</span></a><ul class="astro-jugkfwgx" style="--depth: 1;"><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#megjegyzés-a-füzet-jelöléséről" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Megjegyzés a füzet jelöléséről</span></a></li></ul></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#amit-érdemes-megjegyezni" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Amit érdemes megjegyezni</span></a></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#-kérdezd-ki-magad" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">🧠 Kérdezd ki magad</span></a></li></ul></nav></starlight-toc><script type="module" src="/benedek9/_astro/TableOfContents.astro_astro_type_script_index_0_lang.BpJaGz7G.js"></script></div></div></div></aside></div></div></div></body></html><script type="module">var e=document.querySelector(`#study-answers`),t=[...document.querySelectorAll(`.study-content details`)];e&&(e.hidden=t.length===0,e.addEventListener(`click`,()=>{let n=t.some(e=>!e.open);t.forEach(e=>e.open=n),e.textContent=n?`Válaszok becsukása`:`Válaszok megnyitása`})),document.querySelectorAll(`.study-content img`).forEach(e=>{if(e.closest(`a`))return;let t=document.createElement(`a`);t.href=e.src,t.target=`_blank`,t.rel=`noopener`,t.setAttribute(`aria-label`,`${e.alt||`Ábra`} — megnyitás nagy méretben`),e.replaceWith(t),t.append(e)});</script>

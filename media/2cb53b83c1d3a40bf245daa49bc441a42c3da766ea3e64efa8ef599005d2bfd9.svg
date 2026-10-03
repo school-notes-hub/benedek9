@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <title>Kristályvíz: melegítésre a kék rézgálic fehér lesz, a rózsaszín kobalt-klorid kék</title>
+  <defs><marker id="m" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e2733d"/></marker></defs>
+  <rect width="820" height="380" rx="18" fill="#fffaf0"/>
+  <text x="410" y="44" text-anchor="middle" font-size="24" font-weight="800" fill="#3b2f2f">Ha a kristályvíz elmegy, a szín megváltozik</text>
+  <g font-size="16" font-weight="700" fill="#3b2f2f" text-anchor="middle"><text x="200" y="90">vízzel (kristályvizes)</text><text x="620" y="90">víz nélkül</text></g>
+  
+  <g transform="translate(0,110)">
+    <path d="M160,0 v70 a40,40 0 0 0 80,0 v-70" fill="#ffffff" stroke="#5a6b78" stroke-width="3"/><path d="M163,50 v20 a37,37 0 0 0 74,0 v-20 z" fill="#2f7ed8"/>
+    <path d="M580,0 v70 a40,40 0 0 0 80,0 v-70" fill="#ffffff" stroke="#5a6b78" stroke-width="3"/><path d="M583,50 v20 a37,37 0 0 0 74,0 v-20 z" fill="#f2f2f2" stroke="#ccc"/>
+    <line x1="280" y1="60" x2="540" y2="60" stroke="#e2733d" stroke-width="4" marker-end="url(#m)"/>
+    <text x="410" y="48" text-anchor="middle" font-size="15" fill="#e2733d" font-weight="700">melegítés</text>
+    <text x="410" y="82" text-anchor="middle" font-size="13" fill="#555">(vízzel visszafelé is működik)</text>
+    <text x="200" y="140" text-anchor="middle" font-size="15" fill="#2f7ed8" font-weight="700">rézgálic: kék</text>
+    <text x="620" y="140" text-anchor="middle" font-size="15" fill="#777" font-weight="700">réz(II)-szulfát: fehér</text>
+  </g>
+  
+  <g transform="translate(0,270)">
+    <rect x="140" y="0" width="120" height="60" rx="6" fill="#fff" stroke="#5a6b78" stroke-width="2"/><text x="200" y="40" text-anchor="middle" font-size="26" font-weight="800" fill="#ff7eb6">abc</text>
+    <rect x="560" y="0" width="120" height="60" rx="6" fill="#fff" stroke="#5a6b78" stroke-width="2"/><text x="620" y="40" text-anchor="middle" font-size="26" font-weight="800" fill="#3f5fd6">abc</text>
+    <line x1="280" y1="30" x2="540" y2="30" stroke="#e2733d" stroke-width="4" marker-end="url(#m)"/>
+    <text x="410" y="20" text-anchor="middle" font-size="15" fill="#e2733d" font-weight="700">melegítés (közben lila)</text>
+    <text x="200" y="88" text-anchor="middle" font-size="15" fill="#e0559a" font-weight="700">kobalt-klorid: rózsaszín</text>
+    <text x="620" y="88" text-anchor="middle" font-size="15" fill="#3f5fd6" font-weight="700">kobalt-klorid: kék</text>
+  </g>
+</svg>
