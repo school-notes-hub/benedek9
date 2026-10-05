@@ -144,20 +144,54 @@
 <br>
 <h2 id="c0-példa-számítógép-hálózat">Példa: számítógép-hálózat</h2>
 <p><small class="study-label">🗓️ Óra: ? (2026-09-04 után, legkésőbb 2026-09-10)</small></p>
-<p>Tankönyv 12. oldal, 3. feladat. Egy hálózatban a rendszergazda minden felhasználóval tud kommunikálni, a felhasználók pedig a rendszergazdával és pontosan két másik felhasználóval. A kérdések: a) Melyik ábra mutat ilyen hálózatot? b) Rajzold le másképp!<br><small class="study-label">📗 A tankönyv alapján</small></p>
-<p>A füzetben: a) 4. ábra ✓ (a tankönyv megoldása is a 4. ábra); b) rajz: 6 felhasználó egy hatszög csúcsain, a hatszög oldalai összekötik a szomszédokat, középen a rendszergazda, akiből él indul minden felhasználóhoz.</p>
-<figure class="print-figure"><p class=""><img src="/benedek9/media/5bd106d574b07ed139139a1667e8027c9370a4cef74d2635e78ad3a372a7262c.svg" alt="A hatszög hat felhasználója egy-egy éllel kapcsolódik a középső rendszergazdához; a hat külső él zárt kört alkot." loading="eager" decoding="async" class="study-figure"></p></figure>
-<p>A tisztázott rajzon R a rendszergazda, az 1-6 szám a felhasználókat azonosítja; ezek segédjelölések, nem a füzet feliratai. A füzet alsó jobb sugara kicsivel a kör előtt végződik; a feladat feltétele és a többi sugár alapján az összeköttetést itt a csúcsig húztuk. <br><small class="study-label">💡 Groot🤖 magyarázata</small></p>
+<p>Egy hálózatban egy rendszergazda és hat felhasználó van. A rendszergazda minden felhasználóval közvetlenül kommunikálhat; minden felhasználó pedig vele és pontosan két másik felhasználóval.<br><small class="study-label">📗 A tankönyv alapján</small></p>
+<p><strong>a) Melyik kapcsolatrendszer teljesíti a feltételeket?</strong> Mindegyik változatban a rendszergazda mind a hat felhasználóhoz kapcsolódik. A felhasználók egymás közötti kapcsolatai különböznek:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Kapcsolatok a felhasználók között</th><th>Társak száma fejenként</th><th>Megfelel?</th></tr></thead><tbody><tr><td>Nincs köztük kapcsolat.</td><td>0</td><td>Nem: két kapcsolat kell.</td></tr><tr><td>Három külön párt alkotnak.</td><td>1</td><td>Nem: két kapcsolat kell.</td></tr><tr><td>Mindegyik mind az öt másikhoz kapcsolódik.</td><td>5</td><td>Nem: pontosan két kapcsolat kell.</td></tr><tr><td>Két külön háromszöget alkotnak.</td><td>2</td><td>Igen: mindkét feltétel teljesül.</td></tr></tbody></table>
+<p>A két háromszög minden csúcsából két él vezet más felhasználóhoz és egy a rendszergazdához. Így minden felhasználó fokszáma 3, a rendszergazdáé 6.<br><small class="study-label">📗 A tankönyv alapján</small></p>
+<p><strong>b) Hogyan készíthetsz más kapcsolatrendszert ugyanezekkel a feltételekkel?</strong></p>
+<p>A hat felhasználót egy hatszög csúcsaiban helyezzük el, a szomszédos csúcsokat összekötjük. A rendszergazda középen van, és mind a hat felhasználóhoz él kapcsolja. Így a külső csúcsok fokszáma 3, a középsőé 6.</p>
+
+<figure class="print-figure"><p class=""><img src="/benedek9/media/f75516fa42021a0b80f3b52f540206aa36966d4c80cf81d87cad8af134b724f2.svg" alt="Hat külső felhasználó alkot hatszöget; mindegyik a két szomszédjához és a középső rendszergazdához kapcsolódik." loading="eager" decoding="async" class="study-figure"></p></figure>
+<p>Minden külső csúcsnak három kapcsolata van.</p>
+
+
+<p>A középső és a külső csúcsok eltérő szerepet töltenek be: a rendszergazda mind a hat felhasználóval kapcsolatban áll, a felhasználók egymás közt egy zárt kört alkotnak.<br><small class="study-label">💡 🤖 gépi magyarázat</small></p>
 <aside class="study-callout study-tip" aria-label="Magyarázat">
-<p>A b) rajz jó ✓: a középső pont (rendszergazda) mindenkivel össze van kötve, és minden külső pontnak (felhasználónak) a rendszergazdán kívül pontosan két szomszédja van a hatszögön. Fokszámokkal: a rendszergazda fokszáma 6, minden felhasználóé 3.<br><small class="study-label">💡 Opus🤖 magyarázata</small></p>
+<p>A feltételek teljesülnek: a középső pont (rendszergazda) mindenkivel össze van kötve, és minden külső pontnak (felhasználónak) a rendszergazdán kívül pontosan két szomszédja van a hatszögön. Fokszámokkal: a rendszergazda fokszáma 6, minden felhasználóé 3.<br><small class="study-label">💡 Opus🤖 magyarázata</small></p>
 </aside>
 <br>
-<aside class="study-callout study-note" aria-label="Megjegyzés">
-<p>A 4. ábrán a hat felhasználó két külön háromszöget alkot, a rendszergazda pedig mind a hat felhasználóhoz kapcsolódik. Így minden felhasználónak két másik felhasználó a szomszédja. Az első három ábrán ez a szám rendre 0, 1 és 5, ezért azok nem felelnek meg.<br><small class="study-label">📗 A tankönyv alapján</small></p>
-</aside>
-<br>
 <aside class="study-callout study-tip" aria-label="Magyarázat">
-<p>A füzet hatszöges megoldása is teljesíti a megadott kapcsolatszámokat, de más hálózatot ad: a felhasználók egy hatos körben kapcsolódnak, nem két külön háromszögben. Ezért a b) megoldás a feltételeknek megfelelő másik hálózat, nem a 4. gráf puszta átrendezése.<br><small class="study-label">💡 Codex🤖 magyarázata</small></p>
+<p>A hatszöges és a két háromszöges megoldás egyaránt teljesíti a feltételeket, de a kapcsolataik eltérnek. A hatszöges hálózatban a felhasználók a rendszergazda nélkül is elérik egymást a kör mentén; a két háromszög között viszont csak a rendszergazdán keresztül jut el az üzenet.<br><small class="study-label">💡 Codex🤖 magyarázata</small></p>
 </aside>
 <br>
 <h2 id="c0-összefoglalás">Összefoglalás</h2>
@@ -181,9 +215,13 @@
 <p class="print-question">7. Mikor rajzolunk irányított gráfot? Mondj rá példát!</p>
 <br>
 <h2 id="c0-nyitott-kérdések">Nyitott kérdések</h2>
+
 <ol>
-<li>A füzetben a 11/2 c) házi feladat alatt egy betűkkel jelölt gráf-rajz van (az A pont áthúzva; élek: B-C, B-E, C-D, D-F, D-G). Ez nem egyezik a feladat szövegével (ott A a B, C, D pontokkal van összekötve, C és D között nincs vonal). Nem derül ki, hogy ez a házi feladat félbehagyott rajza-e. A hiányzó feladatszöveg vagy a tanuló pontosítása szükséges; a meglévő számolás önmagában nem igazolja az eredeti utasítást.</li>
-<li>A családfa középső ágának betűje a füzetben H-nak látszik; a tankönyvi feladatban a középső fiú neve M betűvel kezdődik. A tanuló erősítheti meg a betűt; a fa ágai és elemszámai ettől nem változnak.</li>
+<li><strong>A hét település vasúthálózatát kellett házi feladatként lerajzolni a fent felsorolt hét közvetlen kapcsolattal?</strong> Ellenőrizd a feladatot a füzetedben, és jelezd, hogy ehhez készült-e a rajz. Addig a <a href="#c0-h%C3%A1zi-feladat-vas%C3%BAth%C3%A1l%C3%B3zat">vasúthálózat leírásából</a> indulj ki: annak 7 csúcsa és 7 éle van, és nem fa.</li>
+</ol>
+
+<ol start="2">
+<li><strong>A családfa középső, háromfelé ágazó csúcsának H jelölése helyes?</strong> Ellenőrizd a füzetedben, és írd meg a betűt. Addig a <a href="#c0-fa">családfa</a> H jelölését használd; a betűtől függetlenül 8 csúcsot és 7 élt számolunk.</li>
 </ol><style>
 mjx-container[jax="SVG"] {
   direction: ltr;
