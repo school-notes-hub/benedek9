@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="660" viewBox="0 0 840 660" role="img" aria-labelledby="title desc">
+<title id="title">A termelő életmód kialakulása</title>
+<desc id="desc">Felül két termelési ág egymás mellett: gyűjtögetés, majd növénytermesztés; háziasítás, majd állattenyésztés (kecske, juh, szarvasmarha, sertés). A két ág alól egy nyíl vezet lefelé a letelepült életmódhoz, amelyből nyíl mutat az állandó településekhez (Çatalhüyük, Jerikó). Külön alsó sor: a biztosabb élelemellátásból nyíl vezet a népességnövekedéshez és az elvándorláshoz.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#225c56"/></marker></defs>
+<rect width="840" height="660" rx="20" fill="#fffaf0"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" fill="#182f32" text-anchor="middle">
+<text x="420" y="44" font-size="31" font-weight="bold">A termelő életmód kialakulása</text>
+<text x="420" y="80" font-size="24">Újkőkor · Közel-Kelet</text>
+<rect x="20" y="102" width="800" height="226" rx="16" fill="#f1f6ea"/>
+<g fill="#e3eed8" stroke="#75936b" stroke-width="2">
+<rect x="40" y="118" width="280" height="70" rx="12"/><rect x="410" y="118" width="390" height="70" rx="12"/>
+<rect x="40" y="204" width="280" height="108" rx="12"/><rect x="410" y="204" width="390" height="108" rx="12"/>
+</g>
+<g font-size="28"><text x="180" y="163">Gyűjtögetés</text><text x="605" y="163">Növénytermesztés</text>
+<text x="180" y="268">Háziasítás</text><text x="605" y="243">Állattenyésztés</text></g>
+<text x="605" y="274" font-size="23">kecske, juh,</text><text x="605" y="300" font-size="23">szarvasmarha, sertés</text>
+<g stroke="#225c56" stroke-width="4" fill="none" marker-end="url(#arrow)">
+<path d="M 330 153 H 398"/><path d="M 330 258 H 398"/>
+<path d="M 420 328 V 338 H 180 V 374"/>
+</g>
+<g fill="#e7eff6" stroke="#718da5" stroke-width="2"><rect x="40" y="378" width="280" height="104" rx="12"/><rect x="410" y="378" width="390" height="104" rx="12"/></g>
+<g font-size="28"><text x="180" y="422">Letelepült</text><text x="180" y="456">életmód</text><text x="605" y="420">Állandó települések</text></g>
+<text x="605" y="456" font-size="25">Çatalhüyük, Jerikó</text>
+<path d="M 330 430 H 398" stroke="#225c56" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<g fill="#fff0d5" stroke="#b39763" stroke-width="2"><rect x="40" y="534" width="280" height="96" rx="12"/><rect x="410" y="534" width="390" height="96" rx="12"/></g>
+<g font-size="27"><text x="180" y="573">Biztosabb</text><text x="180" y="607">élelemellátás</text><text x="605" y="573">Népességnövekedés</text><text x="605" y="607">és elvándorlás</text></g>
+<path d="M 330 582 H 398" stroke="#225c56" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+</g>
+</svg>
