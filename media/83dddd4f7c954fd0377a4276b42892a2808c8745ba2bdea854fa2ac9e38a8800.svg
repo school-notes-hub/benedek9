@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>A kommunikáció hat tényezője és a hozzájuk tartozó funkciók (Jakobson-modell)</title>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs>
+<rect width="400" height="420" rx="16" fill="#f3f7fd"/>
+<text x="200" y="34" text-anchor="middle" font-size="20" font-weight="800" fill="#23395d">Melyik funkció</text>
+<text x="200" y="60" text-anchor="middle" font-size="20" font-weight="800" fill="#23395d">melyik tényezőre figyel?</text>
+<g stroke="#555" stroke-width="3" stroke-dasharray="6 5"><line x1="200" y1="140" x2="200" y2="190"/><line x1="170" y1="262" x2="105" y2="312"/><line x1="230" y1="262" x2="295" y2="312"/></g>
+<g stroke="#555" stroke-width="3"><line x1="126" y1="226" x2="142" y2="226" marker-end="url(#ar)"/><line x1="264" y1="226" x2="280" y2="226" marker-end="url(#ar)"/></g>
+<rect x="120" y="82" width="160" height="58" rx="10" fill="#1b7a6f"/><text x="200.0" y="106" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Kontextus</text><text x="200.0" y="126" text-anchor="middle" font-size="14" fill="#fff">tájékoztató</text>
+<rect x="10" y="192" width="112" height="70" rx="10" fill="#3f7fd6"/><text x="66.0" y="216" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Adó</text><text x="66.0" y="236" text-anchor="middle" font-size="14" fill="#fff">kifejező</text>
+<rect x="144" y="192" width="112" height="70" rx="10" fill="#8e5cc7"/><text x="200.0" y="216" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Üzenet</text><text x="200.0" y="236" text-anchor="middle" font-size="14" fill="#fff">esztétikai</text>
+<rect x="278" y="192" width="112" height="70" rx="10" fill="#e25c4b"/><text x="334.0" y="216" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Vevő</text><text x="334.0" y="236" text-anchor="middle" font-size="14" fill="#fff">felhívó</text>
+<rect x="20" y="312" width="170" height="80" rx="10" fill="#9a5c06"/><text x="105.0" y="336" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Csatorna</text><text x="105.0" y="356" text-anchor="middle" font-size="14" fill="#fff">kapcsolattartó</text><text x="105.0" y="374" text-anchor="middle" font-size="14" fill="#fff">(fatikus)</text>
+<rect x="210" y="312" width="170" height="80" rx="10" fill="#6b6b7b"/><text x="295.0" y="336" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Kód</text><text x="295.0" y="356" text-anchor="middle" font-size="14" fill="#fff">értelmező</text><text x="295.0" y="374" text-anchor="middle" font-size="14" fill="#fff">(metanyelvi)</text>
+</svg>

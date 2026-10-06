@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 430" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <title>Nátrium és víz: a nátriumgolyó a rózsaszín-lilára színeződött víz felszínén cikázik, fölötte lángra kap a hidrogén</title>
+  <rect width="400" height="430" rx="16" fill="#fff6fa"/>
+  <text x="20" y="38" font-size="22" font-weight="800" fill="#7a1f4f">Nátrium + víz</text>
+  <text x="20" y="68" font-size="17" fill="#7a1f4f">2 Na + 2 H<tspan dy="5.1" font-size="12.5">2</tspan><tspan dy="-5.1">O → 2 NaOH + H</tspan><tspan dy="5.1" font-size="12.5">2</tspan></text>
+  <path d="M30,150 V320 q0,14 14,14 H196 q14,0 14,-14 V150" fill="#fff" stroke="#5a6b78" stroke-width="4"/>
+  <path d="M34,190 q22,-8 44,0 q22,8 44,0 q22,-8 44,0 q22,8 42,0 V318 q0,12 -12,12 H46 q-12,0 -12,-12 Z" fill="#ffa8d2"/>
+  <path d="M34,190 q22,-8 44,0 q22,8 44,0 q22,-8 44,0 q22,8 42,0" fill="none" stroke="#e05aa0" stroke-width="2.5"/>
+  <path d="M74,196 q16,8 30,0 q14,-6 26,2" fill="none" stroke="#fff" stroke-width="2.5" stroke-dasharray="4 4"/>
+  <circle cx="145" cy="184" r="13" fill="#d9d9d9" stroke="#777" stroke-width="2"/>
+  <path d="M146,166 q-11,-14 0,-36 q11,22 0,36 z" fill="#ffb02e"/><path d="M146,162 q-5,-8 0,-20 q5,12 0,20 z" fill="#fff3b0"/>
+  <g font-size="15" fill="#333">
+    <line x1="158" y1="146" x2="224" y2="114" stroke="#888" stroke-width="1.5"/>
+    <text x="228" y="112" fill="#7a1f4f">H<tspan dy="4.5" font-size="12.5">2</tspan><tspan dy="-4.5"> gáz:</tspan></text><text x="228" y="131" fill="#7a1f4f">meggyulladhat</text>
+    <line x1="159" y1="184" x2="224" y2="184" stroke="#888" stroke-width="1.5"/>
+    <text x="228" y="180" font-weight="700">nátriumgolyó:</text><text x="228" y="199">úszik, cikázik,</text><text x="228" y="218">egyre kisebb lesz</text>
+    <line x1="180" y1="280" x2="224" y2="272" stroke="#888" stroke-width="1.5"/>
+    <text x="228" y="268" font-weight="700" fill="#c2186b">rózsaszín-lila víz:</text><text x="228" y="287">fenolftalein</text><text x="228" y="306">+ lúg (NaOH)</text>
+  </g>
+  <text x="20" y="378" font-size="15" font-weight="700" fill="#333">Előtte:</text>
+  <text x="20" y="400" font-size="15" fill="#333">víz + fenolftalein = színtelen</text>
+</svg>

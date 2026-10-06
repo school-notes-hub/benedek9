@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 800" role="img" aria-labelledby="title desc" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <title id="title">A kommunikáció modellje</title>
+  <desc id="desc">Az információ az adóhoz érkezik. Az adó üzenete a kódon és a csatornán át jut a vevőhöz, akinél információ lesz belőle. A vevőtől szaggatott nyíl vezet vissza az adóhoz, szintén a kódon és a csatornán át. A visszacsatolás ettől külön, feliratozott út a vevőtől az adóig. Alul a kontextus, a közös tudás, az előismeretek és a kapcsolat.</desc>
+  <defs>
+    <marker id="forward" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L18 9L0 18Z" fill="#315d89"/></marker>
+    <marker id="back" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L18 9L0 18Z" fill="#a84333"/></marker>
+  </defs>
+  <rect width="560" height="800" rx="20" fill="#f4f8ff"/>
+  <text x="280" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#23395d">A kommunikáció modellje</text>
+  
+  <rect x="110" y="270" width="340" height="112" rx="12" fill="#fff1cc" stroke="#b78a36" stroke-width="2"/>
+  <g text-anchor="middle" fill="#23395d">
+    <text x="280" y="90" font-size="20">Információ</text>
+    <rect x="180" y="133" width="200" height="65" rx="16" fill="#d8eaff" stroke="#315d89" stroke-width="2"/>
+    <text x="280" y="175" font-size="27" font-weight="700">Adó</text>
+    <text x="180" y="334" font-size="23" font-weight="700">Kód</text>
+    <text x="382" y="334" font-size="21" font-weight="700">Csatorna</text>
+    <rect x="180" y="447" width="200" height="65" rx="16" fill="#d6f1e9" stroke="#258570" stroke-width="2"/>
+    <text x="280" y="489" font-size="27" font-weight="700">Vevő</text>
+    <text x="280" y="568" font-size="20">Információ</text>
+  </g>
+  <text x="248" y="243" text-anchor="end" font-size="19" fill="#23395d">Üzenet</text>
+  <g stroke="#315d89" stroke-width="3" fill="none" marker-end="url(#forward)">
+    <path d="M280 98V127"/>
+    <path d="M262 198V445"/>
+    <path d="M280 512V542"/>
+  </g>
+  <path d="M298 447V200" fill="none" stroke="#315d89" stroke-width="3" stroke-dasharray="8 6" marker-end="url(#forward)"/>
+  <path d="M380 480H500V165H382" fill="none" stroke="#a84333" stroke-width="3" marker-end="url(#back)"/>
+  <text x="530" y="322" transform="rotate(-90 530 322)" text-anchor="middle" font-size="21" font-weight="700" fill="#a84333">Visszacsatolás</text>
+  <rect x="35" y="600" width="490" height="169" rx="15" fill="#e8edf5"/>
+  <g fill="#23395d" font-size="22" text-anchor="middle">
+    <text x="280" y="636">Kontextus</text>
+    <text x="280" y="673">Közös tudás</text>
+    <text x="280" y="710">Előismeretek</text>
+    <text x="280" y="747">Kapcsolat</text>
+  </g>
+</svg>

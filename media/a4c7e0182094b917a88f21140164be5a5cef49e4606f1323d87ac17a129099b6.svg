@@ -1,0 +1,50 @@
+
+
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="324pt" height="273.6pt" viewBox="0 0 324 273.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ 
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.6  L 324 273.6  L 324 0  L 0 0  z " style="fill: #fffaf0"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 60.490141 251.247887  L 263.509859 251.247887  L 263.509859 48.228169  L 60.490141 48.228169  L 60.490141 251.247887  z " clip-path="url(#p07d424b63a)" style="fill: none; stroke: #263f52; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 128.16338 206.337465  C 143.173726 206.337465 157.571308 200.373791 168.185226 189.759874  C 178.799143 179.145956 184.762817 164.748374 184.762817 149.738028  C 184.762817 134.727682 178.799143 120.3301 168.185226 109.716183  C 157.571308 99.102265 143.173726 93.138592 128.16338 93.138592  C 113.153034 93.138592 98.755452 99.102265 88.141535 109.716183  C 77.527617 120.3301 71.563944 134.727682 71.563944 149.738028  C 71.563944 164.748374 77.527617 179.145956 88.141535 189.759874  C 98.755452 200.373791 113.153034 206.337465 128.16338 206.337465  L 128.16338 206.337465  z " clip-path="url(#p07d424b63a)" style="fill: none; stroke: #263f52; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 195.83662 206.337465  C 210.846966 206.337465 225.244548 200.373791 235.858465 189.759874  C 246.472383 179.145956 252.436056 164.748374 252.436056 149.738028  C 252.436056 134.727682 246.472383 120.3301 235.858465 109.716183  C 225.244548 99.102265 210.846966 93.138592 195.83662 93.138592  C 180.826274 93.138592 166.428692 99.102265 155.814774 109.716183  C 145.200857 120.3301 139.237183 134.727682 139.237183 149.738028  C 139.237183 164.748374 145.200857 179.145956 155.814774 189.759874  C 166.428692 200.373791 180.826274 206.337465 195.83662 206.337465  L 195.83662 206.337465  z " clip-path="url(#p07d424b63a)" style="fill: none; stroke: #263f52; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start" x="68.487887" y="69.612588" transform="rotate(-0 68.487887 69.612588)">U</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle" x="128.16338" y="86.986479" transform="rotate(-0 128.16338 86.986479)">A</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle" x="195.83662" y="86.986479" transform="rotate(-0 195.83662 86.986479)">B</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle" x="109.707042" y="153.894278" transform="rotate(-0 109.707042 153.894278)">2, 4</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle" x="162" y="153.894278" transform="rotate(-0 162 153.894278)">6, 7</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle" x="214.292958" y="153.894278" transform="rotate(-0 214.292958 153.894278)">1, 3, 5</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle" x="162" y="27" transform="rotate(-0 162 27)">Két átfedő halmaz</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p07d424b63a">
+   <rect x="54.338028" y="39" width="215.323944" height="218.4"/>
+  </clipPath>
+ </defs>
+</svg>

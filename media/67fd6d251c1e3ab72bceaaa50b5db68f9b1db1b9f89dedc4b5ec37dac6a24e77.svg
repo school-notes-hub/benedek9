@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="380" viewBox="0 0 440 380" role="img" aria-label="Vasúthálózat hét csúccsal (A-G) és hét éllel: A-B, A-C, A-D, B-C, B-E, D-F, D-G; az A, B, C háromszöget alkot.">
+<title>Vasúthálózat: hét település, hét vasútvonal</title>
+<rect width="440" height="380" rx="14" fill="#fffaf0"/>
+<text x="220" y="36" font-family="DejaVu Sans, sans-serif" font-size="22" fill="#15354d" text-anchor="middle">Vasúthálózat</text>
+<polygon points="120,95 300,95 210,190" fill="#dcebf7"/>
+<g stroke="#384d5c" stroke-width="3.5" stroke-linecap="round">
+<line x1="120" y1="95" x2="300" y2="95"/>
+<line x1="210" y1="190" x2="120" y2="95"/>
+<line x1="210" y1="190" x2="300" y2="95"/>
+<line x1="210" y1="190" x2="320" y2="255"/>
+<line x1="120" y1="95" x2="70" y2="245"/>
+<line x1="320" y1="255" x2="255" y2="335"/>
+<line x1="320" y1="255" x2="385" y2="335"/>
+</g>
+<g fill="#f9dfb4" stroke="#8a5525" stroke-width="2.5">
+<circle cx="210" cy="190" r="21"/><circle cx="120" cy="95" r="21"/><circle cx="300" cy="95" r="21"/><circle cx="320" cy="255" r="21"/>
+<circle cx="70" cy="245" r="21"/><circle cx="255" cy="335" r="21"/><circle cx="385" cy="335" r="21"/>
+</g>
+<g font-family="DejaVu Sans, sans-serif" font-size="21" fill="#17283d" text-anchor="middle">
+<text x="210" y="197.5">A</text><text x="120" y="102.5">B</text><text x="300" y="102.5">C</text><text x="320" y="262.5">D</text>
+<text x="70" y="252.5">E</text><text x="255" y="342.5">F</text><text x="385" y="342.5">G</text>
+</g>
+</svg>

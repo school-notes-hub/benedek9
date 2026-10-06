@@ -1,0 +1,90 @@
+
+
+
+
+<svg width="261pt" height="256pt" viewBox="0.00 0.00 261.00 256.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(18 238)">
+<title>csaladfa</title>
+<polygon fill="#fffaf0" stroke="none" points="-18,18 -18,-238 243,-238 243,18 -18,18"/>
+<text xml:space="preserve" text-anchor="middle" x="112.5" y="-197" font-family="DejaVu Sans" font-size="20.00">Apa-fiú kapcsolatok</text>
+
+<g id="node1" class="node">
+<title>J</title>
+<ellipse fill="#f9dfb4" stroke="#8a5525" cx="128" cy="-170" rx="18" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="128" y="-163.2" font-family="DejaVu Sans" font-size="19.00">J</text>
+</g>
+
+<g id="node2" class="node">
+<title>A</title>
+<ellipse fill="#f9dfb4" stroke="#8a5525" cx="34" cy="-94" rx="18" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="34" y="-87.2" font-family="DejaVu Sans" font-size="19.00">A</text>
+</g>
+
+<g id="edge1" class="edge">
+<title>J--A</title>
+<path fill="none" stroke="#384d5c" stroke-width="2" d="M114.13,-158.08C96.36,-144.09 65.73,-119.98 47.93,-105.96"/>
+</g>
+
+<g id="node3" class="node">
+<title>M</title>
+<ellipse fill="#f9dfb4" stroke="#8a5525" cx="128" cy="-94" rx="18" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="128" y="-87.2" font-family="DejaVu Sans" font-size="19.00">M</text>
+</g>
+
+<g id="edge2" class="edge">
+<title>J--M</title>
+<path fill="none" stroke="#384d5c" stroke-width="2" d="M128,-151.84C128,-139.97 128,-124.23 128,-112.33"/>
+</g>
+
+<g id="node4" class="node">
+<title>D</title>
+<ellipse fill="#f9dfb4" stroke="#8a5525" cx="191" cy="-94" rx="18" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="191" y="-87.2" font-family="DejaVu Sans" font-size="19.00">D</text>
+</g>
+
+<g id="edge3" class="edge">
+<title>J--D</title>
+<path fill="none" stroke="#384d5c" stroke-width="2" d="M139.26,-155.77C150.73,-142.3 168.4,-121.54 179.83,-108.12"/>
+</g>
+
+<g id="node5" class="node">
+<title>a</title>
+<ellipse fill="#f9dfb4" stroke="#8a5525" cx="18" cy="-18" rx="18" ry="18"/>
+</g>
+
+<g id="edge4" class="edge">
+<title>A--a</title>
+<path fill="none" stroke="#384d5c" stroke-width="2" d="M30.37,-76.21C27.77,-64.18 24.28,-48.05 21.67,-35.98"/>
+</g>
+
+<g id="node6" class="node">
+<title>m1</title>
+<ellipse fill="#f9dfb4" stroke="#8a5525" cx="81" cy="-18" rx="18" ry="18"/>
+</g>
+
+<g id="edge5" class="edge">
+<title>M--m1</title>
+<path fill="none" stroke="#384d5c" stroke-width="2" d="M118.71,-78.38C110.53,-65.49 98.66,-46.8 90.43,-33.84"/>
+</g>
+
+<g id="node7" class="node">
+<title>m2</title>
+<ellipse fill="#f9dfb4" stroke="#8a5525" cx="144" cy="-18" rx="18" ry="18"/>
+</g>
+
+<g id="edge6" class="edge">
+<title>M--m2</title>
+<path fill="none" stroke="#384d5c" stroke-width="2" d="M131.63,-76.21C134.23,-64.18 137.72,-48.05 140.33,-35.98"/>
+</g>
+
+<g id="node8" class="node">
+<title>m3</title>
+<ellipse fill="#f9dfb4" stroke="#8a5525" cx="207" cy="-18" rx="18" ry="18"/>
+</g>
+
+<g id="edge7" class="edge">
+<title>M--m3</title>
+<path fill="none" stroke="#384d5c" stroke-width="2" d="M140.69,-81.11C155.35,-67.38 179.32,-44.92 194.08,-31.11"/>
+</g>
+</g>
+</svg>
