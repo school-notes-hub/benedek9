@@ -1,0 +1,50 @@
+
+
+
+
+<svg width="381pt" height="632pt" viewBox="0.00 0.00 380.80 631.80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(14.4 617.4)">
+<title>Forrasok</title>
+<polygon fill="#fcfaf6" stroke="transparent" points="-14.4,14.4 -14.4,-617.4 366.4,-617.4 366.4,14.4 -14.4,14.4"/>
+
+<g id="node1" class="node">
+<title>title</title>
+<path fill="#bcbaa9" stroke="#bcbaa9" d="M326,-603C326,-603 26,-603 26,-603 20,-603 14,-597 14,-591 14,-591 14,-566 14,-566 14,-560 20,-554 26,-554 26,-554 326,-554 326,-554 332,-554 338,-560 338,-566 338,-566 338,-591 338,-591 338,-597 332,-603 326,-603"/>
+<text text-anchor="middle" x="176" y="-572.6" font-family="DejaVu Sans" font-size="23.00" fill="#203c3c">Két szerző, két gesta</text>
+</g>
+
+<g id="node2" class="node">
+<title>kezai</title>
+<path fill="#e1f1e9" stroke="#bcbaa9" d="M326,-542C326,-542 26,-542 26,-542 20,-542 14,-536 14,-530 14,-530 14,-306 14,-306 14,-300 20,-294 26,-294 26,-294 326,-294 326,-294 332,-294 338,-300 338,-306 338,-306 338,-530 338,-530 338,-536 332,-542 326,-542"/>
+<text text-anchor="middle" x="176" y="-514" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">KÉZAI SIMON</text>
+<text text-anchor="middle" x="176" y="-492" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">Gesta Hunnorum</text>
+<text text-anchor="middle" x="176" y="-470" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">et Hungarorum</text>
+<text text-anchor="middle" x="176" y="-448" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">(röviden: Gesta Hungarorum)</text>
+<text text-anchor="middle" x="176" y="-402" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">Hunor és Magor</text>
+<text text-anchor="middle" x="176" y="-380" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">szarvasvadászata</text>
+<text text-anchor="middle" x="176" y="-334" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">A testvéreket szarvasünő</text>
+<text text-anchor="middle" x="176" y="-312" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">vezeti új lakóhelyre.</text>
+</g>
+
+
+<g id="node3" class="node">
+<title>anonymus</title>
+<path fill="#e5edf7" stroke="#bcbaa9" d="M326,-282C326,-282 26,-282 26,-282 20,-282 14,-276 14,-270 14,-270 14,-90 14,-90 14,-84 20,-78 26,-78 26,-78 326,-78 326,-78 332,-78 338,-84 338,-90 338,-90 338,-270 338,-270 338,-276 332,-282 326,-282"/>
+<text text-anchor="middle" x="176" y="-254" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">ANONYMUS</text>
+<text text-anchor="middle" x="176" y="-232" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">Gesta Hungarorum</text>
+<text text-anchor="middle" x="176" y="-186" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">Szkítia, Álmos,</text>
+<text text-anchor="middle" x="176" y="-164" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">Emese turulos álma</text>
+<text text-anchor="middle" x="176" y="-118" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">Emese álmában</text>
+<text text-anchor="middle" x="176" y="-96" font-family="DejaVu Sans" font-size="20.00" fill="#203c3c">turulmadár jelenik meg.</text>
+</g>
+
+
+<g id="node4" class="node">
+<title>end</title>
+<path fill="#bcbaa9" stroke="#bcbaa9" d="M340,-66C340,-66 12,-66 12,-66 6,-66 0,-60 0,-54 0,-54 0,-12 0,-12 0,-6 6,0 12,0 12,0 340,0 340,0 346,0 352,-6 352,-12 352,-12 352,-54 352,-54 352,-60 346,-66 340,-66"/>
+<text text-anchor="middle" x="176" y="-38.8" font-family="DejaVu Sans" font-size="19.00" fill="#203c3c">Szarvasvadászat és Emese álma:</text>
+<text text-anchor="middle" x="176" y="-17.8" font-family="DejaVu Sans" font-size="19.00" fill="#203c3c">két külön eredettörténet.</text>
+</g>
+
+</g>
+</svg>
