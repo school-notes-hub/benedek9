@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="434" viewBox="0 0 400 434" role="img" aria-label="Öt számegyenes −4-től 4-ig. |x| = 3: teli pont a −3-nál és a 3-nál, köztük nincs kiemelés, {−3; 3}. |x| &lt; 3: kék szakasz −3-tól 3-ig, két üres karika, ]−3; 3[. |x| ≤ 2: kék szakasz −2-től 2-ig, két teli pont, [−2; 2]. |x| &gt; 2: kiemelés a −2-től balra és a 2-től jobbra a vonal végéig, üres karikák, ℝ ∖ [−2; 2]. 2 &lt; |x| &lt; 3: két szakasz, −3-tól −2-ig és 2-től 3-ig, négy üres karika.">
+<title>Öt számegyenes −4-től 4-ig. |x| = 3: teli pont a −3-nál és a 3-nál, köztük nincs kiemelés, {−3; 3}. |x| &lt; 3: kék szakasz −3-tól 3-ig, két üres karika, ]−3; 3[. |x| ≤ 2: kék szakasz −2-től 2-ig, két teli pont, [−2; 2]. |x| &gt; 2: kiemelés a −2-től balra és a 2-től jobbra a vonal végéig, üres karikák, ℝ ∖ [−2; 2]. 2 &lt; |x| &lt; 3: két szakasz, −3-tól −2-ig és 2-től 3-ig, négy üres karika.</title>
+<rect width="400" height="434" rx="12" fill="#fffaf0"/>
+<text x="200" y="28" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">Abszolút érték: távolság a 0-tól</text>
+<text x="26" y="60" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="start" font-weight="bold" font-style="normal" fill="#17283d">|x| = 3</text>
+<text x="374" y="60" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="end" font-weight="normal" font-style="normal" fill="#17283d">{−3; 3}</text>
+<line x1="26" y1="86" x2="386" y2="86" stroke="#17283d" stroke-width="1.8"/>
+<path d="M394 86 L382 81 L382 91 Z" fill="#17283d"/>
+<line x1="40.0" y1="81" x2="40.0" y2="91" stroke="#17283d" stroke-width="1.4"/>
+<text x="40.0" y="107" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−4</text>
+<line x1="81.5" y1="81" x2="81.5" y2="91" stroke="#17283d" stroke-width="1.4"/>
+<text x="81.5" y="107" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−3</text>
+<line x1="123.0" y1="81" x2="123.0" y2="91" stroke="#17283d" stroke-width="1.4"/>
+<text x="123.0" y="107" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−2</text>
+<line x1="164.5" y1="81" x2="164.5" y2="91" stroke="#17283d" stroke-width="1.4"/>
+<text x="164.5" y="107" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−1</text>
+<line x1="206.0" y1="81" x2="206.0" y2="91" stroke="#17283d" stroke-width="1.4"/>
+<text x="206.0" y="107" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">0</text>
+<line x1="247.5" y1="81" x2="247.5" y2="91" stroke="#17283d" stroke-width="1.4"/>
+<text x="247.5" y="107" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">1</text>
+<line x1="289.0" y1="81" x2="289.0" y2="91" stroke="#17283d" stroke-width="1.4"/>
+<text x="289.0" y="107" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">2</text>
+<line x1="330.5" y1="81" x2="330.5" y2="91" stroke="#17283d" stroke-width="1.4"/>
+<text x="330.5" y="107" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">3</text>
+<line x1="372.0" y1="81" x2="372.0" y2="91" stroke="#17283d" stroke-width="1.4"/>
+<text x="372.0" y="107" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">4</text>
+<circle cx="81.5" cy="86" r="6.5" fill="#1565c0"/>
+<circle cx="330.5" cy="86" r="6.5" fill="#1565c0"/>
+<text x="26" y="134" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="start" font-weight="bold" font-style="normal" fill="#17283d">|x| &lt; 3</text>
+<text x="374" y="134" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="end" font-weight="normal" font-style="normal" fill="#17283d">]−3; 3[</text>
+<line x1="26" y1="160" x2="386" y2="160" stroke="#17283d" stroke-width="1.8"/>
+<path d="M394 160 L382 155 L382 165 Z" fill="#17283d"/>
+<line x1="40.0" y1="155" x2="40.0" y2="165" stroke="#17283d" stroke-width="1.4"/>
+<text x="40.0" y="181" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−4</text>
+<line x1="81.5" y1="155" x2="81.5" y2="165" stroke="#17283d" stroke-width="1.4"/>
+<text x="81.5" y="181" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−3</text>
+<line x1="123.0" y1="155" x2="123.0" y2="165" stroke="#17283d" stroke-width="1.4"/>
+<text x="123.0" y="181" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−2</text>
+<line x1="164.5" y1="155" x2="164.5" y2="165" stroke="#17283d" stroke-width="1.4"/>
+<text x="164.5" y="181" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−1</text>
+<line x1="206.0" y1="155" x2="206.0" y2="165" stroke="#17283d" stroke-width="1.4"/>
+<text x="206.0" y="181" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">0</text>
+<line x1="247.5" y1="155" x2="247.5" y2="165" stroke="#17283d" stroke-width="1.4"/>
+<text x="247.5" y="181" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">1</text>
+<line x1="289.0" y1="155" x2="289.0" y2="165" stroke="#17283d" stroke-width="1.4"/>
+<text x="289.0" y="181" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">2</text>
+<line x1="330.5" y1="155" x2="330.5" y2="165" stroke="#17283d" stroke-width="1.4"/>
+<text x="330.5" y="181" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">3</text>
+<line x1="372.0" y1="155" x2="372.0" y2="165" stroke="#17283d" stroke-width="1.4"/>
+<text x="372.0" y="181" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">4</text>
+<line x1="81.5" y1="160" x2="330.5" y2="160" stroke="#1565c0" stroke-width="6"/>
+<circle cx="81.5" cy="160" r="6" fill="#fffaf0" stroke="#1565c0" stroke-width="2.6"/>
+<circle cx="330.5" cy="160" r="6" fill="#fffaf0" stroke="#1565c0" stroke-width="2.6"/>
+<text x="26" y="208" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="start" font-weight="bold" font-style="normal" fill="#17283d">|x| ≤ 2</text>
+<text x="374" y="208" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="end" font-weight="normal" font-style="normal" fill="#17283d">[−2; 2]</text>
+<line x1="26" y1="234" x2="386" y2="234" stroke="#17283d" stroke-width="1.8"/>
+<path d="M394 234 L382 229 L382 239 Z" fill="#17283d"/>
+<line x1="40.0" y1="229" x2="40.0" y2="239" stroke="#17283d" stroke-width="1.4"/>
+<text x="40.0" y="255" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−4</text>
+<line x1="81.5" y1="229" x2="81.5" y2="239" stroke="#17283d" stroke-width="1.4"/>
+<text x="81.5" y="255" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−3</text>
+<line x1="123.0" y1="229" x2="123.0" y2="239" stroke="#17283d" stroke-width="1.4"/>
+<text x="123.0" y="255" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−2</text>
+<line x1="164.5" y1="229" x2="164.5" y2="239" stroke="#17283d" stroke-width="1.4"/>
+<text x="164.5" y="255" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−1</text>
+<line x1="206.0" y1="229" x2="206.0" y2="239" stroke="#17283d" stroke-width="1.4"/>
+<text x="206.0" y="255" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">0</text>
+<line x1="247.5" y1="229" x2="247.5" y2="239" stroke="#17283d" stroke-width="1.4"/>
+<text x="247.5" y="255" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">1</text>
+<line x1="289.0" y1="229" x2="289.0" y2="239" stroke="#17283d" stroke-width="1.4"/>
+<text x="289.0" y="255" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">2</text>
+<line x1="330.5" y1="229" x2="330.5" y2="239" stroke="#17283d" stroke-width="1.4"/>
+<text x="330.5" y="255" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">3</text>
+<line x1="372.0" y1="229" x2="372.0" y2="239" stroke="#17283d" stroke-width="1.4"/>
+<text x="372.0" y="255" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">4</text>
+<line x1="123.0" y1="234" x2="289.0" y2="234" stroke="#1565c0" stroke-width="6"/>
+<circle cx="123.0" cy="234" r="6.5" fill="#1565c0"/>
+<circle cx="289.0" cy="234" r="6.5" fill="#1565c0"/>
+<text x="26" y="282" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="start" font-weight="bold" font-style="normal" fill="#17283d">|x| &gt; 2</text>
+<text x="374" y="282" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="end" font-weight="normal" font-style="normal" fill="#17283d">ℝ ∖ [−2; 2]</text>
+<line x1="26" y1="308" x2="386" y2="308" stroke="#17283d" stroke-width="1.8"/>
+<path d="M394 308 L382 303 L382 313 Z" fill="#17283d"/>
+<line x1="40.0" y1="303" x2="40.0" y2="313" stroke="#17283d" stroke-width="1.4"/>
+<text x="40.0" y="329" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−4</text>
+<line x1="81.5" y1="303" x2="81.5" y2="313" stroke="#17283d" stroke-width="1.4"/>
+<text x="81.5" y="329" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−3</text>
+<line x1="123.0" y1="303" x2="123.0" y2="313" stroke="#17283d" stroke-width="1.4"/>
+<text x="123.0" y="329" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−2</text>
+<line x1="164.5" y1="303" x2="164.5" y2="313" stroke="#17283d" stroke-width="1.4"/>
+<text x="164.5" y="329" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−1</text>
+<line x1="206.0" y1="303" x2="206.0" y2="313" stroke="#17283d" stroke-width="1.4"/>
+<text x="206.0" y="329" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">0</text>
+<line x1="247.5" y1="303" x2="247.5" y2="313" stroke="#17283d" stroke-width="1.4"/>
+<text x="247.5" y="329" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">1</text>
+<line x1="289.0" y1="303" x2="289.0" y2="313" stroke="#17283d" stroke-width="1.4"/>
+<text x="289.0" y="329" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">2</text>
+<line x1="330.5" y1="303" x2="330.5" y2="313" stroke="#17283d" stroke-width="1.4"/>
+<text x="330.5" y="329" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">3</text>
+<line x1="372.0" y1="303" x2="372.0" y2="313" stroke="#17283d" stroke-width="1.4"/>
+<text x="372.0" y="329" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">4</text>
+<line x1="26.0" y1="308" x2="123.0" y2="308" stroke="#1565c0" stroke-width="6"/>
+<line x1="289.0" y1="308" x2="386.0" y2="308" stroke="#1565c0" stroke-width="6"/>
+<path d="M394.0 308 L380.0 300 L380.0 316 Z" fill="#1565c0"/>
+<path d="M18.0 308 L32.0 300 L32.0 316 Z" fill="#1565c0"/>
+<circle cx="123.0" cy="308" r="6" fill="#fffaf0" stroke="#1565c0" stroke-width="2.6"/>
+<circle cx="289.0" cy="308" r="6" fill="#fffaf0" stroke="#1565c0" stroke-width="2.6"/>
+<text x="26" y="356" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="start" font-weight="bold" font-style="normal" fill="#17283d">2 &lt; |x| &lt; 3</text>
+<text x="374" y="356" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="end" font-weight="normal" font-style="normal" fill="#17283d">]−3; −2[ ∪ ]2; 3[</text>
+<line x1="26" y1="382" x2="386" y2="382" stroke="#17283d" stroke-width="1.8"/>
+<path d="M394 382 L382 377 L382 387 Z" fill="#17283d"/>
+<line x1="40.0" y1="377" x2="40.0" y2="387" stroke="#17283d" stroke-width="1.4"/>
+<text x="40.0" y="403" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−4</text>
+<line x1="81.5" y1="377" x2="81.5" y2="387" stroke="#17283d" stroke-width="1.4"/>
+<text x="81.5" y="403" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−3</text>
+<line x1="123.0" y1="377" x2="123.0" y2="387" stroke="#17283d" stroke-width="1.4"/>
+<text x="123.0" y="403" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−2</text>
+<line x1="164.5" y1="377" x2="164.5" y2="387" stroke="#17283d" stroke-width="1.4"/>
+<text x="164.5" y="403" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">−1</text>
+<line x1="206.0" y1="377" x2="206.0" y2="387" stroke="#17283d" stroke-width="1.4"/>
+<text x="206.0" y="403" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">0</text>
+<line x1="247.5" y1="377" x2="247.5" y2="387" stroke="#17283d" stroke-width="1.4"/>
+<text x="247.5" y="403" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">1</text>
+<line x1="289.0" y1="377" x2="289.0" y2="387" stroke="#17283d" stroke-width="1.4"/>
+<text x="289.0" y="403" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">2</text>
+<line x1="330.5" y1="377" x2="330.5" y2="387" stroke="#17283d" stroke-width="1.4"/>
+<text x="330.5" y="403" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">3</text>
+<line x1="372.0" y1="377" x2="372.0" y2="387" stroke="#17283d" stroke-width="1.4"/>
+<text x="372.0" y="403" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">4</text>
+<line x1="81.5" y1="382" x2="123.0" y2="382" stroke="#1565c0" stroke-width="6"/>
+<line x1="289.0" y1="382" x2="330.5" y2="382" stroke="#1565c0" stroke-width="6"/>
+<circle cx="81.5" cy="382" r="6" fill="#fffaf0" stroke="#1565c0" stroke-width="2.6"/>
+<circle cx="123.0" cy="382" r="6" fill="#fffaf0" stroke="#1565c0" stroke-width="2.6"/>
+<circle cx="289.0" cy="382" r="6" fill="#fffaf0" stroke="#1565c0" stroke-width="2.6"/>
+<circle cx="330.5" cy="382" r="6" fill="#fffaf0" stroke="#1565c0" stroke-width="2.6"/>
+<text x="26" y="422" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="start" font-weight="normal" font-style="normal" fill="#4a5a6a">Teli pont: benne van; üres karika: nincs benne.</text>
+</svg>

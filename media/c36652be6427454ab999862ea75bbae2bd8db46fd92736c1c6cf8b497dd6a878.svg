@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 390" width="440" height="390" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Az újratermelés három típusa egy pékség azonos kenyerein: tegnap 100 kenyér készült. Ma 80 kenyér: szűkített újratermelés, a termelés csökken; ma 100 kenyér: egyszerű újratermelés, változatlan; ma 120 kenyér: bővített újratermelés, a termelés nő.">
+  <title>Az újratermelés három típusa: ma sütött kenyerek a tegnapi 100-hoz képest</title>
+  <rect width="440" height="390" rx="16" fill="#fffaf0"/>
+  <text x="220" y="34" text-anchor="middle" font-size="20" font-weight="700" fill="#3b2f2f">Az újratermelés három típusa</text>
+  <text x="220" y="58" text-anchor="middle" font-size="14" fill="#5f5049">Egy pékség azonos méretű és minőségű kenyerei</text>
+  <rect x="60" y="172" width="80" height="128" fill="#c4473a"/>
+  <text x="100" y="164" text-anchor="middle" font-size="18" font-weight="700" fill="#3b2f2f">80</text>
+  <text x="100" y="324" text-anchor="middle" font-size="15" font-weight="700" fill="#c4473a">Szűkített</text>
+  <text x="100" y="344" text-anchor="middle" font-size="14" fill="#3b2f2f">csökken</text>
+  <rect x="180" y="140" width="80" height="160" fill="#7d6f66"/>
+  <text x="220" y="132" text-anchor="middle" font-size="18" font-weight="700" fill="#3b2f2f">100</text>
+  <text x="220" y="324" text-anchor="middle" font-size="15" font-weight="700" fill="#7d6f66">Egyszerű</text>
+  <text x="220" y="344" text-anchor="middle" font-size="14" fill="#3b2f2f">változatlan</text>
+  <rect x="300" y="108" width="80" height="192" fill="#1f8a7e"/>
+  <text x="340" y="100" text-anchor="middle" font-size="18" font-weight="700" fill="#3b2f2f">120</text>
+  <text x="340" y="324" text-anchor="middle" font-size="15" font-weight="700" fill="#1f8a7e">Bővített</text>
+  <text x="340" y="344" text-anchor="middle" font-size="14" fill="#3b2f2f">nő</text>
+  <line x1="36" y1="300" x2="424" y2="300" stroke="#3b2f2f" stroke-width="2"/>
+  <text x="30" y="305" text-anchor="end" font-size="14" fill="#5f5049">0</text>
+  <line x1="36" y1="140" x2="424" y2="140" stroke="#3b2f2f" stroke-width="2" stroke-dasharray="7 5"/>
+  <text x="40" y="132" font-size="14" fill="#3b2f2f">tegnap: 100 kenyér</text>
+  <text x="220" y="376" text-anchor="middle" font-size="14" fill="#5f5049">Oszlop: ma sütött kenyér; szaggatott vonal: tegnap</text>
+</svg>

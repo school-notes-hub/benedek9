@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="423" viewBox="0 0 400 423" role="img" aria-label="Szabályos nyolcszög; a bal oldali kiemelt csúcsból 5 folytonos piros átló indul a nem szomszédos csúcsokhoz, a két szomszédos csúcshoz szaggatott kék oldal vezet. Alatta: 5 átló, 2 oldal nem átló, önmagához nem húzunk vonalat, 8 − 3 = 5; összesen 8 · 5 : 2 = 20 átló.">
+<title>Szabályos nyolcszög; a bal oldali kiemelt csúcsból 5 folytonos piros átló indul a nem szomszédos csúcsokhoz, a két szomszédos csúcshoz szaggatott kék oldal vezet. Alatta: 5 átló, 2 oldal nem átló, önmagához nem húzunk vonalat, 8 − 3 = 5; összesen 8 · 5 : 2 = 20 átló.</title>
+<rect width="400" height="423" rx="12" fill="#fffaf0"/>
+<text x="200" y="30" font-family="DejaVu Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">Átlók egy csúcsból</text>
+<polygon points="91.0,119.8 91.0,210.2 154.8,274.0 245.2,274.0 309.0,210.2 309.0,119.8 245.2,56.0 154.8,56.0" fill="#ffffff" stroke="#6b7884" stroke-width="2"/>
+<line x1="91.0" y1="119.8" x2="154.8" y2="274.0" stroke="#c0392b" stroke-width="3"/>
+<line x1="91.0" y1="119.8" x2="245.2" y2="274.0" stroke="#c0392b" stroke-width="3"/>
+<line x1="91.0" y1="119.8" x2="309.0" y2="210.2" stroke="#c0392b" stroke-width="3"/>
+<line x1="91.0" y1="119.8" x2="309.0" y2="119.8" stroke="#c0392b" stroke-width="3"/>
+<line x1="91.0" y1="119.8" x2="245.2" y2="56.0" stroke="#c0392b" stroke-width="3"/>
+<line x1="91.0" y1="119.8" x2="91.0" y2="210.2" stroke="#1565c0" stroke-width="5" stroke-dasharray="9 5"/>
+<line x1="91.0" y1="119.8" x2="154.8" y2="56.0" stroke="#1565c0" stroke-width="5" stroke-dasharray="9 5"/>
+<circle cx="91.0" cy="119.8" r="8" fill="#c0392b"/>
+<circle cx="91.0" cy="210.2" r="5" fill="#17283d"/>
+<circle cx="154.8" cy="274.0" r="5" fill="#17283d"/>
+<circle cx="245.2" cy="274.0" r="5" fill="#17283d"/>
+<circle cx="309.0" cy="210.2" r="5" fill="#17283d"/>
+<circle cx="309.0" cy="119.8" r="5" fill="#17283d"/>
+<circle cx="245.2" cy="56.0" r="5" fill="#17283d"/>
+<circle cx="154.8" cy="56.0" r="5" fill="#17283d"/>
+<line x1="22" y1="318" x2="52" y2="318" stroke="#c0392b" stroke-width="3"/>
+<text x="60" y="323" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="start" font-weight="normal" font-style="normal" fill="#17283d">5 átló a nem szomszédos csúcsokhoz</text>
+<line x1="22" y1="344" x2="52" y2="344" stroke="#1565c0" stroke-width="5" stroke-dasharray="9 5"/>
+<text x="60" y="349" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="start" font-weight="normal" font-style="normal" fill="#17283d">2 oldal a szomszédokhoz: nem átló</text>
+<text x="22" y="375" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="start" font-weight="normal" font-style="normal" fill="#17283d">Önmagához nem húzunk vonalat: 8 − 3 = 5.</text>
+<text x="22" y="405" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="start" font-weight="bold" font-style="normal" fill="#17283d">Összesen: 8 · 5 : 2 = 20 átló</text>
+</svg>

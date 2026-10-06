@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 600" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>A mértékegység-lépcső: km, hm, dam, m, dm, cm, mm; lefelé lépve szorzunk, felfelé lépve osztunk; egy lépcsőfok váltószáma hosszúságnál 10, területnél 100, térfogatnál 1000</title>
+<defs><marker id="ah" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 z" fill="#333333"/></marker></defs>
+<rect width="420" height="600" rx="16" fill="#fdf8f0"/>
+<text x="210" y="38" font-size="22" font-weight="700" fill="#3b2f2a" text-anchor="middle">A mértékegység-lépcső</text>
+<text x="210" y="64" font-size="15" fill="#5a4a42" text-anchor="middle">lefelé lépve szorzunk,</text>
+<text x="210" y="84" font-size="15" fill="#5a4a42" text-anchor="middle">felfelé lépve osztunk</text>
+<rect x="14" y="150" width="52" height="250" rx="6" fill="#d9534f"/>
+<text x="40.0" y="178" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">km</text>
+<path d="M56,146 Q88,140 86,178" fill="none" stroke="#333333" stroke-width="2.4" marker-end="url(#ah)"/>
+<text x="58" y="134" font-size="14" font-weight="700" fill="#333333">·10</text>
+<rect x="70" y="184" width="52" height="216" rx="6" fill="#e9782f"/>
+<text x="96.0" y="212" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">hm</text>
+<path d="M112,180 Q144,174 142,212" fill="none" stroke="#333333" stroke-width="2.4" marker-end="url(#ah)"/>
+<text x="114" y="168" font-size="14" font-weight="700" fill="#333333">·10</text>
+<rect x="126" y="218" width="52" height="182" rx="6" fill="#e3a21a"/>
+<text x="152.0" y="246" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">dam</text>
+<path d="M168,214 Q200,208 198,246" fill="none" stroke="#333333" stroke-width="2.4" marker-end="url(#ah)"/>
+<text x="170" y="202" font-size="14" font-weight="700" fill="#333333">·10</text>
+<rect x="182" y="252" width="52" height="148" rx="6" fill="#2a9d8f"/>
+<text x="208.0" y="280" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">m</text>
+<path d="M224,248 Q256,242 254,280" fill="none" stroke="#333333" stroke-width="2.4" marker-end="url(#ah)"/>
+<text x="226" y="236" font-size="14" font-weight="700" fill="#333333">·10</text>
+<rect x="238" y="286" width="52" height="114" rx="6" fill="#3a7bd5"/>
+<text x="264.0" y="314" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">dm</text>
+<path d="M280,282 Q312,276 310,314" fill="none" stroke="#333333" stroke-width="2.4" marker-end="url(#ah)"/>
+<text x="282" y="270" font-size="14" font-weight="700" fill="#333333">·10</text>
+<rect x="294" y="320" width="52" height="80" rx="6" fill="#6a5acd"/>
+<text x="320.0" y="348" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">cm</text>
+<path d="M336,316 Q368,310 366,348" fill="none" stroke="#333333" stroke-width="2.4" marker-end="url(#ah)"/>
+<text x="338" y="304" font-size="14" font-weight="700" fill="#333333">·10</text>
+<rect x="350" y="354" width="52" height="46" rx="6" fill="#9b59b6"/>
+<text x="376.0" y="382" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">mm</text>
+<text x="318" y="140" font-size="14" fill="#6b5b53" text-anchor="middle">a hm és a dam ritka,</text>
+<text x="318" y="158" font-size="14" fill="#6b5b53" text-anchor="middle">de lépcsőfoknak számít</text>
+<text x="16" y="440" font-size="15" font-weight="700" fill="#3b2f2a">Egy lépcsőfok váltószáma:</text>
+<text x="16" y="463" font-size="15" fill="#3b2f2a">hosszúság (m): <tspan font-weight="700">10</tspan></text>
+<text x="16" y="485" font-size="15" fill="#3b2f2a">terület (m²): <tspan font-weight="700">100</tspan></text>
+<text x="16" y="507" font-size="15" fill="#3b2f2a">térfogat (m³): <tspan font-weight="700">1000</tspan></text>
+<text x="16" y="540" font-size="15" font-weight="700" fill="#3b2f2a">Példák:</text>
+<text x="16" y="562" font-size="14" fill="#3b2f2a">3,7 cm = 0,37 dm (egy fok fel: osztás 10-zel)</text>
+<text x="16" y="584" font-size="14" fill="#3b2f2a">9,2 m² = 920 dm² (egy fok le: szorzás 100-zal)</text>
+</svg>

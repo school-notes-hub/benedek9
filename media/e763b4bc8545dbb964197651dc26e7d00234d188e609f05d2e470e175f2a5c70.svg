@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="490" viewBox="0 0 400 490" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>A Holland-hatszög: a hat érdeklődési típus sorrendben a hatszög csúcsain</title>
+<rect width="400" height="490" rx="16" fill="#f7f9fc"/>
+<text x="200" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#23395d">A Holland-hatszög (RIASEC)</text>
+<line x1="200.0" y1="140.0" x2="200.0" y2="360.0" stroke="#9aa3b2" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="295.3" y1="195.0" x2="104.7" y2="305.0" stroke="#9aa3b2" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="295.3" y1="305.0" x2="104.7" y2="195.0" stroke="#9aa3b2" stroke-width="2" stroke-dasharray="7 6"/>
+<polygon points="200.0,140.0 295.3,195.0 295.3,305.0 200.0,360.0 104.7,305.0 104.7,195.0" fill="none" stroke="#23395d" stroke-width="3"/>
+<circle cx="200.0" cy="140.0" r="24" fill="#e05a47" stroke="#fff" stroke-width="3"/>
+<text x="200.0" y="148.0" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">R</text>
+<text x="200.0" y="106.0" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">realista</text>
+<circle cx="295.3" cy="195.0" r="24" fill="#3f7fd6" stroke="#fff" stroke-width="3"/>
+<text x="295.3" y="203.0" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">I</text>
+<text x="310.0" y="161.0" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">vizsgálódó</text>
+<circle cx="295.3" cy="305.0" r="24" fill="#8a5cc7" stroke="#fff" stroke-width="3"/>
+<text x="295.3" y="313.0" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">A</text>
+<text x="295.3" y="348.0" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">művészi</text>
+<circle cx="200.0" cy="360.0" r="24" fill="#2a9d8f" stroke="#fff" stroke-width="3"/>
+<text x="200.0" y="368.0" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">S</text>
+<text x="200.0" y="403.0" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">szociális</text>
+<circle cx="104.7" cy="305.0" r="24" fill="#e9a23b" stroke="#fff" stroke-width="3"/>
+<text x="104.7" y="313.0" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">E</text>
+<text x="104.7" y="348.0" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">vállalkozó</text>
+<circle cx="104.7" cy="195.0" r="24" fill="#6b7280" stroke="#fff" stroke-width="3"/>
+<text x="104.7" y="203.0" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">C</text>
+<text x="88.0" y="161.0" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">konvencionális</text>
+<line x1="40" y1="440" x2="80" y2="440" stroke="#23395d" stroke-width="3"/>
+<text x="92" y="445" font-size="15" fill="#23395d">egymás mellett: hasonló típusok</text>
+<line x1="40" y1="468" x2="80" y2="468" stroke="#9aa3b2" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="92" y="473" font-size="15" fill="#23395d">szemben: a legkevésbé hasonlók</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 528" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="A nonverbális kommunikáció: amivel átadjuk, és a nem nyelvi jelek">
+<title>A nonverbális kommunikáció: test, testtartás, mozdulatok, arckifejezés; mimika és gesztusok</title>
+<rect width="600" height="528" rx="18" fill="#fbfaff"/>
+<rect x="90" y="22" width="420" height="76" rx="16" fill="#23395d"/>
+<text x="300" y="56" font-size="24" font-weight="800" text-anchor="middle" fill="#fff">Nonverbális kommunikáció</text>
+<text x="300" y="84" font-size="19" text-anchor="middle" fill="#d6eaf8">üzenet szavak nélkül</text>
+<path d="M300,98 v14 H40 V369" fill="none" stroke="#23395d" stroke-width="4" stroke-linejoin="round"/>
+<path d="M40,369 H68" stroke="#23395d" stroke-width="4"/><circle cx="40" cy="369" r="7" fill="#b03a2e"/>
+<path d="M40,183 H68" stroke="#23395d" stroke-width="4"/><circle cx="40" cy="183" r="7" fill="#1f6fb2"/>
+<rect x="70" y="130" width="510" height="164" rx="14" fill="#d6eaf8" stroke="#1f6fb2" stroke-width="3"/>
+<text x="90" y="166" font-size="24" font-weight="800" fill="#1f6fb2">Amivel átadjuk</text>
+<rect x="90" y="184" width="182" height="40" rx="20" fill="#fff" stroke="#1f6fb2" stroke-width="2"/>
+<text x="181" y="211" font-size="20" text-anchor="middle" fill="#1c2833">test, testtartás</text>
+<rect x="284" y="184" width="151" height="40" rx="20" fill="#fff" stroke="#1f6fb2" stroke-width="2"/>
+<text x="359.5" y="211" font-size="20" text-anchor="middle" fill="#1c2833">mozdulatok</text>
+<rect x="90" y="234" width="153" height="40" rx="20" fill="#fff" stroke="#1f6fb2" stroke-width="2"/>
+<text x="166.5" y="261" font-size="20" text-anchor="middle" fill="#1c2833">arckifejezés</text>
+<rect x="70" y="316" width="510" height="192" rx="14" fill="#fadbd8" stroke="#b03a2e" stroke-width="3"/>
+<text x="90" y="352" font-size="24" font-weight="800" fill="#b03a2e">Nem nyelvi jelek</text>
+<rect x="90" y="370" width="140" height="42" rx="21" fill="#b03a2e"/>
+<text x="160" y="399" font-size="20" font-weight="700" text-anchor="middle" fill="#fff">Mimika</text>
+<text x="248" y="399" font-size="20" fill="#1c2833">arcunk jelzései</text>
+<rect x="90" y="440" width="140" height="42" rx="21" fill="#b03a2e"/>
+<text x="160" y="469" font-size="20" font-weight="700" text-anchor="middle" fill="#fff">Gesztusok</text>
+<text x="248" y="457" font-size="20" fill="#1c2833">testünk más részeivel</text>
+<text x="248" y="482" font-size="20" fill="#1c2833">jelzett mozdulatok</text>
+</svg>

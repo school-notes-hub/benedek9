@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 516" width="440" height="516" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Maslow-piramis: öt szükségletszint alulról felfelé, szintenként példákkal: 1. fiziológiai szükségletek (légzés, étel, víz, alvás), 2. biztonság (fizikai, anyagi, erkölcsi, vagyoni), 3. szociális szükségletek (barátság, család, szeretet), 4. önbecsülés (presztízs, pozíció, elismerés, önbecsülés), 5. önmegvalósítás (vitalitás, kreativitás, céltudatosság).">
+  <title>Maslow-piramis: a szükségletek öt szintje, szintenként példákkal</title>
+  <rect width="440" height="516" rx="16" fill="#fffaf0"/>
+  <text x="220" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#3b2f2f">Maslow-piramis</text>
+  <text x="220" y="58" text-anchor="middle" font-size="14" fill="#5f5049">Öt szükségletszint; egyszerre több is fontos lehet.</text>
+  <polygon points="26.4,376 173.6,376 192.0,450 8.0,450" fill="#c4473a" stroke="#fffaf0" stroke-width="2"/>
+  <text x="100" y="420.0" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">1</text>
+  <line x1="186.8" y1="413.0" x2="202" y2="413.0" stroke="#c4473a" stroke-width="2" stroke-dasharray="3 3"/>
+  <text x="208" y="408.5" font-size="15" font-weight="700" fill="#a33a2f">1. Fiziológiai szükségletek</text>
+  <text x="208" y="427.5" font-size="14" fill="#3b2f2f">légzés, étel, víz, alvás</text>
+  <polygon points="44.8,302 155.2,302 173.6,376 26.4,376" fill="#b8730e" stroke="#fffaf0" stroke-width="2"/>
+  <text x="100" y="346.0" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">2</text>
+  <line x1="168.4" y1="339.0" x2="202" y2="339.0" stroke="#b8730e" stroke-width="2" stroke-dasharray="3 3"/>
+  <text x="208" y="325.0" font-size="15" font-weight="700" fill="#8f5a0b">2. Biztonság</text>
+  <text x="208" y="344.0" font-size="14" fill="#3b2f2f">fizikai, anyagi, erkölcsi,</text>
+  <text x="208" y="363.0" font-size="14" fill="#3b2f2f">vagyoni</text>
+  <polygon points="63.2,228 136.8,228 155.2,302 44.8,302" fill="#1f8a7e" stroke="#fffaf0" stroke-width="2"/>
+  <text x="100" y="272.0" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">3</text>
+  <line x1="150.0" y1="265.0" x2="202" y2="265.0" stroke="#1f8a7e" stroke-width="2" stroke-dasharray="3 3"/>
+  <text x="208" y="260.5" font-size="15" font-weight="700" fill="#176b62">3. Szociális szükségletek</text>
+  <text x="208" y="279.5" font-size="14" fill="#3b2f2f">barátság, család, szeretet</text>
+  <polygon points="81.6,154 118.4,154 136.8,228 63.2,228" fill="#2f6fc4" stroke="#fffaf0" stroke-width="2"/>
+  <text x="100" y="198.0" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">4</text>
+  <line x1="131.6" y1="191.0" x2="202" y2="191.0" stroke="#2f6fc4" stroke-width="2" stroke-dasharray="3 3"/>
+  <text x="208" y="177.0" font-size="15" font-weight="700" fill="#2659a0">4. Önbecsülés</text>
+  <text x="208" y="196.0" font-size="14" fill="#3b2f2f">presztízs, pozíció,</text>
+  <text x="208" y="215.0" font-size="14" fill="#3b2f2f">elismerés, önbecsülés</text>
+  <polygon points="100,80 118.4,154 81.6,154" fill="#7b4bb7" stroke="#fffaf0" stroke-width="2"/>
+  <text x="100" y="135.8" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">5</text>
+  <line x1="116.1" y1="128.8" x2="202" y2="128.8" stroke="#7b4bb7" stroke-width="2" stroke-dasharray="3 3"/>
+  <text x="208" y="114.8" font-size="15" font-weight="700" fill="#633b96">5. Önmegvalósítás</text>
+  <text x="208" y="133.8" font-size="14" fill="#3b2f2f">vitalitás, kreativitás,</text>
+  <text x="208" y="152.8" font-size="14" fill="#3b2f2f">céltudatosság</text>
+  <text x="220" y="480" text-anchor="middle" font-size="14" fill="#6b5b53">A szintek szélessége nem mért adat;</text>
+  <text x="220" y="500" text-anchor="middle" font-size="14" fill="#6b5b53">a sorrend nem merev lépcsősor.</text>
+</svg>

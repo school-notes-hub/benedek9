@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="372" viewBox="0 0 400 372" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>Az álláskeresési járadék napjai a munkában töltött idő függvényében</title>
+<rect width="400" height="372" rx="16" fill="#f7f9fc"/>
+<text x="200" y="30" text-anchor="middle" font-size="18" font-weight="700" fill="#23395d">Meddig jár az álláskeresési járadék?</text>
+<text x="200" y="52" text-anchor="middle" font-size="15" fill="#23395d">10 nap munka = 1 nap járadék</text>
+<line x1="62.0" y1="300" x2="382.0" y2="300" stroke="#dde3ec" stroke-width="1"/>
+<text x="56.0" y="305" text-anchor="end" font-size="14" fill="#44516a">0</text>
+<line x1="62.0" y1="240" x2="382.0" y2="240" stroke="#dde3ec" stroke-width="1"/>
+<text x="56.0" y="245" text-anchor="end" font-size="14" fill="#44516a">30</text>
+<line x1="62.0" y1="180" x2="382.0" y2="180" stroke="#dde3ec" stroke-width="1"/>
+<text x="56.0" y="185" text-anchor="end" font-size="14" fill="#44516a">60</text>
+<line x1="62.0" y1="120" x2="382.0" y2="120" stroke="#dde3ec" stroke-width="1"/>
+<text x="56.0" y="125" text-anchor="end" font-size="14" fill="#44516a">90</text>
+<text x="12" y="74" font-size="14" font-weight="700" fill="#44516a">járadék (nap)</text>
+<line x1="62.0" y1="300" x2="382.0" y2="300" stroke="#44516a" stroke-width="2"/>
+<line x1="62.0" y1="300" x2="62.0" y2="76" stroke="#44516a" stroke-width="2"/>
+<line x1="62.0" y1="300" x2="62.0" y2="306" stroke="#44516a" stroke-width="2"/>
+<text x="62.0" y="324" text-anchor="middle" font-size="14" fill="#44516a">0</text>
+<line x1="168.2" y1="300" x2="168.2" y2="306" stroke="#44516a" stroke-width="2"/>
+<text x="168.2" y="324" text-anchor="middle" font-size="14" fill="#44516a">1 év</text>
+<line x1="274.4" y1="300" x2="274.4" y2="306" stroke="#44516a" stroke-width="2"/>
+<text x="274.4" y="324" text-anchor="middle" font-size="14" fill="#44516a">2 év</text>
+<line x1="380.5" y1="300" x2="380.5" y2="306" stroke="#44516a" stroke-width="2"/>
+<text x="386.5" y="324" text-anchor="end" font-size="14" fill="#44516a">3 év</text>
+<text x="222.0" y="346" text-anchor="middle" font-size="14" font-weight="700" fill="#44516a">munkában töltött idő az utolsó 3 évben</text>
+<line x1="62.0" y1="120" x2="382.0" y2="120" stroke="#c0392b" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="68.0" y="112" font-size="14" font-weight="700" fill="#c0392b">legfeljebb 90 nap</text>
+<line x1="62.0" y1="300" x2="166.7" y2="300" stroke="#c0392b" stroke-width="6"/>
+<circle cx="166.7" cy="300" r="5" fill="#f7f9fc" stroke="#c0392b" stroke-width="2.5"/>
+<text x="70.0" y="274" font-size="14" fill="#c0392b">360 nap alatt</text>
+<text x="70.0" y="290" font-size="14" fill="#c0392b">nem jár</text>
+<line x1="323.8" y1="120" x2="380.5" y2="81.0" stroke="#9aa3b2" stroke-width="2.5" stroke-dasharray="5 5"/>
+<circle cx="380.5" cy="81.0" r="4" fill="#9aa3b2"/>
+<text x="362.0" y="82.0" text-anchor="end" font-size="14" fill="#6b7280">korlát nélkül 110 lenne</text>
+<polyline points="166.7,228 323.8,120 380.5,120" fill="none" stroke="#2a6fdb" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="168.2" cy="226" r="5.5" fill="#fff" stroke="#2a6fdb" stroke-width="2.5"/>
+<text x="180.2" y="248" font-size="14" font-weight="700" fill="#2a6fdb">1 év munka → 37 nap</text>
+<circle cx="323.8" cy="120" r="5.5" fill="#fff" stroke="#2a6fdb" stroke-width="2.5"/>
+<text x="328.0" y="108" text-anchor="end" font-size="14" font-weight="700" fill="#2a6fdb">900 nap → 90 nap</text>
+</svg>

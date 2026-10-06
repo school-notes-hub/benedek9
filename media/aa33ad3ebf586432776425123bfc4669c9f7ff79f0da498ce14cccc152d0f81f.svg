@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="582" viewBox="0 0 400 582" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>Hogyan jön létre a munkaviszony: a két fél, a munkaszerződés és a tartalma</title>
+<defs><marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#44516a"/></marker></defs>
+<rect width="400" height="582" rx="16" fill="#f7f9fc"/>
+<text x="200" y="32" text-anchor="middle" font-size="18" font-weight="700" fill="#23395d">Hogyan jön létre a munkaviszony?</text>
+<rect x="12" y="52" width="182" height="92" rx="10" fill="#e8f1fb" stroke="#3f7fd6" stroke-width="2"/>
+<text x="103.0" y="76" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">Munkáltató</text>
+<text x="103.0" y="98" text-anchor="middle" font-size="14" fill="#23395d">jogképes személy:</text>
+<text x="103.0" y="117" text-anchor="middle" font-size="14" fill="#23395d">ember vagy szervezet</text>
+<rect x="206" y="52" width="182" height="92" rx="10" fill="#e8f1fb" stroke="#3f7fd6" stroke-width="2"/>
+<text x="297.0" y="76" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">Munkavállaló</text>
+<text x="297.0" y="98" text-anchor="middle" font-size="14" fill="#23395d">ember, főszabály</text>
+<text x="297.0" y="117" text-anchor="middle" font-size="14" fill="#23395d">szerint 16 éves kortól</text>
+<line x1="103" y1="144" x2="170" y2="186" stroke="#44516a" stroke-width="2.5" marker-end="url(#h)"/>
+<line x1="297" y1="144" x2="230" y2="186" stroke="#44516a" stroke-width="2.5" marker-end="url(#h)"/>
+<text x="200" y="172" text-anchor="middle" font-size="14" font-style="italic" fill="#44516a">megkötik</text>
+<rect x="40" y="188" width="320" height="84" rx="10" fill="#fff4e0" stroke="#e9a23b" stroke-width="2"/>
+<text x="200.0" y="212" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">Munkaszerződés</text>
+<text x="200.0" y="234" text-anchor="middle" font-size="14" fill="#23395d">mindig írásban; egy példány</text>
+<text x="200.0" y="253" text-anchor="middle" font-size="14" fill="#23395d">a munkavállalóé</text>
+<line x1="200" y1="272" x2="200" y2="300" stroke="#44516a" stroke-width="2.5" marker-end="url(#h)"/>
+<rect x="40" y="302" width="320" height="70" rx="10" fill="#e6f4f1" stroke="#2a8c7e" stroke-width="2"/>
+<text x="200.0" y="326" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">Munkaviszony</text>
+<text x="200.0" y="348" text-anchor="middle" font-size="14" fill="#23395d">a Munka Törvénykönyve szabályozza</text>
+<rect x="12" y="392" width="376" height="176" rx="10" fill="#ffffff" stroke="#9aa3b2" stroke-width="1.5"/>
+<text x="200" y="416" text-anchor="middle" font-size="16" font-weight="700" fill="#23395d">A munkaszerződés tartalma</text>
+<text x="24" y="444" font-size="14" font-weight="700" fill="#c0392b">Kötelező:</text>
+<text x="24" y="463" font-size="14" fill="#23395d">munkakör, alapbér</text>
+<text x="24" y="490" font-size="14" font-weight="700" fill="#44516a">Ha a szerződés nem szól róla:</text>
+<text x="24" y="509" font-size="14" fill="#23395d">határozatlan idő, teljes munkaidő,</text>
+<text x="24" y="528" font-size="14" fill="#23395d">a szokásos munkavégzési hely;</text>
+<text x="24" y="547" font-size="14" fill="#23395d">próbaidő csak akkor, ha kikötik</text>
+</svg>

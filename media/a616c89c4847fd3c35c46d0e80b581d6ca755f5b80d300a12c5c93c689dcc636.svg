@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="806" viewBox="0 0 600 806" role="img" aria-labelledby="title desc">
+<title id="title">Ki szavazhatott Athénban?</title>
+<desc id="desc">Egymásba ágyazott csoportok az athéni demokráciában, Kr. e. 5. század. Athén lakói között a szabadok és a rabszolgák; a szabadok között a polgárcsaládok tagjai és a metoikoszok; a polgárcsaládokban a felnőtt férfi polgárok, valamint a nők és a gyermekek. Politikai joga, szavazati joga a népgyűlésen csak a felnőtt férfi polgároknak volt.</desc>
+<rect width="600" height="806" fill="#fffdf7"/>
+<g font-family="DejaVu Sans, Verdana, sans-serif" fill="#1f3440">
+<text x="20" y="44" font-size="32" font-weight="bold">Ki szavazhatott Athénban?</text>
+<text x="20" y="80" font-size="20">Athéni demokrácia · Kr. e. 5. század</text>
+
+
+<rect x="20" y="104" width="560" height="600" rx="16" fill="#f1ece1" stroke="#8b7f6a" stroke-width="2"/>
+<text x="40" y="138" font-size="23" font-weight="bold">Athén lakói</text>
+
+
+<rect x="40" y="154" width="520" height="440" rx="14" fill="#e6eef2" stroke="#6f8c99" stroke-width="2"/>
+<text x="60" y="187" font-size="22" font-weight="bold">Szabadok</text>
+
+
+<rect x="60" y="203" width="480" height="262" rx="12" fill="#f7f0dc" stroke="#a38a4c" stroke-width="2"/>
+<text x="80" y="235" font-size="21" font-weight="bold">Polgárcsaládok tagjai</text>
+
+
+<rect x="80" y="251" width="440" height="110" rx="10" fill="#cfe5c4" stroke="#3f7a3a" stroke-width="3"/>
+<text x="300" y="290" font-size="22" font-weight="bold" text-anchor="middle">Felnőtt férfi polgárok</text>
+<text x="300" y="320" font-size="20" text-anchor="middle">politikai jog: szavazhattak</text>
+<text x="300" y="346" font-size="20" text-anchor="middle">a népgyűlésen</text>
+
+<text x="80" y="401" font-size="21" font-weight="bold">Nők és gyermekek</text>
+<text x="80" y="432" font-size="20">nincs politikai joguk</text>
+
+<text x="60" y="503" font-size="21" font-weight="bold">Metoikoszok</text>
+<text x="60" y="532" font-size="20">betelepült szabad idegenek;</text>
+<text x="60" y="560" font-size="20">nincs politikai joguk</text>
+
+<text x="40" y="634" font-size="21" font-weight="bold">Rabszolgák</text>
+<text x="40" y="664" font-size="20">nem szabadok; nincs politikai joguk</text>
+
+<rect x="20" y="726" width="34" height="20" rx="4" fill="#cfe5c4" stroke="#3f7a3a" stroke-width="2"/>
+<text x="64" y="743" font-size="19">politikai joggal rendelkező csoport</text>
+<text x="20" y="782" font-size="19">A dobozok mérete nem létszámarányos.</text>
+</g>
+</svg>

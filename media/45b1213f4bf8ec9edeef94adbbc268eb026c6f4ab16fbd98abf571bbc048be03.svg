@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 502" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="A térközszabályozás négy zónája méretarányos sávokkal">
+<title>Hall négy távolságzónája egy közös távolságtengelyen: bizalmas, személyes, társadalmi, nyilvános</title>
+<rect width="600" height="502" rx="18" fill="#fbfaff"/>
+<text x="300" y="40" font-size="24" font-weight="800" text-anchor="middle" fill="#23395d">Milyen közel állunk a másikhoz?</text>
+<text x="300" y="68" font-size="19" text-anchor="middle" fill="#444">Edward T. Hall négy távolságzónája</text>
+<text x="232" y="104" font-size="19" font-weight="800" text-anchor="middle" fill="#23395d">te</text>
+<line x1="232.0" y1="110" x2="232.0" y2="402" stroke="#23395d" stroke-width="3"/>
+<rect x="12" y="116" width="576" height="70" rx="8" fill="#f1eff8"/>
+<text x="24" y="146" font-size="21" font-weight="800" fill="#c0392b">bizalmas</text>
+<text x="24" y="172" font-size="19" fill="#1c2833">kb. 50 cm-ig</text>
+<rect x="232.0" y="134" width="40.0" height="34" fill="#c0392b"/>
+<text x="280" y="158" font-size="19" fill="#1c2833">család, közeli barátok</text>
+<text x="24" y="216" font-size="21" font-weight="800" fill="#d68910">személyes</text>
+<text x="24" y="242" font-size="19" fill="#1c2833">50–120 cm</text>
+<rect x="272.0" y="204" width="56.0" height="34" fill="#d68910"/>
+<text x="336" y="228" font-size="19" fill="#1c2833">ismerősök</text>
+<rect x="12" y="256" width="576" height="70" rx="8" fill="#f1eff8"/>
+<text x="24" y="286" font-size="21" font-weight="800" fill="#1e8449">társadalmi</text>
+<text x="24" y="312" font-size="19" fill="#1c2833">120–360 cm</text>
+<rect x="328.0" y="274" width="192.0" height="34" fill="#1e8449"/>
+<text x="424" y="298" font-size="19" font-weight="700" text-anchor="middle" fill="#fff">ismeretlenek</text>
+<text x="24" y="356" font-size="21" font-weight="800" fill="#1f6fb2">nyilvános</text>
+<text x="24" y="382" font-size="19" fill="#1c2833">360 cm-től</text>
+<rect x="520.0" y="344" width="56.0" height="34" fill="#1f6fb2"/>
+<path d="M576,338 L590,361.0 L576,384 z" fill="#1f6fb2"/>
+<text x="512" y="368" font-size="19" text-anchor="end" fill="#1c2833">nyilvános szereplés</text>
+<line x1="232.0" y1="410" x2="590" y2="410" stroke="#1c2833" stroke-width="2"/>
+<line x1="232.0" y1="410" x2="232.0" y2="419" stroke="#1c2833" stroke-width="2"/>
+<text x="232" y="442" font-size="19" text-anchor="middle" fill="#1c2833">0</text>
+<line x1="272.0" y1="410" x2="272.0" y2="419" stroke="#1c2833" stroke-width="2"/>
+<text x="272" y="442" font-size="19" text-anchor="middle" fill="#1c2833">50</text>
+<line x1="328.0" y1="410" x2="328.0" y2="419" stroke="#1c2833" stroke-width="2"/>
+<text x="328" y="442" font-size="19" text-anchor="middle" fill="#1c2833">120</text>
+<line x1="520.0" y1="410" x2="520.0" y2="419" stroke="#1c2833" stroke-width="2"/>
+<text x="520" y="442" font-size="19" text-anchor="middle" fill="#1c2833">360</text>
+<text x="586" y="442" font-size="19" text-anchor="end" fill="#1c2833">cm</text>
+<text x="300" y="480" font-size="19" text-anchor="middle" fill="#444">A zónák kultúránként eltérnek.</text>
+</svg>

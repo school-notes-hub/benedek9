@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1116" viewBox="0 0 600 1116" role="img" aria-labelledby="title desc">
+<title id="title">Az ókori Kelet időrendje</title>
+<desc id="desc">Függőleges, időarányos idővonal fentről lefelé: Kr. e. 9000 körül növénytermesztés a Közel-Keleten (kihagyott évezredek után folytatódik); Kr. e. 4. évezred vége sumer városállamok; Kr. e. 3000 körül egységes Egyiptom; Kr. e. 2500 körül az Indus-völgyi városok virágkora; Kr. e. 18. század Hammurapi; Kr. e. 2. évezred az első kínai államok (sáv, amelybe a 18. század is beleesik); Kr. e. 7. század az első vert érmék; hagyományosan Kr. e. 6. század Buddha; Kr. e. 221 Kína egyesítése.</desc>
+<rect width="600" height="1116" fill="#fffdf7"/>
+<g font-family="DejaVu Sans, Verdana, sans-serif">
+<text x="20" y="44.0" font-size="32" font-weight="bold" text-anchor="start" fill="#1f3440">Az ókori Kelet időrendje</text><text x="20" y="80.0" font-size="20" font-weight="normal" text-anchor="start" fill="#1f3440">Kr. e. = Krisztus előtt: a nagyobb szám a régebbi</text>
+<path d="M140 120 V180" stroke="#55656b" stroke-width="4"/>
+<path d="M140 180 V220" stroke="#55656b" stroke-width="4" stroke-dasharray="4 8"/>
+<path d="M124 208 L156 196" stroke="#1f3440" stroke-width="3"/>
+<path d="M124 220 L156 208" stroke="#1f3440" stroke-width="3"/>
+<circle cx="140" cy="140" r="9" fill="#2f7a57" stroke="#fffdf7" stroke-width="3"/>
+<text x="204" y="136.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1f3440">Kr. e. 9000 körül</text>
+<text x="204" y="164.0" font-size="20" font-weight="normal" text-anchor="start" fill="#1f3440">növénytermesztés a Közel-Keleten</text>
+<path d="M152 140 H196" stroke="#55656b" stroke-width="1.5"/>
+<text x="118" y="216.0" font-size="19" font-weight="normal" text-anchor="end" fill="#55656b">kihagyott</text>
+<text x="118" y="238.0" font-size="19" font-weight="normal" text-anchor="end" fill="#55656b">évezredek</text>
+<path d="M140 220 V890.0" stroke="#55656b" stroke-width="4"/>
+<path d="M130 876.0 L140 896.0 L150 876.0 Z" fill="#55656b"/>
+<path d="M128 310.0 H140" stroke="#55656b" stroke-width="3"/>
+<text x="122" y="317.0" font-size="19" font-weight="normal" text-anchor="end" fill="#55656b">Kr. e. 3000</text>
+<path d="M128 510.0 H140" stroke="#55656b" stroke-width="3"/>
+<text x="122" y="517.0" font-size="19" font-weight="normal" text-anchor="end" fill="#55656b">Kr. e. 2000</text>
+<path d="M128 710.0 H140" stroke="#55656b" stroke-width="3"/>
+<text x="122" y="717.0" font-size="19" font-weight="normal" text-anchor="end" fill="#55656b">Kr. e. 1000</text>
+<circle cx="140" cy="290.0" r="8" fill="#2f7a57" stroke="#fffdf7" stroke-width="3"/>
+<path d="M150 290.0 L186 294.0 H198" fill="none" stroke="#55656b" stroke-width="1.5"/>
+<text x="204" y="300.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1f3440">Kr. e. 4. évezred vége</text>
+<text x="204" y="326.0" font-size="20" font-weight="normal" text-anchor="start" fill="#1f3440">sumer városállamok</text>
+<circle cx="140" cy="310.0" r="8" fill="#2f7a57" stroke="#fffdf7" stroke-width="3"/>
+<path d="M150 310.0 L186 356.0 H198" fill="none" stroke="#55656b" stroke-width="1.5"/>
+<text x="204" y="362.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1f3440">Kr. e. 3000 körül</text>
+<text x="204" y="388.0" font-size="20" font-weight="normal" text-anchor="start" fill="#1f3440">egységes Egyiptom</text>
+<circle cx="140" cy="410.0" r="8" fill="#2f7a57" stroke="#fffdf7" stroke-width="3"/>
+<path d="M150 410.0 L186 418.0 H198" fill="none" stroke="#55656b" stroke-width="1.5"/>
+<text x="204" y="424.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1f3440">Kr. e. 2500 körül</text>
+<text x="204" y="450.0" font-size="20" font-weight="normal" text-anchor="start" fill="#1f3440">az Indus-völgyi városok virágkora</text>
+<rect x="131" y="550.0" width="18" height="20.0" rx="3" fill="#2f7a57" stroke="#fffdf7" stroke-width="1.5"/>
+<path d="M150 560.0 L186 552.0 H198" fill="none" stroke="#55656b" stroke-width="1.5"/>
+<text x="204" y="558.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1f3440">Kr. e. 18. század</text>
+<text x="204" y="584.0" font-size="20" font-weight="normal" text-anchor="start" fill="#1f3440">Hammurapi uralkodása, Babilon</text>
+<rect x="159" y="510.0" width="14" height="200.0" rx="4" fill="#c48a2c"/>
+<path d="M174 610.0 L186 614.0 H198" fill="none" stroke="#55656b" stroke-width="1.5"/>
+<text x="204" y="620.0" font-size="20" font-weight="bold" text-anchor="start" fill="#8a5a12">Kr. e. 2. évezred folyamán</text>
+<text x="204" y="646.0" font-size="20" font-weight="normal" text-anchor="start" fill="#1f3440">az első kínai államok</text>
+<rect x="131" y="770.0" width="18" height="20.0" rx="3" fill="#2f7a57" stroke="#fffdf7" stroke-width="1.5"/>
+<path d="M150 780.0 L186 772.0 H198" fill="none" stroke="#55656b" stroke-width="1.5"/>
+<text x="204" y="778.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1f3440">Kr. e. 7. század</text>
+<text x="204" y="804.0" font-size="20" font-weight="normal" text-anchor="start" fill="#1f3440">az első vert érmék, Lüdia</text>
+<rect x="131" y="790.0" width="18" height="20.0" rx="3" fill="#2f7a57" stroke="#fffdf7" stroke-width="1.5"/>
+<path d="M150 800.0 L186 834.0 H198" fill="none" stroke="#55656b" stroke-width="1.5"/>
+<text x="204" y="840.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1f3440">hagyományosan Kr. e. 6. század</text>
+<text x="204" y="866.0" font-size="20" font-weight="normal" text-anchor="start" fill="#1f3440">Buddha tanítása, India</text>
+<circle cx="140" cy="865.8" r="8" fill="#2f7a57" stroke="#fffdf7" stroke-width="3"/>
+<path d="M150 865.8 L186 896.0 H198" fill="none" stroke="#55656b" stroke-width="1.5"/>
+<text x="204" y="902.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1f3440">Kr. e. 221</text>
+<text x="204" y="928.0" font-size="20" font-weight="normal" text-anchor="start" fill="#1f3440">Kína egyesítése</text>
+<circle cx="34" cy="977.0" r="8" fill="#2f7a57"/><text x="56" y="984.0" font-size="19" font-weight="normal" text-anchor="start" fill="#1f3440">időpont (a „körül” közelítő)</text><rect x="25" y="1000.0" width="18" height="22" rx="3" fill="#2f7a57"/><text x="56" y="1018.0" font-size="19" font-weight="normal" text-anchor="start" fill="#1f3440">egy évszázad</text><rect x="27" y="1034.0" width="14" height="22" rx="4" fill="#c48a2c"/><text x="56" y="1052.0" font-size="19" font-weight="normal" text-anchor="start" fill="#1f3440">egy évezred (Kr. e. 2000–1001)</text><text x="20" y="1092.0" font-size="19" font-weight="normal" text-anchor="start" fill="#1f3440">A szaggatott szakasz alatt az idő arányos.</text>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="356" viewBox="0 0 400 356" role="img" aria-label="Fa-diagram balról jobbra: a kezdőpontból 3 ág indul a piros, a kék és a zöld pólóhoz, mindegyik pólóból 2 ág a farmerhez és a bézs nadrághoz; az ágvégeket 1-től 6-ig számozva összesen 6 összeállítás, vagyis 3 · 2 = 6.">
+<title>Fa-diagram balról jobbra: a kezdőpontból 3 ág indul a piros, a kék és a zöld pólóhoz, mindegyik pólóból 2 ág a farmerhez és a bézs nadrághoz; az ágvégeket 1-től 6-ig számozva összesen 6 összeállítás, vagyis 3 · 2 = 6.</title>
+<rect width="400" height="356" rx="12" fill="#fffaf0"/>
+<text x="200" y="30" font-family="DejaVu Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">Mit vegyek fel?</text>
+<circle cx="26" cy="180.0" r="7" fill="#17283d"/>
+<line x1="26" y1="180.0" x2="70" y2="92.0" stroke="#6b7884" stroke-width="2"/>
+<rect x="70" y="74.0" width="122" height="36" rx="8" fill="#b03a2e"/>
+<text x="131" y="98.0" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#ffffff">piros póló</text>
+<line x1="192" y1="92.0" x2="246" y2="70" stroke="#6b7884" stroke-width="2"/>
+<rect x="246" y="54" width="96" height="32" rx="8" fill="#24384d" stroke="#24384d" stroke-width="1.5"/>
+<text x="294" y="76" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#ffffff">farmer</text>
+<text x="362" y="76" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4a5a6a">1.</text>
+<line x1="192" y1="92.0" x2="246" y2="114" stroke="#6b7884" stroke-width="2"/>
+<rect x="246" y="98" width="96" height="32" rx="8" fill="#e3c79b" stroke="#24384d" stroke-width="1.5"/>
+<text x="294" y="120" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">bézs</text>
+<text x="362" y="120" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4a5a6a">2.</text>
+<line x1="26" y1="180.0" x2="70" y2="180.0" stroke="#6b7884" stroke-width="2"/>
+<rect x="70" y="162.0" width="122" height="36" rx="8" fill="#1f618d"/>
+<text x="131" y="186.0" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#ffffff">kék póló</text>
+<line x1="192" y1="180.0" x2="246" y2="158" stroke="#6b7884" stroke-width="2"/>
+<rect x="246" y="142" width="96" height="32" rx="8" fill="#24384d" stroke="#24384d" stroke-width="1.5"/>
+<text x="294" y="164" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#ffffff">farmer</text>
+<text x="362" y="164" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4a5a6a">3.</text>
+<line x1="192" y1="180.0" x2="246" y2="202" stroke="#6b7884" stroke-width="2"/>
+<rect x="246" y="186" width="96" height="32" rx="8" fill="#e3c79b" stroke="#24384d" stroke-width="1.5"/>
+<text x="294" y="208" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">bézs</text>
+<text x="362" y="208" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4a5a6a">4.</text>
+<line x1="26" y1="180.0" x2="70" y2="268.0" stroke="#6b7884" stroke-width="2"/>
+<rect x="70" y="250.0" width="122" height="36" rx="8" fill="#1d7a45"/>
+<text x="131" y="274.0" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#ffffff">zöld póló</text>
+<line x1="192" y1="268.0" x2="246" y2="246" stroke="#6b7884" stroke-width="2"/>
+<rect x="246" y="230" width="96" height="32" rx="8" fill="#24384d" stroke="#24384d" stroke-width="1.5"/>
+<text x="294" y="252" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#ffffff">farmer</text>
+<text x="362" y="252" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4a5a6a">5.</text>
+<line x1="192" y1="268.0" x2="246" y2="290" stroke="#6b7884" stroke-width="2"/>
+<rect x="246" y="274" width="96" height="32" rx="8" fill="#e3c79b" stroke="#24384d" stroke-width="1.5"/>
+<text x="294" y="296" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">bézs</text>
+<text x="362" y="296" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4a5a6a">6.</text>
+<text x="200" y="338" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">3 póló · 2 nadrág = 6 összeállítás</text>
+</svg>
