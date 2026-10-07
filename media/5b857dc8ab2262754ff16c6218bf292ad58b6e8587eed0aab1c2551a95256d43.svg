@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="302" viewBox="0 0 400 302" role="img" aria-label="Az U keretben (30 fős osztály) két átfedő kör: S (spanyol) és O (olasz). Csak S-ben 16, a közös részben 4, csak O-ban 10; a körökön kívül 0 (egyik sem).">
+<title>Az U keretben (30 fős osztály) két átfedő kör: S (spanyol) és O (olasz). Csak S-ben 16, a közös részben 4, csak O-ban 10; a körökön kívül 0 (egyik sem).</title>
+<rect width="400" height="302" rx="12" fill="#fffaf0"/>
+<text x="200" y="28" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">30 fős osztály</text>
+<rect x="20" y="42" width="360" height="218" rx="6" fill="#ffffff" stroke="#17283d" stroke-width="1.6"/>
+<text x="32" y="64" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="start" font-weight="bold" font-style="normal" fill="#17283d">U</text>
+<circle cx="160" cy="160" r="82" fill="#2b6cb0" fill-opacity="0.18" stroke="#2b6cb0" stroke-width="2.4"/>
+<circle cx="250" cy="160" r="72" fill="#c05621" fill-opacity="0.18" stroke="#c05621" stroke-width="2.4"/>
+<text x="112" y="68" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#2b6cb0">S (spanyol)</text>
+<text x="286" y="70" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" font-style="normal" fill="#c05621">O (olasz)</text>
+<text x="122" y="167" font-family="DejaVu Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">16</text>
+<text x="205" y="167" font-family="DejaVu Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">4</text>
+<text x="278" y="167" font-family="DejaVu Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">10</text>
+<text x="330" y="232" font-family="DejaVu Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">0</text>
+<text x="330" y="250" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">egyik sem</text>
+<text x="200" y="286" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">spanyolul 16 + 4 = 20, olaszul 4 + 10 = 14</text>
+</svg>

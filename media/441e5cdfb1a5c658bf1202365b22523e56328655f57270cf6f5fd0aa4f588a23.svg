@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>Két jármű egymás felé: A és B 40 km-re van egymástól; A-ból 60 km/h, B-ből 45 perccel később 65 km/h</title>
+<rect width="400" height="200" rx="16" fill="#f5f8fb"/>
+<text x="200.0" y="30.0" font-size="18" fill="#16283b" text-anchor="middle" font-weight="700">Két jármű egymás felé, 40 km</text>
+<line x1="40" y1="110" x2="360" y2="110" stroke="#16283b" stroke-width="3"/>
+<circle cx="40.0" cy="110.0" r="6" fill="#16283b"/>
+<circle cx="360.0" cy="110.0" r="6" fill="#16283b"/>
+<text x="40.0" y="138.0" font-size="16" fill="#16283b" text-anchor="middle" font-weight="700">A</text>
+<text x="360.0" y="138.0" font-size="16" fill="#16283b" text-anchor="middle" font-weight="700">B</text>
+<text x="200.0" y="66.0" font-size="15" fill="#16283b" text-anchor="middle" font-weight="400">a teljes távolság: 40 km</text>
+<line x1="40.0" y1="88.0" x2="107.0" y2="88.0" stroke="#175e96" stroke-width="4"/><path d="M120.0,88.0 L105.0,95.5 L105.0,80.5 z" fill="#175e96"/>
+<text x="40.0" y="80.0" font-size="15" fill="#175e96" text-anchor="start" font-weight="700">60 km/h</text>
+<line x1="360.0" y1="88.0" x2="293.0" y2="88.0" stroke="#c4561c" stroke-width="4"/><path d="M280.0,88.0 L295.0,80.5 L295.0,95.5 z" fill="#c4561c"/>
+<text x="360.0" y="80.0" font-size="15" fill="#c4561c" text-anchor="end" font-weight="700">65 km/h</text>
+<text x="200.0" y="174.0" font-size="15" fill="#4a5568" text-anchor="middle" font-weight="400">a másik jármű B-ből 45 perccel később indul</text>
+</svg>

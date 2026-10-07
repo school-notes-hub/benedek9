@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 506" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>Ellentétes irányú vektorok összege: különböző nagyságúaknál az összeg nagysága a két nagyság különbsége, iránya a nagyobbiké; egyenlő nagyságúaknál az összeg nullvektor</title>
+<rect width="400" height="506" rx="16" fill="#f5f8fb"/>
+<text x="200.0" y="32.0" font-size="18" fill="#16283b" text-anchor="middle" font-weight="700">Ellentétes irányú vektorok összege</text>
+<text x="20.0" y="70.0" font-size="15" fill="#4a5568" text-anchor="start" font-weight="700">Különböző nagyságúak</text>
+<circle cx="70.0" cy="110.0" r="4" fill="#16283b"/>
+<line x1="70.0" y1="110.0" x2="257.0" y2="110.0" stroke="#175e96" stroke-width="5"/><path d="M270.0,110.0 L255.0,117.5 L255.0,102.5 z" fill="#175e96"/>
+<text x="162.0" y="98.0" font-size="17" fill="#175e96" text-anchor="start" font-weight="700" font-style="italic">a</text><line x1="162.5" y1="83.4" x2="170.5" y2="83.4" stroke="#175e96" stroke-width="1.6"/><path d="M169.5,80.4 L174.5,83.4 L169.5,86.4 z" fill="#175e96"/>
+<line x1="270.0" y1="110.0" x2="270.0" y2="136.0" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3 4"/>
+<line x1="270.0" y1="136.0" x2="203.0" y2="136.0" stroke="#c4561c" stroke-width="5"/><path d="M190.0,136.0 L205.0,128.5 L205.0,143.5 z" fill="#c4561c"/>
+<text x="226.0" y="160.0" font-size="17" fill="#c4561c" text-anchor="start" font-weight="700" font-style="italic">b</text><line x1="226.5" y1="145.4" x2="234.5" y2="145.4" stroke="#c4561c" stroke-width="1.6"/><path d="M233.5,142.4 L238.5,145.4 L233.5,148.4 z" fill="#c4561c"/>
+<line x1="70.0" y1="110.0" x2="70.0" y2="186.0" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3 4"/>
+<line x1="190.0" y1="136.0" x2="190.0" y2="186.0" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle cx="70.0" cy="186.0" r="4" fill="#1d7a43"/>
+<line x1="70.0" y1="186.0" x2="177.0" y2="186.0" stroke="#1d7a43" stroke-width="5" stroke-dasharray="9 6"/><path d="M190.0,186.0 L175.0,193.5 L175.0,178.5 z" fill="#1d7a43"/>
+<text x="94.0" y="214.0" font-size="17" fill="#1d7a43" text-anchor="start" font-weight="700" font-style="italic">a</text><line x1="94.5" y1="199.4" x2="102.5" y2="199.4" stroke="#1d7a43" stroke-width="1.6"/><path d="M101.5,196.4 L106.5,199.4 L101.5,202.4 z" fill="#1d7a43"/>
+<text x="110.5" y="214.0" font-size="17" fill="#1d7a43" text-anchor="start" font-weight="700">+</text>
+<text x="124.5" y="214.0" font-size="17" fill="#1d7a43" text-anchor="start" font-weight="700" font-style="italic">b</text><line x1="125.0" y1="199.4" x2="133.1" y2="199.4" stroke="#1d7a43" stroke-width="1.6"/><path d="M132.1,196.4 L137.1,199.4 L132.1,202.4 z" fill="#1d7a43"/>
+<text x="200.0" y="248.0" font-size="15" fill="#16283b" text-anchor="middle" font-weight="400">nagysága: a két nagyság különbsége</text>
+<text x="200.0" y="268.0" font-size="15" fill="#16283b" text-anchor="middle" font-weight="400">iránya: a nagyobbik vektor iránya</text>
+<line x1="20" y1="298" x2="380" y2="298" stroke="#d5dde6" stroke-width="1.5"/>
+<text x="20.0" y="326.0" font-size="15" fill="#4a5568" text-anchor="start" font-weight="700">Egyenlő nagyságúak</text>
+<circle cx="100.0" cy="370.0" r="4" fill="#16283b"/>
+<line x1="100.0" y1="370.0" x2="247.0" y2="370.0" stroke="#175e96" stroke-width="5"/><path d="M260.0,370.0 L245.0,377.5 L245.0,362.5 z" fill="#175e96"/>
+<text x="172.0" y="358.0" font-size="17" fill="#175e96" text-anchor="start" font-weight="700" font-style="italic">a</text><line x1="172.5" y1="343.4" x2="180.5" y2="343.4" stroke="#175e96" stroke-width="1.6"/><path d="M179.5,340.4 L184.5,343.4 L179.5,346.4 z" fill="#175e96"/>
+<line x1="260.0" y1="370.0" x2="260.0" y2="396.0" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3 4"/>
+<line x1="260.0" y1="396.0" x2="113.0" y2="396.0" stroke="#c4561c" stroke-width="5"/><path d="M100.0,396.0 L115.0,388.5 L115.0,403.5 z" fill="#c4561c"/>
+<text x="172.0" y="420.0" font-size="17" fill="#c4561c" text-anchor="start" font-weight="700" font-style="italic">b</text><line x1="172.5" y1="405.4" x2="180.5" y2="405.4" stroke="#c4561c" stroke-width="1.6"/><path d="M179.5,402.4 L184.5,405.4 L179.5,408.4 z" fill="#c4561c"/>
+<line x1="100.0" y1="370.0" x2="100.0" y2="396.0" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text x="110.0" y="458.0" font-size="17" fill="#1d7a43" text-anchor="start" font-weight="700" font-style="italic">a</text><line x1="110.5" y1="443.4" x2="118.5" y2="443.4" stroke="#1d7a43" stroke-width="1.6"/><path d="M117.5,440.4 L122.5,443.4 L117.5,446.4 z" fill="#1d7a43"/>
+<text x="126.5" y="458.0" font-size="17" fill="#1d7a43" text-anchor="start" font-weight="700">+</text>
+<text x="140.5" y="458.0" font-size="17" fill="#1d7a43" text-anchor="start" font-weight="700" font-style="italic">b</text><line x1="141.0" y1="443.4" x2="149.1" y2="443.4" stroke="#1d7a43" stroke-width="1.6"/><path d="M148.1,440.4 L153.1,443.4 L148.1,446.4 z" fill="#1d7a43"/>
+<text x="159.1" y="458.0" font-size="17" fill="#1d7a43" text-anchor="start" font-weight="700">= nullvektor</text>
+<text x="200.0" y="484.0" font-size="15" fill="#16283b" text-anchor="middle" font-weight="400">a második nyíl vége visszaér a kezdőpontba</text>
+</svg>

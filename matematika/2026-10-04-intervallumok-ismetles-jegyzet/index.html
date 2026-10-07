@@ -1,0 +1,230 @@
+<!DOCTYPE html><html lang="hu" dir="ltr" data-theme="dark" data-has-toc data-has-sidebar class="astro-g5ptsecz"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Intervallumok, vegyes feladatok, ismétlés | Benedek jegyzetei</title><link rel="canonical" href="https://school-notes-hub.github.io/benedek9/matematika/2026-10-04-intervallumok-ismetles-jegyzet/"/><link rel="sitemap" href="/benedek9/sitemap-index.xml"/><link rel="shortcut icon" href="/benedek9/media/4ec378f444720c24dae4b04041c80ad8c3c692682d3222dd97b112dcc3274b53.png" type="image/png"/><meta name="generator" content="Astro v7.3.5"/><meta name="generator" content="Starlight v0.42.4"/><meta property="og:title" content="Intervallumok, vegyes feladatok, ismétlés"/><meta property="og:type" content="article"/><meta property="og:url" content="https://school-notes-hub.github.io/benedek9/matematika/2026-10-04-intervallumok-ismetles-jegyzet/"/><meta property="og:locale" content="hu"/><meta property="og:site_name" content="Benedek jegyzetei"/><meta name="twitter:card" content="summary_large_image"/><script>
+	window.StarlightThemeProvider = (() => {
+		const storedTheme =
+			typeof localStorage !== 'undefined' && localStorage.getItem('starlight-theme');
+		const theme =
+			storedTheme ||
+			(window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+		document.documentElement.dataset.theme = theme === 'light' ? 'light' : 'dark';
+		return {
+			updatePickers(theme = storedTheme || 'auto') {
+				document.querySelectorAll('starlight-theme-select').forEach((picker) => {
+					const select = picker.querySelector('select');
+					if (select) select.value = theme;
+					/** @type {HTMLTemplateElement | null} */
+					const tmpl = document.querySelector(`#theme-icons`);
+					const newIcon = tmpl && tmpl.content.querySelector('.' + theme);
+					if (newIcon) {
+						const oldIcon = picker.querySelector('svg.label-icon');
+						if (oldIcon) {
+							oldIcon.replaceChildren(...newIcon.cloneNode(true).childNodes);
+						}
+					}
+				});
+			},
+		};
+	})();
+</script><template id="theme-icons"><svg aria-hidden="true" class="light astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M5 12a1 1 0 0 0-1-1H3a1 1 0 0 0 0 2h1a1 1 0 0 0 1-1Zm.64 5-.71.71a1 1 0 0 0 0 1.41 1 1 0 0 0 1.41 0l.71-.71A1 1 0 0 0 5.64 17ZM12 5a1 1 0 0 0 1-1V3a1 1 0 0 0-2 0v1a1 1 0 0 0 1 1Zm5.66 2.34a1 1 0 0 0 .7-.29l.71-.71a1 1 0 1 0-1.41-1.41l-.66.71a1 1 0 0 0 0 1.41 1 1 0 0 0 .66.29Zm-12-.29a1 1 0 0 0 1.41 0 1 1 0 0 0 0-1.41l-.71-.71a1.004 1.004 0 1 0-1.43 1.41l.73.71ZM21 11h-1a1 1 0 0 0 0 2h1a1 1 0 0 0 0-2Zm-2.64 6A1 1 0 0 0 17 18.36l.71.71a1 1 0 0 0 1.41 0 1 1 0 0 0 0-1.41l-.76-.66ZM12 6.5a5.5 5.5 0 1 0 5.5 5.5A5.51 5.51 0 0 0 12 6.5Zm0 9a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7Zm0 3.5a1 1 0 0 0-1 1v1a1 1 0 0 0 2 0v-1a1 1 0 0 0-1-1Z"/></svg><svg aria-hidden="true" class="dark astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M21.64 13a1 1 0 0 0-1.05-.14 8.049 8.049 0 0 1-3.37.73 8.15 8.15 0 0 1-8.14-8.1 8.59 8.59 0 0 1 .25-2A1 1 0 0 0 8 2.36a10.14 10.14 0 1 0 14 11.69 1 1 0 0 0-.36-1.05Zm-9.5 6.69A8.14 8.14 0 0 1 7.08 5.22v.27a10.15 10.15 0 0 0 10.14 10.14 9.784 9.784 0 0 0 2.1-.22 8.11 8.11 0 0 1-7.18 4.32v-.04Z"/></svg><svg aria-hidden="true" class="auto astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M21 14h-1V7a3 3 0 0 0-3-3H7a3 3 0 0 0-3 3v7H3a1 1 0 0 0-1 1v2a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3v-2a1 1 0 0 0-1-1ZM6 7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7H6V7Zm14 10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-1h16v1Z"/></svg></template><link rel="stylesheet" href="/benedek9/_astro/print.ehPL0gv-.css" media="print"><style>.study-pagination:where(.astro-df5goeu7) a:where(.astro-df5goeu7){overflow-wrap:anywhere;min-width:0}.study-feedback:where(.astro-df5goeu7){border-top:1px solid var(--sl-color-hairline);margin-block:2rem;padding-block:1rem;font-size:.875rem}.study-feedback:where(.astro-df5goeu7) p:where(.astro-df5goeu7){color:var(--sl-color-gray-2);max-width:78ch;margin-top:.4rem}@media print{.study-feedback:where(.astro-df5goeu7){display:none}}
+</style><link rel="stylesheet" href="/benedek9/_astro/styles.Cz_bb52r.css"><link rel="stylesheet" href="/benedek9/_astro/middleware.CuQ0l8mG.css"><script type="module" src="/benedek9/_astro/page.Dwipeu-R.js"></script></head><body class="astro-g5ptsecz"><a class="sl-skip-link astro-qb7clj6f" href="#_top">Tovább a tartalomhoz</a><div class="page sl-flex astro-yntsjkba"><header class="header astro-yntsjkba"><div class="header astro-by6fddyj"><div class="title-wrapper sl-flex astro-by6fddyj"><a href="/benedek9/" class="study-brand"><span class="study-brand-mark study-brand-image" aria-hidden="true"><img class="brand-light" src="/benedek9/media/260b8b23dd451bec66100bedd3942d6f1ec4c62cb44c1e2c9cb18acf3eee7dcd.png" width="42" height="42" alt=""><img class="brand-dark" src="/benedek9/media/4ec378f444720c24dae4b04041c80ad8c3c692682d3222dd97b112dcc3274b53.png" width="42" height="42" alt=""></span><span class="study-brand-name" translate="no">Benedek jegyzetei</span></a><script type="module">function e(){let e=document.documentElement.dataset.theme===`light`?`light`:`dark`,t=document.querySelector(`.study-brand .brand-${e}`),n=document.querySelector(`link[rel~="icon"]`);t&&n&&(n.href=t.src,n.type=`image/png`)}e(),new MutationObserver(e).observe(document.documentElement,{attributes:!0,attributeFilter:[`data-theme`]});</script></div><div class="sl-flex print:hidden astro-by6fddyj"><site-search class="astro-by6fddyj astro-b5kgnn7o" data-translations="{&quot;placeholder&quot;:&quot;Keresés&quot;,&quot;clear_search&quot;:&quot;Törlés&quot;,&quot;load_more&quot;:&quot;Több találat betöltése&quot;,&quot;search_label&quot;:&quot;Keresés ezen az oldalon&quot;,&quot;filters_label&quot;:&quot;Szűrők&quot;,&quot;zero_results&quot;:&quot;Erre a kifejezésre nincs találat: [SEARCH_TERM]&quot;,&quot;many_results&quot;:&quot;[COUNT] találat erre: [SEARCH_TERM]&quot;,&quot;one_result&quot;:&quot;[COUNT] találat erre: [SEARCH_TERM]&quot;,&quot;alt_search&quot;:&quot;Erre a kifejezésre nincs találat: [SEARCH_TERM]. Találatok mutatása erre: [DIFFERENT_TERM]&quot;,&quot;search_suggestion&quot;:&quot;Erre a kifejezésre nincs találat: [SEARCH_TERM]. Próbáld meg ezek közül az egyiket:&quot;,&quot;searching&quot;:&quot;Keresés erre: [SEARCH_TERM]...&quot;}"><button data-open-modal disabled aria-label="Keresés" aria-keyshortcuts="Control+K" class="astro-b5kgnn7o"><svg aria-hidden="true" class="astro-b5kgnn7o astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M21.71 20.29 18 16.61A9 9 0 1 0 16.61 18l3.68 3.68a.999.999 0 0 0 1.42 0 1 1 0 0 0 0-1.39ZM11 18a7 7 0 1 1 0-14 7 7 0 0 1 0 14Z"/></svg><span class="sl-hidden md:sl-block astro-b5kgnn7o" aria-hidden="true">Keresés</span><kbd class="sl-hidden md:sl-flex astro-b5kgnn7o" style="display: none;"><kbd class="astro-b5kgnn7o">Ctrl</kbd><kbd class="astro-b5kgnn7o">K</kbd></kbd></button><dialog style="padding:0" aria-label="Keresés" class="astro-b5kgnn7o"><div class="dialog-frame sl-flex astro-b5kgnn7o"><button data-close-modal class="sl-flex md:sl-hidden astro-b5kgnn7o">Mégsem</button><div class="search-container astro-b5kgnn7o"><div id="starlight__search" class="astro-b5kgnn7o"></div></div></div></dialog></site-search><script>
+	(() => {
+		const openBtn = document.querySelector('button[data-open-modal]');
+		const shortcut = openBtn?.querySelector('kbd');
+		if (!openBtn || !(shortcut instanceof HTMLElement)) return;
+		const platformKey = shortcut.querySelector('kbd');
+		if (platformKey && /(Mac|iPhone|iPod|iPad)/i.test(navigator.platform)) {
+			platformKey.textContent = '⌘';
+			openBtn.setAttribute('aria-keyshortcuts', 'Meta+K');
+		}
+		shortcut.style.display = '';
+	})();
+</script><script type="module" src="/benedek9/_astro/Search.astro_astro_type_script_index_0_lang.YIoswia2.js"></script></div><div class="sl-hidden md:sl-flex print:hidden right-group astro-by6fddyj"><div class="sl-flex social-icons astro-by6fddyj"></div><starlight-theme-select><label style="--sl-select-width: 6.25em" class="astro-2z5xp7gb"><span class="sr-only astro-2z5xp7gb">Téma választás</span><svg aria-hidden="true" class="icon label-icon astro-2z5xp7gb astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M21 14h-1V7a3 3 0 0 0-3-3H7a3 3 0 0 0-3 3v7H3a1 1 0 0 0-1 1v2a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3v-2a1 1 0 0 0-1-1ZM6 7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7H6V7Zm14 10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-1h16v1Z"/></svg><select autocomplete="off" class="astro-2z5xp7gb"><option value="dark" class="astro-2z5xp7gb">Sötét</option><option value="light" class="astro-2z5xp7gb">Világos</option><option value="auto" selected class="astro-2z5xp7gb">Auto</option></select><svg aria-hidden="true" class="icon caret astro-2z5xp7gb astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M17 9.17a1 1 0 0 0-1.41 0L12 12.71 8.46 9.17a1 1 0 1 0-1.41 1.42l4.24 4.24a1.002 1.002 0 0 0 1.42 0L17 10.59a1.002 1.002 0 0 0 0-1.42Z"/></svg></label></starlight-theme-select><script>
+	StarlightThemeProvider.updatePickers();
+</script><script type="module">var e=`starlight-theme`,t=e=>e===`auto`||e===`dark`||e===`light`?e:`auto`,n=()=>t(typeof localStorage<`u`&&localStorage.getItem(e));function r(t){typeof localStorage<`u`&&localStorage.setItem(e,t===`light`||t===`dark`?t:``)}var i=()=>matchMedia(`(prefers-color-scheme: light)`).matches?`light`:`dark`;function a(e){StarlightThemeProvider.updatePickers(e),document.documentElement.dataset.theme=e===`auto`?i():e,r(e)}matchMedia(`(prefers-color-scheme: light)`).addEventListener(`change`,()=>{n()===`auto`&&a(`auto`)});var o=class extends HTMLElement{constructor(){super(),a(n()),this.querySelector(`select`)?.addEventListener(`change`,e=>{e.currentTarget instanceof HTMLSelectElement&&a(t(e.currentTarget.value))})}};customElements.define(`starlight-theme-select`,o);</script><script type="module">var e=class extends HTMLElement{constructor(){super();let e=this.querySelector(`select`);e&&(e.addEventListener(`change`,e=>{e.currentTarget instanceof HTMLSelectElement&&(window.location.pathname=e.currentTarget.value)}),window.addEventListener(`pageshow`,t=>{if(!t.persisted)return;let n=e.querySelector(`option[selected]`)?.index;n!==e.selectedIndex&&(e.selectedIndex=n??0)}))}};customElements.define(`starlight-lang-select`,e);</script></div></div></header><nav class="sidebar print:hidden astro-yntsjkba" aria-label="Fő"><button popovertarget="starlight__sidebar" class="sl-menu-button sl-flex md:sl-hidden print:hidden astro-r2osgdlg"><svg aria-hidden="true" class="open-menu astro-r2osgdlg astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M3 8h18a1 1 0 1 0 0-2H3a1 1 0 0 0 0 2Zm18 8H3a1 1 0 0 0 0 2h18a1 1 0 0 0 0-2Zm0-5H3a1 1 0 0 0 0 2h18a1 1 0 0 0 0-2Z"/></svg><svg aria-hidden="true" class="close-menu astro-r2osgdlg astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="m13.41 12 6.3-6.29a1.004 1.004 0 1 0-1.42-1.42L12 10.59l-6.29-6.3a1.004 1.004 0 0 0-1.42 1.42l6.3 6.29-6.3 6.29a1 1 0 0 0 0 1.42.998.998 0 0 0 1.42 0l6.29-6.3 6.29 6.3a.999.999 0 0 0 1.42 0 1 1 0 0 0 0-1.42L13.41 12Z"/></svg><span class="sr-only astro-r2osgdlg">Menü</span></button><script type="module">var e=class extends HTMLElement{constructor(){super();let e=matchMedia(`(min-width: 50em)`),t=()=>{this.popover=e.matches?null:`auto`};t(),e.addEventListener(`change`,()=>t()),this.addEventListener(`toggle`,({newState:e})=>this.trapFocus(e===`open`))}trapFocus(e){document.querySelectorAll(`.main-frame, .sl-skip-link`).forEach(t=>{t.toggleAttribute(`inert`,e)})}};customElements.define(`sl-sidebar-pane`,e);</script><sl-sidebar-pane popover id="starlight__sidebar" class="sidebar-pane astro-yntsjkba"><div class="sidebar-content sl-flex astro-yntsjkba"><sl-sidebar-state-persist data-hash="00rog8o" class="astro-ipdry5cl"><script aria-hidden="true">
+		(() => {
+			try {
+				if (!matchMedia('(min-width: 50em)').matches) return;
+				/** @type {HTMLElement | null} */
+				const target = document.querySelector('sl-sidebar-state-persist');
+				const state = JSON.parse(sessionStorage.getItem('sl-sidebar-state') || '0');
+				if (!target || !state || target.dataset.hash !== state.hash) return;
+				window._starlightScrollRestore = state.scroll;
+				customElements.define(
+					'sl-sidebar-restore',
+					class SidebarRestore extends HTMLElement {
+						connectedCallback() {
+							try {
+								const idx = parseInt(this.dataset.index || '');
+								const details = this.closest('details');
+								if (details && typeof state.open[idx] === 'boolean') details.open = state.open[idx];
+							} catch {}
+						}
+					}
+				);
+			} catch {}
+		})();
+	</script><ul class="top-level astro-rmhv4bp6"><li class="astro-rmhv4bp6"><a href="/benedek9/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">🏠 Kezdőlap</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/gazdasagi-es-jogi-alapismeretek/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">💼 Gazdasági és jogi alapismeretek</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/komplex-termeszettudomany/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">🔬 Komplex természettudomány</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/irodalom/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">📖 Irodalom</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/magyar-nyelv/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">🗣️ Magyar nyelv</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/matematika/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">📐 Matematika</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/munkavalloi-ismeretek/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">🤝 Munkavállalói ismeretek</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/tortenelem/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">🏛️ Történelem</span></a></li><li class="astro-rmhv4bp6"><a href="/benedek9/a-projektrol/" class="large astro-rmhv4bp6"><span class="astro-rmhv4bp6">A projektről és a felhasználásról</span></a></li></ul><script aria-hidden="true">
+		(() => {
+			const scroller = document.getElementById('starlight__sidebar');
+			if (!window._starlightScrollRestore || !scroller) return;
+			scroller.scrollTop = window._starlightScrollRestore;
+			delete window._starlightScrollRestore;
+		})();
+	</script></sl-sidebar-state-persist><div class="md:sl-hidden"><div class="mobile-preferences sl-flex astro-p4azlveh"><div class="social-icons astro-p4azlveh"></div><starlight-theme-select><label style="--sl-select-width: 6.25em" class="astro-2z5xp7gb"><span class="sr-only astro-2z5xp7gb">Téma választás</span><svg aria-hidden="true" class="icon label-icon astro-2z5xp7gb astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M21 14h-1V7a3 3 0 0 0-3-3H7a3 3 0 0 0-3 3v7H3a1 1 0 0 0-1 1v2a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3v-2a1 1 0 0 0-1-1ZM6 7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7H6V7Zm14 10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-1h16v1Z"/></svg><select autocomplete="off" class="astro-2z5xp7gb"><option value="dark" class="astro-2z5xp7gb">Sötét</option><option value="light" class="astro-2z5xp7gb">Világos</option><option value="auto" selected class="astro-2z5xp7gb">Auto</option></select><svg aria-hidden="true" class="icon caret astro-2z5xp7gb astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1em;"><path d="M17 9.17a1 1 0 0 0-1.41 0L12 12.71 8.46 9.17a1 1 0 1 0-1.41 1.42l4.24 4.24a1.002 1.002 0 0 0 1.42 0L17 10.59a1.002 1.002 0 0 0 0-1.42Z"/></svg></label></starlight-theme-select><script>
+	StarlightThemeProvider.updatePickers();
+</script></div></div></div></sl-sidebar-pane></nav><div class="main-frame astro-yntsjkba"><script type="module">var e=document.getElementById(`starlight__sidebar`),t=e?.querySelector(`sl-sidebar-state-persist`),n=`sl-sidebar-state`,r=()=>{let r=[],i=t?.dataset.hash||``;try{let e=sessionStorage.getItem(n),t=JSON.parse(e||`{}`);Array.isArray(t.open)&&t.hash===i&&(r=t.open)}catch{}return{hash:i,open:r,scroll:e?.scrollTop||0}},i=e=>{try{sessionStorage.setItem(n,JSON.stringify(e))}catch{}},a=()=>i(r()),o=(e,t)=>{let n=r();n.open[t]=e,i(n)};t?.addEventListener(`click`,e=>{if(!(e.target instanceof Element))return;let t=e.target.closest(`summary`)?.closest(`details`);if(!t)return;let n=t.querySelector(`sl-sidebar-restore`),r=parseInt(n?.dataset.index||``);isNaN(r)||o(!t.open,r)}),addEventListener(`visibilitychange`,()=>{document.visibilityState===`hidden`&&a()});</script><div class="study-columns study-has-toc astro-sfifgsse"><div class="main-pane astro-sfifgsse"><main data-pagefind-body class="astro-g5ptsecz" lang="hu" dir="ltr"><div class="content-panel astro-a7po4psb"><div class="sl-container astro-a7po4psb"><h1 id="_top" class="astro-bebwqqxs">Intervallumok, vegyes feladatok, ismétlés</h1></div></div><div class="content-panel astro-a7po4psb"><div class="sl-container astro-a7po4psb"><div class="sl-markdown-content"><nav class="study-tools astro-df5goeu7" aria-label="Tanulási eszközök" data-pagefind-ignore><a href="/benedek9/" class="astro-df5goeu7">Kezdőlap</a><a href="/benedek9/matematika/" class="astro-df5goeu7">📐 Matematika</a><button type="button" id="study-answers" class="astro-df5goeu7">Válaszok megnyitása</button></nav><div class="sl-markdown-content study-content astro-df5goeu7" data-pagefind-body>
+<p><img src="/benedek9/media/cd8aff34da9501613bd96c490ae08f4c13062d03d9984bd7de4745faf03bf0e5.webp" alt="Intervallumok – A számegyenes egy darabja: számegyenes, rajta kiemelt szakasz bal végén teli ponttal, jobb végén üres karikával." loading="eager" decoding="async" class="study-figure"></p>
+
+
+<p>📎 Füzet: dátum nélküli óra · Tanári anyag: Összefoglalás (feladatlap)</p>
+
+<aside class="study-callout study-important" aria-label="Fontos">
+<p>🤒 <strong>Pótolandó anyag</strong> - ez az oldal egy osztálytárs füzetéből készült, mert hiányoztál. Írd be a saját füzetedbe (vagy tanuld meg), és szólj, ha megvan.</p>
+</aside>
+<h2 id="mit-tanultunk-ezeken-az-órákon">Mit tanultunk ezeken az órákon</h2>
+<p><small class="study-label">🗓️ Órák: ? (2026-09-22 után, legkésőbb 2026-10-04); ? (2026-09-22 után, legkésőbb 2026-10-04); ? (2026-09-22 után, legkésőbb 2026-10-04).</small></p>
+<p><a id="ora-intervallumok"></a></p>
+<h3 id="műveletek-intervallumokkal-abszolút-érték">Műveletek intervallumokkal, abszolút érték</h3>
+<ul>
+<li>Két intervallum uniója, metszete és mindkét irányú különbsége, számegyenesen és egyenlőtlenséggel; ha az egyik a másik része, a különbség két darab vagy üres halmaz is lehet: <a href="/benedek9/matematika/intervallumok/#uni%C3%B3-metszet-%C3%A9s-k%C3%BCl%C3%B6nbs%C3%A9g-k%C3%A9t-%C3%A1tfed%C5%91-intervallummal">két átfedő intervallum</a>, <a href="/benedek9/matematika/intervallumok/#amikor-az-egyik-intervallum-a-m%C3%A1sik-r%C3%A9sze">részintervallum</a>.</li>
+<li>Az abszolút érték definíciója és kiszámítása példákon: <a href="/benedek9/matematika/intervallumok/#abszol%C3%BAt-%C3%A9rt%C3%A9k-t%C3%A1vols%C3%A1g-a-sz%C3%A1megyenesen">abszolút érték</a>.</li>
+<li>Hány egész szám abszolút értéke egyenlő egy adott számmal, kisebb vagy nagyobb nála, illetve egyjegyű prím: <a href="/benedek9/matematika/intervallumok/#eg%C3%A9sz-sz%C3%A1mok-adott-abszol%C3%BAt-%C3%A9rt%C3%A9kkel">egész számok abszolút értékkel</a>.</li>
+</ul>
+<p><a id="ora-osszefoglalas"></a></p>
+<h3 id="összefoglaló-feladatsor">Összefoglaló feladatsor</h3>
+<ul>
+<li>Sorbaállás osztályonként, a szabályos tizenkétszög átlói, ötjegyű számok feltétellel, három halmaz a focicsapat posztjain: <a href="/benedek9/matematika/leszamlalas/#sorba%C3%A1ll%C3%A1s-csoportonk%C3%A9nt">sorbaállás</a>, <a href="/benedek9/matematika/leszamlalas/#%C3%A1tl%C3%B3k-a-13-sz%C3%B6g-%C3%A9s-a-szab%C3%A1lyos-12-sz%C3%B6g">a 12-szög átlói</a>, <a href="/benedek9/matematika/szamok-kepzese/#%C3%B6tjegy%C5%B1-sz%C3%A1mok-felt%C3%A9telekkel">ötjegyű számok</a>, <a href="/benedek9/matematika/logikai-szita/#posztok-egy-focicsapatban-h%C3%A1rom-halmazzal">posztok egy focicsapatban</a>.</li>
+<li>Satírozott halmazrész felírása műveletekkel, műveletek ábrázolása Venn-diagramon, feltétellel megadott intervallumok: <a href="/benedek9/matematika/halmazok/#sat%C3%ADrozott-r%C3%A9sz-fel%C3%ADr%C3%A1sa-m%C5%B1veletekkel">satírozott rész</a>, <a href="/benedek9/matematika/halmazok/#m%C5%B1veletek-%C3%A1br%C3%A1zol%C3%A1sa-h%C3%A1rom-halmazzal">ábrázolás</a>, <a href="/benedek9/matematika/intervallumok/#felt%C3%A9tellel-megadott-intervallumok">intervallumok feltétellel</a>.</li>
+</ul>
+<p><a id="ora-vegyes-feladatok"></a></p>
+<h3 id="vegyes-feladatok">Vegyes feladatok</h3>
+<ul>
+<li>Kézfogások 11 ember között, a 13 oldalú sokszög átlói, háromjegyű számok az 1, 3, 7 és 0 számjegyekből: <a href="/benedek9/matematika/leszamlalas/#k%C3%A9zfog%C3%A1sok-%C3%A9s-%C3%BCzenetek-11-ember-k%C3%B6z%C3%B6tt">kézfogások</a>, <a href="/benedek9/matematika/leszamlalas/#%C3%A1tl%C3%B3k-a-13-sz%C3%B6g-%C3%A9s-a-szab%C3%A1lyos-12-sz%C3%B6g">átlók</a>, <a href="/benedek9/matematika/szamok-kepzese/#h%C3%A1romjegy%C5%B1-sz%C3%A1mok-n%C3%A9gy-sz%C3%A1mjegyb%C5%91l">háromjegyű számok</a>.</li>
+<li>Egy halmaz összes részhalmaza és a <mjx-container class="MathJax" jax="SVG" role="math" aria-label="2^n"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="2.279ex" height="1.528ex" role="img" focusable="false" viewBox="0 -675.5 1007.3 675.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="mi" transform="translate(533,363) scale(0.707)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></g></svg></mjx-container> szabály; két halmaz kikövetkeztetése az uniójukból, a metszetükből és a különbségükből: <a href="/benedek9/matematika/halmazok/#a-r%C3%A9szhalmazok-sz%C3%A1ma">a részhalmazok száma</a>, <a href="/benedek9/matematika/halmazok/#a-halmazok-kik%C3%B6vetkeztet%C3%A9se-a-m%C5%B1veletek-eredm%C3%A9ny%C3%A9b%C5%91l">halmazok a műveletekből</a>.</li>
+<li>Két halmaz a szitaformulával és két szempont szerinti táblázat: <a href="/benedek9/matematika/logikai-szita/#k%C3%A9t-idegen-nyelv-egy-oszt%C3%A1lyban">két idegen nyelv</a>, <a href="/benedek9/matematika/logikai-szita/#k%C3%A9t-szempont-szerinti-t%C3%A1bl%C3%A1zat">táblázat</a>.</li>
+</ul>
+<br>
+<h2 id="nyitott-kérdések">Nyitott kérdések</h2>
+
+<ol>
+<li><strong>Mikor volt a három óra?</strong> Az intervallumos óra, az összefoglaló óra és a vegyes feladatok órája egyik füzetlapján sincs dátum. Annyi biztos, hogy 2026-09-22 után voltak, és legkésőbb 2026-10-04-ig; a sorrendjük a füzetlapok alapján: intervallumok, összefoglalás, vegyes feladatok. Az intervallumos óra valószínűleg a tankönyv 33. oldali, 2026-09-28-i határidejű házi feladata előtt volt. Ha tudod a pontos napokat (vagy megnézed az osztálytársad füzetében), írd meg; addig ezt az időszakot használjuk.</li>
+</ol>
+
+<ol start="2">
+<li><strong>Hiányzik-e egy-két füzetlap?</strong> Két helyen csak részben van meg az órai anyag. (a) A vegyes feladatok 1. feladatában a 11 fős társaság b) kérdésének szövege nem látszik, csak az eredménye (110); a jegyzet ezt úgy tanítja, hogy a párok sorrendje is számít (például mindenki mindenkinek üzenetet küld). (b) Az egyik füzetben az abszolút érték gyakorlása (az egész számok abszolút értékéről szóló feladat) és a vegyes feladatok között egy oldal nincs lefotózva; azon lehet az összefoglaló óra anyaga is. Az összefoglaló feladatlap 4-6. feladatához (satírozott halmazrészek, Venn-diagramok, intervallumok feltétellel) sincs füzetbeli megoldás. Ha megvan ez az oldal, fotózd le és küldd el; addig a témaoldalakon kidolgozott megoldások teljesek, azokat használd.</li>
+</ol><style>
+mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+  min-height: 1px;
+  min-width: 1px;
+}
+
+mjx-container[jax="SVG"] > svg a {
+  fill: blue;
+  stroke: blue;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][display="true"][width="full"] {
+  display: flex;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line], svg[data-table] > g > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame], svg[data-table] > g > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed, svg[data-table] > g > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted, svg[data-table] > g > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > g > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"] path[data-c], mjx-container[jax="SVG"] use[data-c] {
+  stroke-width: 3;
+}
+</style></div><p class="study-source-note astro-df5goeu7" data-pagefind-ignore>A jegyzet Benedek órai jegyzetei és a tanári anyagok alapján készült; mesterséges intelligencia egészítette ki és javította, és ahol a tankönyv rendelkezésre áll, azzal összevetette.</p><aside class="study-feedback astro-df5goeu7" data-pagefind-ignore><a href="https://github.com/school-notes-hub/benedek9/issues/new?template=bejelentes.yml&amp;page=https%3A%2F%2Fschool-notes-hub.github.io%2Fbenedek9%2Fmatematika%2F2026-10-04-intervallumok-ismetles-jegyzet%2F" class="astro-df5goeu7">Hibát találtál? Jelezd!</a><p class="astro-df5goeu7">Tartalmi, megjelenítési vagy szerzői jogi kérdést is jelezhetsz. A GitHub-bejelentés nyilvános, és bejelentkezést igényel; személyes adatot vagy nem nyilvános tananyagot ne csatolj.</p></aside><nav class="study-pagination astro-df5goeu7" aria-label="Tanulási sorrend" data-pagefind-ignore><a href="/benedek9/matematika/grafok/" class="astro-df5goeu7"><small class="astro-df5goeu7">Előző</small>Gráfok</a><a href="/benedek9/matematika/2026-09-25-logikai-szita-jegyzet/" class="astro-df5goeu7"><small class="astro-df5goeu7">Következő</small>Venn-diagramok, logikai szita, dolgozatjavítás</a></nav></div><footer class="sl-flex astro-ddtxxk7k"><div class="meta sl-flex astro-ddtxxk7k"><p>Utoljára frissítve: <time datetime="2026-10-07T08:20:28.000Z">2026. okt. 7.</time></p></div><div class="pagination-links print:hidden astro-b5raizh3" dir="ltr"></div></footer></div></div></main></div><aside class="right-sidebar-container print:hidden astro-sfifgsse"><div class="right-sidebar astro-sfifgsse"><div class="lg:sl-hidden astro-qok35upx"><mobile-starlight-toc data-min-h="2" data-max-h="3" class="astro-66cqc7ze"><nav aria-labelledby="starlight__on-this-page--mobile" class="astro-66cqc7ze"><details id="starlight__mobile-toc" class="astro-66cqc7ze"><summary id="starlight__on-this-page--mobile" class="sl-flex astro-66cqc7ze"><span class="toggle sl-flex astro-66cqc7ze">Ezen az oldalon<svg aria-hidden="true" class="caret astro-66cqc7ze astro-hkc32dio" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="--sl-icon-size: 1rem;"><path d="m14.83 11.29-4.24-4.24a1 1 0 1 0-1.42 1.41L12.71 12l-3.54 3.54a1 1 0 0 0 0 1.41 1 1 0 0 0 .71.29 1 1 0 0 0 .71-.29l4.24-4.24a1.002 1.002 0 0 0 0-1.42Z"/></svg></span><span class="display-current astro-66cqc7ze"></span></summary><div class="dropdown astro-66cqc7ze"><ul class="isMobile astro-jugkfwgx" style="--depth: 0;"><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#_top" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Tartalom</span></a></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#mit-tanultunk-ezeken-az-órákon" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Mit tanultunk ezeken az órákon</span></a><ul class="isMobile astro-jugkfwgx" style="--depth: 1;"><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#műveletek-intervallumokkal-abszolút-érték" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Műveletek intervallumokkal, abszolút érték</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#összefoglaló-feladatsor" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Összefoglaló feladatsor</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#vegyes-feladatok" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Vegyes feladatok</span></a></li></ul></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#nyitott-kérdések" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Nyitott kérdések</span></a></li></ul></div></details></nav></mobile-starlight-toc><script type="module" src="/benedek9/_astro/MobileTableOfContents.astro_astro_type_script_index_0_lang.C3fM4Kra.js"></script></div><div class="right-sidebar-panel sl-hidden lg:sl-block astro-qok35upx"><div class="sl-container astro-qok35upx"><starlight-toc data-min-h="2" data-max-h="3"><nav aria-labelledby="starlight__on-this-page"><h2 id="starlight__on-this-page">Ezen az oldalon</h2><ul class="astro-jugkfwgx" style="--depth: 0;"><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#_top" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Tartalom</span></a></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#mit-tanultunk-ezeken-az-órákon" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Mit tanultunk ezeken az órákon</span></a><ul class="astro-jugkfwgx" style="--depth: 1;"><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#műveletek-intervallumokkal-abszolút-érték" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Műveletek intervallumokkal, abszolút érték</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#összefoglaló-feladatsor" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Összefoglaló feladatsor</span></a></li><li style="--depth: 1;" class="astro-jugkfwgx"><a href="#vegyes-feladatok" style="--depth: 1;" class="astro-jugkfwgx"><span style="--depth: 1;" class="astro-jugkfwgx">Vegyes feladatok</span></a></li></ul></li><li style="--depth: 0;" class="astro-jugkfwgx"><a href="#nyitott-kérdések" style="--depth: 0;" class="astro-jugkfwgx"><span style="--depth: 0;" class="astro-jugkfwgx">Nyitott kérdések</span></a></li></ul></nav></starlight-toc><script type="module" src="/benedek9/_astro/TableOfContents.astro_astro_type_script_index_0_lang.BpJaGz7G.js"></script></div></div></div></aside></div></div></div></body></html><script type="module">var e=document.querySelector(`#study-answers`),t=[...document.querySelectorAll(`.study-content details`)];e&&(e.hidden=t.length===0,e.addEventListener(`click`,()=>{let n=t.some(e=>!e.open);t.forEach(e=>e.open=n),e.textContent=n?`Válaszok becsukása`:`Válaszok megnyitása`})),document.querySelectorAll(`.study-content img`).forEach(e=>{if(e.closest(`a`))return;let t=document.createElement(`a`);t.href=e.src,t.target=`_blank`,t.rel=`noopener`,t.setAttribute(`aria-label`,`${e.alt||`Ábra`} — megnyitás nagy méretben`),e.replaceWith(t),t.append(e)});</script>

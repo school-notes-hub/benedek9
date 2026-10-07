@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 420" width="440" height="420" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="A gazdasági körforgás: termelés (fent), elosztás (jobbra), csere (lent), fogyasztás (balra), az óramutató járása szerint nyilakkal összekötve; a fogyasztásból a nyíl újra a termeléshez vezet. Középen: a kör ismétlődése: újratermelés.">
+  <title>A gazdasági körforgás négy szakasza és az újratermelés</title>
+  <rect width="440" height="420" rx="16" fill="#fbf8f1"/>
+  <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e7d5b"/></marker></defs>
+  <text x="220" y="36" text-anchor="middle" font-size="19" font-weight="700" fill="#2f3a4a">A gazdasági körforgás</text>
+  <text x="220" y="58" text-anchor="middle" font-size="14" fill="#55606e">A négy szakasz mindig ugyanebben a sorrendben</text>
+  <path d="M 269.3 117.7 L 273.9 119.3 L 278.5 121.0 L 282.9 122.8 L 287.3 124.8 L 291.6 126.9 L 295.9 129.1 L 300.0 131.5 L 304.0 134.0 L 307.9 136.6 L 311.7 139.3 L 315.4 142.2 L 319.0 145.1 L 322.4 148.2 L 325.8 151.4 L 328.9 154.6 L 332.0 158.0 L 334.9 161.4 L 337.7 165.0 L 340.3 168.6 L 342.7 172.3 L 345.1 176.0 L 347.2 179.9 L 349.2 183.8 L 351.0 187.7" fill="none" stroke="#2e7d5b" stroke-width="3" marker-end="url(#ah)"/>
+  <path d="M 351.0 272.3 L 349.2 276.2 L 347.2 280.1 L 345.1 284.0 L 342.7 287.7 L 340.3 291.4 L 337.7 295.0 L 334.9 298.6 L 332.0 302.0 L 328.9 305.4 L 325.8 308.6 L 322.4 311.8 L 319.0 314.9 L 315.4 317.8 L 311.7 320.7 L 307.9 323.4 L 304.0 326.0 L 300.0 328.5 L 295.9 330.9 L 291.6 333.1 L 287.3 335.2 L 282.9 337.2 L 278.5 339.0 L 273.9 340.7 L 269.3 342.3" fill="none" stroke="#2e7d5b" stroke-width="3" marker-end="url(#ah)"/>
+  <path d="M 170.7 342.3 L 166.1 340.7 L 161.5 339.0 L 157.1 337.2 L 152.7 335.2 L 148.4 333.1 L 144.1 330.9 L 140.0 328.5 L 136.0 326.0 L 132.1 323.4 L 128.3 320.7 L 124.6 317.8 L 121.0 314.9 L 117.6 311.8 L 114.2 308.6 L 111.1 305.4 L 108.0 302.0 L 105.1 298.6 L 102.3 295.0 L 99.7 291.4 L 97.3 287.7 L 94.9 284.0 L 92.8 280.1 L 90.8 276.2 L 89.0 272.3" fill="none" stroke="#2e7d5b" stroke-width="3" marker-end="url(#ah)"/>
+  <path d="M 89.0 187.7 L 90.8 183.8 L 92.8 179.9 L 94.9 176.0 L 97.3 172.3 L 99.7 168.6 L 102.3 165.0 L 105.1 161.4 L 108.0 158.0 L 111.1 154.6 L 114.2 151.4 L 117.6 148.2 L 121.0 145.1 L 124.6 142.2 L 128.3 139.3 L 132.1 136.6 L 136.0 134.0 L 140.0 131.5 L 144.1 129.1 L 148.4 126.9 L 152.7 124.8 L 157.1 122.8 L 161.5 121.0 L 166.1 119.3 L 170.7 117.7" fill="none" stroke="#2e7d5b" stroke-width="3" marker-end="url(#ah)"/>
+  <rect x="164.0" y="89.0" width="112" height="42" rx="10" fill="#ffffff" stroke="#2e7d5b" stroke-width="2.5"/>
+  <text x="220" y="116.0" text-anchor="middle" font-size="17" font-weight="700" fill="#2f3a4a">Termelés</text>
+  <rect x="306.0" y="209.0" width="108" height="42" rx="10" fill="#ffffff" stroke="#2e7d5b" stroke-width="2.5"/>
+  <text x="360" y="235.9" text-anchor="middle" font-size="17" font-weight="700" fill="#2f3a4a">Elosztás</text>
+  <rect x="176.0" y="329.0" width="88" height="42" rx="10" fill="#ffffff" stroke="#2e7d5b" stroke-width="2.5"/>
+  <text x="220" y="355.9" text-anchor="middle" font-size="17" font-weight="700" fill="#2f3a4a">Csere</text>
+  <rect x="18.0" y="209.0" width="124" height="42" rx="10" fill="#ffffff" stroke="#2e7d5b" stroke-width="2.5"/>
+  <text x="80" y="235.9" text-anchor="middle" font-size="17" font-weight="700" fill="#2f3a4a">Fogyasztás</text>
+  <text x="220" y="226" text-anchor="middle" font-size="14" fill="#55606e">a kör ismétlődése:</text>
+  <text x="220" y="250" text-anchor="middle" font-size="18" font-weight="700" fill="#2e7d5b">újratermelés</text>
+  <text x="220" y="402" text-anchor="middle" font-size="14" fill="#55606e">Nyíl: a következő szakasz; a fogyasztás után újra termelés</text>
+</svg>

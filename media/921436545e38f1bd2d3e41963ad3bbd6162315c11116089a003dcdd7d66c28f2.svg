@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 640" width="390" height="640" font-family="DejaVu Sans, Arial, sans-serif">
+  <title>A görög istenek családfája</title>
+  <rect x="0" y="0" width="390" height="640" fill="#fbf8f1"/>
+  <text x="195" y="26" text-anchor="middle" font-size="18" font-weight="bold" fill="#2b2b45">A görög istenek családfája</text>
+  
+  <line x1="62" y1="40" x2="62" y2="54" stroke="#5a4a3a" stroke-width="2"/>
+  <text x="70" y="52" font-size="12.5" fill="#444">szülő – gyermek</text>
+  <line x1="200" y1="44" x2="222" y2="44" stroke="#a03c3c" stroke-width="2"/>
+  <line x1="200" y1="50" x2="222" y2="50" stroke="#a03c3c" stroke-width="2"/>
+  <text x="230" y="52" font-size="12.5" fill="#444">házaspár</text>
+
+  <g stroke="#5a4a3a" stroke-width="2" fill="none">
+    
+    <line x1="195" y1="88" x2="195" y2="116"/>
+    <line x1="110" y1="116" x2="280" y2="116"/>
+    <line x1="110" y1="116" x2="110" y2="128"/>
+    <line x1="280" y1="116" x2="280" y2="128"/>
+    
+    <line x1="195" y1="146" x2="195" y2="172"/>
+    <line x1="30" y1="172" x2="195" y2="172"/>
+    <line x1="30" y1="172" x2="30" y2="380"/>
+    <line x1="30" y1="200" x2="45" y2="200"/>
+    <line x1="30" y1="236" x2="45" y2="236"/>
+    <line x1="30" y1="272" x2="45" y2="272"/>
+    <line x1="30" y1="308" x2="45" y2="308"/>
+    <line x1="30" y1="344" x2="45" y2="344"/>
+    <line x1="30" y1="380" x2="45" y2="380"/>
+    
+    <line x1="176" y1="362" x2="250" y2="362"/>
+    <line x1="250" y1="362" x2="250" y2="416"/>
+    <line x1="185" y1="416" x2="315" y2="416"/>
+    <line x1="185" y1="416" x2="185" y2="430"/>
+    <line x1="315" y1="416" x2="315" y2="430"/>
+    
+    <line x1="100" y1="394" x2="100" y2="498"/>
+    <line x1="49" y1="498" x2="340" y2="498"/>
+    <line x1="49" y1="498" x2="49" y2="512"/>
+    <line x1="146" y1="498" x2="146" y2="512"/>
+    <line x1="243" y1="498" x2="243" y2="512"/>
+    <line x1="340" y1="498" x2="340" y2="512"/>
+  </g>
+
+  <g stroke="#a03c3c" stroke-width="2">
+    
+    <line x1="165" y1="82" x2="225" y2="82"/>
+    <line x1="165" y1="88" x2="225" y2="88"/>
+    <line x1="165" y1="140" x2="225" y2="140"/>
+    <line x1="165" y1="146" x2="225" y2="146"/>
+    <line x1="155" y1="344" x2="173" y2="344"/>
+    <line x1="155" y1="380" x2="179" y2="380"/>
+    <line x1="173" y1="344" x2="173" y2="380"/>
+    <line x1="179" y1="344" x2="179" y2="380"/>
+    <line x1="173" y1="344" x2="179" y2="344"/>
+  </g>
+
+  <g font-size="14" font-weight="bold" fill="#2b2b45" text-anchor="middle">
+    <rect x="55" y="70" width="110" height="30" rx="6" fill="#e8e2f4" stroke="#6b5b95" stroke-width="1.5"/>
+    <text x="110" y="90">Uranosz</text>
+    <rect x="225" y="70" width="110" height="30" rx="6" fill="#e8e2f4" stroke="#6b5b95" stroke-width="1.5"/>
+    <text x="280" y="90">Gaia</text>
+
+    <rect x="55" y="128" width="110" height="30" rx="6" fill="#e8e2f4" stroke="#6b5b95" stroke-width="1.5"/>
+    <text x="110" y="148">Kronosz</text>
+    <rect x="225" y="128" width="110" height="30" rx="6" fill="#e8e2f4" stroke="#6b5b95" stroke-width="1.5"/>
+    <text x="280" y="148">Rheia</text>
+
+    <rect x="45" y="186" width="110" height="28" rx="6" fill="#fff4d6" stroke="#b8902f" stroke-width="1.5"/>
+    <text x="100" y="205">Hesztia</text>
+    <rect x="45" y="222" width="110" height="28" rx="6" fill="#fff4d6" stroke="#b8902f" stroke-width="1.5"/>
+    <text x="100" y="241">Démétér</text>
+    <rect x="45" y="258" width="110" height="28" rx="6" fill="#fff4d6" stroke="#b8902f" stroke-width="1.5"/>
+    <text x="100" y="277">Hádész</text>
+    <rect x="45" y="294" width="110" height="28" rx="6" fill="#fff4d6" stroke="#b8902f" stroke-width="1.5"/>
+    <text x="100" y="313">Poszeidón</text>
+    <rect x="45" y="330" width="110" height="28" rx="6" fill="#fff4d6" stroke="#b8902f" stroke-width="1.5"/>
+    <text x="100" y="349">Héra</text>
+    <rect x="45" y="366" width="110" height="28" rx="6" fill="#fff4d6" stroke="#b8902f" stroke-width="1.5"/>
+    <text x="100" y="385">Zeusz</text>
+
+    <rect x="130" y="430" width="110" height="28" rx="6" fill="#ddeedd" stroke="#4d8a4d" stroke-width="1.5"/>
+    <text x="185" y="449">Arész</text>
+    <rect x="255" y="430" width="120" height="28" rx="6" fill="#ddeedd" stroke="#4d8a4d" stroke-width="1.5"/>
+    <text x="315" y="449">Eileithüia</text>
+
+    <rect x="3" y="512" width="92" height="28" rx="6" fill="#ddeedd" stroke="#4d8a4d" stroke-width="1.5"/>
+    <text x="49" y="531">Athéné</text>
+    <rect x="100" y="512" width="92" height="28" rx="6" fill="#ddeedd" stroke="#4d8a4d" stroke-width="1.5"/>
+    <text x="146" y="531">Apollón</text>
+    <rect x="197" y="512" width="92" height="28" rx="6" fill="#ddeedd" stroke="#4d8a4d" stroke-width="1.5"/>
+    <text x="243" y="531">Artemisz</text>
+    <rect x="294" y="512" width="92" height="28" rx="6" fill="#ddeedd" stroke="#4d8a4d" stroke-width="1.5"/>
+    <text x="340" y="531">Aphrodité*</text>
+  </g>
+
+  <g font-size="12.5" fill="#444">
+    <text x="190" y="205">Kronosz és Rheia</text>
+    <text x="190" y="221">hat gyermeke</text>
+    <text x="258" y="390" text-anchor="start">Zeusz és Héra</text>
+    <text x="258" y="406" text-anchor="start">közös gyermekei</text>
+    <text x="108" y="478" text-anchor="start">Zeusz gyermekei</text>
+    <text x="108" y="493" text-anchor="start">más anyától</text>
+    <text x="195" y="578" text-anchor="middle">* Homérosz szerint Zeusz és Dióné lánya;</text>
+    <text x="195" y="596" text-anchor="middle">Hésziodosz szerint a tenger habjából született.</text>
+  </g>
+</svg>

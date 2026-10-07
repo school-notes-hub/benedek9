@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 420" width="440" height="420" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Vegyes gazdaság: fent mit termeljünk, középen az állam, lent balra hogyan, jobbra kinek termeljünk. Mind a hat pár között kétfejű nyíl van: az állam és a három kérdés, valamint a három kérdés egymás között is kölcsönhatásban áll.">
+  <title>Vegyes gazdaság: az állam és a három alapkérdés kölcsönhatásban</title>
+  <rect width="440" height="420" rx="16" fill="#fbf8f1"/>
+  <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f3a4a"/></marker></defs>
+  <text x="220" y="36" text-anchor="middle" font-size="19" font-weight="700" fill="#2f3a4a">Vegyes gazdaság</text>
+  <text x="220" y="58" text-anchor="middle" font-size="14" fill="#55606e">A piac és az állam együtt szabályoz</text>
+  <line x1="220.0" y1="137.0" x2="220.0" y2="195.0" stroke="#2f3a4a" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <line x1="189.1" y1="249.0" x2="129.7" y2="301.0" stroke="#2f3a4a" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <line x1="250.9" y1="249.0" x2="310.3" y2="301.0" stroke="#2f3a4a" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <line x1="160.0" y1="334.0" x2="280.0" y2="334.0" stroke="#2f3a4a" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <path d="M 154 100 Q 36 150 62 300" fill="none" stroke="#2f3a4a" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <path d="M 286 100 Q 404 150 378 300" fill="none" stroke="#2f3a4a" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <text x="0" y="0" font-size="14" font-style="italic" fill="#2f3a4a" text-anchor="middle" transform="translate(40 190) rotate(-75)">kölcsönhatás</text>
+  <rect x="158.0" y="77.0" width="124" height="54" rx="10" fill="#ffffff" stroke="#2b6f9e" stroke-width="2.5"/>
+  <text x="220" y="101.0" text-anchor="middle" font-size="18" font-weight="700" fill="#2f3a4a">Mit</text>
+  <text x="220" y="121.0" text-anchor="middle" font-size="14" fill="#55606e">termeljünk?</text>
+  <rect x="162.0" y="201.0" width="116" height="42" rx="10" fill="#b8433a" stroke="#b8433a" stroke-width="2.5"/>
+  <text x="220" y="228.3" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">Állam</text>
+  <rect x="30.0" y="307.0" width="124" height="54" rx="10" fill="#ffffff" stroke="#2b6f9e" stroke-width="2.5"/>
+  <text x="92" y="331.0" text-anchor="middle" font-size="18" font-weight="700" fill="#2f3a4a">Hogyan</text>
+  <text x="92" y="351.0" text-anchor="middle" font-size="14" fill="#55606e">termeljünk?</text>
+  <rect x="286.0" y="307.0" width="124" height="54" rx="10" fill="#ffffff" stroke="#2b6f9e" stroke-width="2.5"/>
+  <text x="348" y="331.0" text-anchor="middle" font-size="18" font-weight="700" fill="#2f3a4a">Kinek</text>
+  <text x="348" y="351.0" text-anchor="middle" font-size="14" fill="#55606e">termeljünk?</text>
+  <text x="220" y="398" text-anchor="middle" font-size="14" fill="#55606e">Kétfejű nyíl: kölcsönhatás, a két elem hat egymásra</text>
+</svg>

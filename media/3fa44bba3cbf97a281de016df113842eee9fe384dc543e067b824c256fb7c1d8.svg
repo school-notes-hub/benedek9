@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="368" viewBox="0 0 400 368" role="img" aria-label="Az U keretben három átfedő kör: C (csatár) balra fent, K (középpályás) jobbra fent, V (védő) lent. Csak C: 6; csak C és K: 7; csak K: 3; csak C és V: 5; mindhárom: 4; csak K és V: 6; csak V: 4; a körökön kívül 3 kapusjelölt.">
+<title>Az U keretben három átfedő kör: C (csatár) balra fent, K (középpályás) jobbra fent, V (védő) lent. Csak C: 6; csak C és K: 7; csak K: 3; csak C és V: 5; mindhárom: 4; csak K és V: 6; csak V: 4; a körökön kívül 3 kapusjelölt.</title>
+<rect width="400" height="368" rx="12" fill="#fffaf0"/>
+<text x="200" y="26" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">Posztok a gyűlésen</text>
+<rect x="20" y="38" width="360" height="290" rx="6" fill="#ffffff" stroke="#17283d" stroke-width="1.6"/>
+<text x="32" y="60" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="start" font-weight="bold" font-style="normal" fill="#17283d">U</text>
+<circle cx="158" cy="132" r="72" fill="#2b6cb0" fill-opacity="0.14" stroke="#2b6cb0" stroke-width="2.4"/>
+<circle cx="244" cy="132" r="72" fill="#c05621" fill-opacity="0.14" stroke="#c05621" stroke-width="2.4"/>
+<circle cx="201" cy="206" r="72" fill="#2f855a" fill-opacity="0.14" stroke="#2f855a" stroke-width="2.4"/>
+<text x="92" y="54" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="bold" font-style="normal" fill="#2b6cb0">C (csatár)</text>
+<text x="304" y="54" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="bold" font-style="normal" fill="#c05621">K (középpályás)</text>
+<text x="312" y="300" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="bold" font-style="normal" fill="#2f855a">V (védő)</text>
+<text x="128" y="122" font-family="DejaVu Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">6</text>
+<text x="201" y="108" font-family="DejaVu Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">7</text>
+<text x="274" y="122" font-family="DejaVu Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">3</text>
+<text x="165" y="186" font-family="DejaVu Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">5</text>
+<text x="201" y="166" font-family="DejaVu Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">4</text>
+<text x="237" y="186" font-family="DejaVu Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">6</text>
+<text x="201" y="248" font-family="DejaVu Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">4</text>
+<text x="66" y="290" font-family="DejaVu Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">3</text>
+<text x="70" y="310" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">kapusjelölt</text>
+<text x="200" y="352" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">Összesen: 6 + 7 + 3 + 5 + 4 + 6 + 4 + 3 = 38 fő</text>
+</svg>

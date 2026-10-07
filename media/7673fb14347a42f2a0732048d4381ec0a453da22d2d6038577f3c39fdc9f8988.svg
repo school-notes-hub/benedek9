@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 282" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>Szembe haladás: Sz és M 30 km-re van egymástól; Sz-ből 54 km/h, M-ből 20 perccel később 72 km/h; a T találkozási pontig megtett két út összege 30 km</title>
+<rect width="400" height="282" rx="16" fill="#f5f8fb"/>
+<text x="200.0" y="30.0" font-size="18" fill="#16283b" text-anchor="middle" font-weight="700">Szembe haladás: találkozás útközben</text>
+<line x1="40" y1="110" x2="360" y2="110" stroke="#16283b" stroke-width="3"/>
+<circle cx="40.0" cy="110.0" r="6" fill="#16283b"/>
+<circle cx="360.0" cy="110.0" r="6" fill="#16283b"/>
+<text x="40.0" y="138.0" font-size="16" fill="#16283b" text-anchor="middle" font-weight="700">Sz</text>
+<text x="360.0" y="138.0" font-size="16" fill="#16283b" text-anchor="middle" font-weight="700">M</text>
+<text x="200.0" y="66.0" font-size="15" fill="#16283b" text-anchor="middle" font-weight="400">a teljes távolság: 30 km</text>
+<line x1="40.0" y1="88.0" x2="107.0" y2="88.0" stroke="#175e96" stroke-width="4"/><path d="M120.0,88.0 L105.0,95.5 L105.0,80.5 z" fill="#175e96"/>
+<text x="40.0" y="80.0" font-size="15" fill="#175e96" text-anchor="start" font-weight="700">54 km/h</text>
+<line x1="360.0" y1="88.0" x2="293.0" y2="88.0" stroke="#c4561c" stroke-width="4"/><path d="M280.0,88.0 L295.0,80.5 L295.0,95.5 z" fill="#c4561c"/>
+<text x="360.0" y="80.0" font-size="15" fill="#c4561c" text-anchor="end" font-weight="700">72 km/h</text>
+<line x1="286.9" y1="98" x2="286.9" y2="122" stroke="#1d7a43" stroke-width="3"/>
+<text x="286.9" y="138.0" font-size="16" fill="#1d7a43" text-anchor="middle" font-weight="700">T</text>
+<path d="M40,150 L40,158 L284.9,158 L284.9,150" fill="none" stroke="#175e96" stroke-width="2.5"/>
+<text x="163.4" y="180.0" font-size="16" fill="#175e96" text-anchor="middle" font-weight="700">s₁</text>
+<path d="M288.9,150 L288.9,158 L360,158 L360,150" fill="none" stroke="#c4561c" stroke-width="2.5"/>
+<text x="323.4" y="180.0" font-size="16" fill="#c4561c" text-anchor="middle" font-weight="700">s₂</text>
+<text x="200.0" y="216.0" font-size="17" fill="#16283b" text-anchor="middle" font-weight="700">s₁ + s₂ = 30 km</text>
+<text x="200.0" y="242.0" font-size="15" fill="#4a5568" text-anchor="middle" font-weight="400">a másik jármű M-ből 20 perccel később indul</text>
+<text x="200.0" y="262.0" font-size="15" fill="#1d7a43" text-anchor="middle" font-weight="400">T: a találkozás helye</text>
+</svg>

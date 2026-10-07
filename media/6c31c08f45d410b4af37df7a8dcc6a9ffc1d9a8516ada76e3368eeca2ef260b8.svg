@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="816" viewBox="0 0 400 816" role="img" aria-label="Három háromkörös Venn-diagram egymás alatt; A balra fent, B jobbra fent, C lent középen. a) kék: B C-n kívüli része és A és C teljes közös része. b) kék: A és B minden része, kivéve azokat, amelyek csak C-vel közösek; a hármas metszet kék. c) kék: A és C közös része B nélkül, valamint B és C közös része A nélkül; a hármas metszet fehér.">
+<title>Három háromkörös Venn-diagram egymás alatt; A balra fent, B jobbra fent, C lent középen. a) kék: B C-n kívüli része és A és C teljes közös része. b) kék: A és B minden része, kivéve azokat, amelyek csak C-vel közösek; a hármas metszet kék. c) kék: A és C közös része B nélkül, valamint B és C közös része A nélkül; a hármas metszet fehér.</title>
+<rect width="400" height="816" rx="12" fill="#fffaf0"/>
+<defs>
+<clipPath id="halmaz0inA"><circle cx="155" cy="102" r="62"/></clipPath>
+<mask id="halmaz0outA" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="2000"><rect x="0" y="0" width="400" height="2000" fill="#ffffff"/><circle cx="155" cy="102" r="62" fill="#000000"/></mask>
+<clipPath id="halmaz0inB"><circle cx="245" cy="102" r="62"/></clipPath>
+<mask id="halmaz0outB" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="2000"><rect x="0" y="0" width="400" height="2000" fill="#ffffff"/><circle cx="245" cy="102" r="62" fill="#000000"/></mask>
+<clipPath id="halmaz0inC"><circle cx="200" cy="180" r="62"/></clipPath>
+<mask id="halmaz0outC" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="2000"><rect x="0" y="0" width="400" height="2000" fill="#ffffff"/><circle cx="200" cy="180" r="62" fill="#000000"/></mask>
+</defs>
+<text x="200" y="28" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">a)</text>
+<rect x="40" y="36" width="320" height="222" rx="6" fill="#ffffff" stroke="#17283d" stroke-width="1.6"/>
+<g clip-path="url(#halmaz0inB)"><g mask="url(#halmaz0outC)"><g mask="url(#halmaz0outA)"><rect x="40" y="36" width="320" height="222" fill="#7f9cc9"/></g></g></g>
+<g clip-path="url(#halmaz0inB)"><g clip-path="url(#halmaz0inA)"><g mask="url(#halmaz0outC)"><rect x="40" y="36" width="320" height="222" fill="#7f9cc9"/></g></g></g>
+<g clip-path="url(#halmaz0inC)"><g clip-path="url(#halmaz0inB)"><g clip-path="url(#halmaz0inA)"><rect x="40" y="36" width="320" height="222" fill="#7f9cc9"/></g></g></g>
+<g clip-path="url(#halmaz0inC)"><g clip-path="url(#halmaz0inA)"><g mask="url(#halmaz0outB)"><rect x="40" y="36" width="320" height="222" fill="#7f9cc9"/></g></g></g>
+<circle cx="155" cy="102" r="62" fill="none" stroke="#17283d" stroke-width="2"/>
+<circle cx="245" cy="102" r="62" fill="none" stroke="#17283d" stroke-width="2"/>
+<circle cx="200" cy="180" r="62" fill="none" stroke="#17283d" stroke-width="2"/>
+<text x="89" y="52" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">A</text>
+<text x="311" y="52" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">B</text>
+<text x="272" y="228" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">C</text>
+<defs>
+<clipPath id="halmaz1inA"><circle cx="155" cy="364" r="62"/></clipPath>
+<mask id="halmaz1outA" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="2000"><rect x="0" y="0" width="400" height="2000" fill="#ffffff"/><circle cx="155" cy="364" r="62" fill="#000000"/></mask>
+<clipPath id="halmaz1inB"><circle cx="245" cy="364" r="62"/></clipPath>
+<mask id="halmaz1outB" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="2000"><rect x="0" y="0" width="400" height="2000" fill="#ffffff"/><circle cx="245" cy="364" r="62" fill="#000000"/></mask>
+<clipPath id="halmaz1inC"><circle cx="200" cy="442" r="62"/></clipPath>
+<mask id="halmaz1outC" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="2000"><rect x="0" y="0" width="400" height="2000" fill="#ffffff"/><circle cx="200" cy="442" r="62" fill="#000000"/></mask>
+</defs>
+<text x="200" y="290" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">b)</text>
+<rect x="40" y="298" width="320" height="222" rx="6" fill="#ffffff" stroke="#17283d" stroke-width="1.6"/>
+<g clip-path="url(#halmaz1inA)"><g mask="url(#halmaz1outC)"><g mask="url(#halmaz1outB)"><rect x="40" y="298" width="320" height="222" fill="#7f9cc9"/></g></g></g>
+<g clip-path="url(#halmaz1inB)"><g mask="url(#halmaz1outC)"><g mask="url(#halmaz1outA)"><rect x="40" y="298" width="320" height="222" fill="#7f9cc9"/></g></g></g>
+<g clip-path="url(#halmaz1inB)"><g clip-path="url(#halmaz1inA)"><g mask="url(#halmaz1outC)"><rect x="40" y="298" width="320" height="222" fill="#7f9cc9"/></g></g></g>
+<g clip-path="url(#halmaz1inC)"><g clip-path="url(#halmaz1inB)"><g clip-path="url(#halmaz1inA)"><rect x="40" y="298" width="320" height="222" fill="#7f9cc9"/></g></g></g>
+<circle cx="155" cy="364" r="62" fill="none" stroke="#17283d" stroke-width="2"/>
+<circle cx="245" cy="364" r="62" fill="none" stroke="#17283d" stroke-width="2"/>
+<circle cx="200" cy="442" r="62" fill="none" stroke="#17283d" stroke-width="2"/>
+<text x="89" y="314" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">A</text>
+<text x="311" y="314" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">B</text>
+<text x="272" y="490" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">C</text>
+<defs>
+<clipPath id="halmaz2inA"><circle cx="155" cy="626" r="62"/></clipPath>
+<mask id="halmaz2outA" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="2000"><rect x="0" y="0" width="400" height="2000" fill="#ffffff"/><circle cx="155" cy="626" r="62" fill="#000000"/></mask>
+<clipPath id="halmaz2inB"><circle cx="245" cy="626" r="62"/></clipPath>
+<mask id="halmaz2outB" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="2000"><rect x="0" y="0" width="400" height="2000" fill="#ffffff"/><circle cx="245" cy="626" r="62" fill="#000000"/></mask>
+<clipPath id="halmaz2inC"><circle cx="200" cy="704" r="62"/></clipPath>
+<mask id="halmaz2outC" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="2000"><rect x="0" y="0" width="400" height="2000" fill="#ffffff"/><circle cx="200" cy="704" r="62" fill="#000000"/></mask>
+</defs>
+<text x="200" y="552" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">c)</text>
+<rect x="40" y="560" width="320" height="222" rx="6" fill="#ffffff" stroke="#17283d" stroke-width="1.6"/>
+<g clip-path="url(#halmaz2inC)"><g clip-path="url(#halmaz2inA)"><g mask="url(#halmaz2outB)"><rect x="40" y="560" width="320" height="222" fill="#7f9cc9"/></g></g></g>
+<g clip-path="url(#halmaz2inC)"><g clip-path="url(#halmaz2inB)"><g mask="url(#halmaz2outA)"><rect x="40" y="560" width="320" height="222" fill="#7f9cc9"/></g></g></g>
+<circle cx="155" cy="626" r="62" fill="none" stroke="#17283d" stroke-width="2"/>
+<circle cx="245" cy="626" r="62" fill="none" stroke="#17283d" stroke-width="2"/>
+<circle cx="200" cy="704" r="62" fill="none" stroke="#17283d" stroke-width="2"/>
+<text x="89" y="576" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">A</text>
+<text x="311" y="576" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">B</text>
+<text x="272" y="752" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" font-style="normal" fill="#17283d">C</text>
+<text x="200" y="802" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" font-style="normal" fill="#17283d">A kék rész a keresett halmaz.</text>
+</svg>
