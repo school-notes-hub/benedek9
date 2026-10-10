@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 620" font-family="Segoe UI, Helvetica, Arial, sans-serif">
-<title>A hat művészeti ág</title>
+<title>Hat ismert művészeti ág</title>
 <rect width="480" height="620" rx="18" fill="#f7f1fa"/>
-<rect x="100" y="18" width="280" height="56" rx="28" fill="#7d3c98"/>
-<text x="240" y="54" text-anchor="middle" font-size="24" font-weight="800" fill="#fff">A hat művészeti ág</text>
+<rect x="60" y="18" width="360" height="56" rx="28" fill="#7d3c98"/>
+<text x="240" y="54" text-anchor="middle" font-size="24" font-weight="800" fill="#fff">Hat ismert művészeti ág</text>
 <g font-size="19" font-weight="800" fill="#fff" text-anchor="middle">
 <g transform="translate(20,94)">
 <rect width="210" height="160" rx="16" fill="#7d3c98"/>
