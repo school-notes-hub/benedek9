@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="970" viewBox="0 0 600 970" role="img" aria-labelledby="title desc">
+<title id="title">Athén útja a demokráciáig</title>
+<desc id="desc">Függőleges idővonal fentről lefelé, időrendben: Kr. e. 621 Drakón írásba foglalja a szokásjogot; Kr. e. 594 Szolón reformjai, a politikai jogok alapja a vagyon lesz; Kr. e. 560 Peiszisztratosz megszerzi az egyeduralmat, kezdődik a zsarnokság; Kr. e. 527 Peiszisztratosz meghal, a fia uralkodik tovább; Kr. e. 510 elűzik a türannoszt, vége a zsarnokságnak; Kr. e. 508 Kleiszthenész reformjai, a népgyűlés lesz a legfőbb szerv. A Kr. e. 560 és 510 közötti szakasz vastag, vörösesbarna sáv: a zsarnokság. A távolságok nem időarányosak.</desc>
+<rect width="600" height="970" fill="#fffdf7"/>
+<g font-family="DejaVu Sans, Verdana, sans-serif" fill="#1f3440">
+<text x="20" y="46" font-size="30" font-weight="bold">Athén útja a demokráciáig</text>
+<text x="20" y="84" font-size="20">Athén · Kr. e. 7–6. század</text>
+<line x1="158" y1="130" x2="158" y2="810" stroke="#7d8a96" stroke-width="5" stroke-linecap="round"/>
+<line x1="158" y1="414" x2="158" y2="658" stroke="#a2412b" stroke-width="14" stroke-linecap="round"/>
+<circle cx="158" cy="170" r="11" fill="#fffdf7" stroke="#2c5d8a" stroke-width="5"/>
+<text x="134" y="178" font-size="22" font-weight="bold" text-anchor="end" fill="#2c5d8a">Kr. e. 621</text>
+<text x="186" y="164" font-size="20" font-weight="bold">Drakón írásba foglalja</text>
+<text x="186" y="190" font-size="20" font-weight="normal">a szokásjogot</text>
+<circle cx="158" cy="292" r="11" fill="#fffdf7" stroke="#2c5d8a" stroke-width="5"/>
+<text x="134" y="300" font-size="22" font-weight="bold" text-anchor="end" fill="#2c5d8a">Kr. e. 594</text>
+<text x="186" y="273" font-size="20" font-weight="bold">Szolón reformjai:</text>
+<text x="186" y="299" font-size="20" font-weight="normal">a politikai jogok alapja</text>
+<text x="186" y="325" font-size="20" font-weight="normal">a vagyon lesz</text>
+<circle cx="158" cy="414" r="11" fill="#fffdf7" stroke="#a2412b" stroke-width="5"/>
+<text x="134" y="422" font-size="22" font-weight="bold" text-anchor="end" fill="#a2412b">Kr. e. 560</text>
+<text x="186" y="395" font-size="20" font-weight="bold">Peiszisztratosz megszerzi</text>
+<text x="186" y="421" font-size="20" font-weight="normal">az egyeduralmat:</text>
+<text x="186" y="447" font-size="20" font-weight="normal">kezdődik a zsarnokság</text>
+<circle cx="158" cy="536" r="11" fill="#fffdf7" stroke="#a2412b" stroke-width="5"/>
+<text x="134" y="544" font-size="22" font-weight="bold" text-anchor="end" fill="#a2412b">Kr. e. 527</text>
+<text x="186" y="530" font-size="20" font-weight="bold">Peiszisztratosz meghal,</text>
+<text x="186" y="556" font-size="20" font-weight="normal">a fia uralkodik tovább</text>
+<circle cx="158" cy="658" r="11" fill="#fffdf7" stroke="#a2412b" stroke-width="5"/>
+<text x="134" y="666" font-size="22" font-weight="bold" text-anchor="end" fill="#a2412b">Kr. e. 510</text>
+<text x="186" y="652" font-size="20" font-weight="bold">elűzik a türannoszt:</text>
+<text x="186" y="678" font-size="20" font-weight="normal">vége a zsarnokságnak</text>
+<circle cx="158" cy="780" r="11" fill="#fffdf7" stroke="#3c7a3a" stroke-width="5"/>
+<text x="134" y="788" font-size="22" font-weight="bold" text-anchor="end" fill="#3c7a3a">Kr. e. 508</text>
+<text x="186" y="761" font-size="20" font-weight="bold">Kleiszthenész reformjai:</text>
+<text x="186" y="787" font-size="20" font-weight="normal">a népgyűlés lesz</text>
+<text x="186" y="813" font-size="20" font-weight="normal">a legfőbb szerv</text>
+<line x1="22" y1="863" x2="74" y2="863" stroke="#a2412b" stroke-width="14" stroke-linecap="round"/>
+<text x="90" y="870" font-size="19">zsarnokság (türannisz), Kr. e. 560–510</text>
+<text x="20" y="910" font-size="19" font-style="italic">A távolságok nem időarányosak.</text>
+</g></svg>

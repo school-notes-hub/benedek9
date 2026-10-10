@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="348" viewBox="0 0 400 348" role="img" aria-label="Törtcsíkok. Felül egy 6 részre osztott csík, 5 része kék (5/6), alatta egy 4 részre osztott csík, 3 része narancs (3/4). Tizenkettedekre vágva: 10 kék tizenkettedrész (10/12) ugyanolyan hosszú, mint az 5/6, és 9 narancs (9/12) ugyanolyan hosszú, mint a 3/4. Összeadva: egy teli csík (10 kék és 2 narancs rész, 1 egész) és egy csíkból 7 narancs rész (7/12); felirat: összesen 19/12, vagyis 1 egész és 7/12.">
+<title>Törtcsíkok. Felül egy 6 részre osztott csík, 5 része kék (5/6), alatta egy 4 részre osztott csík, 3 része narancs (3/4). Tizenkettedekre vágva: 10 kék tizenkettedrész (10/12) ugyanolyan hosszú, mint az 5/6, és 9 narancs (9/12) ugyanolyan hosszú, mint a 3/4. Összeadva: egy teli csík (10 kék és 2 narancs rész, 1 egész) és egy csíkból 7 narancs rész (7/12); felirat: összesen 19/12, vagyis 1 egész és 7/12.</title>
+<rect width="400" height="348" fill="#ffffff"/>
+<text x="82" y="33.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#1a1a1a">5/6</text>
+<rect x="92.00" y="14" width="48.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="140.00" y="14" width="48.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="188.00" y="14" width="48.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="236.00" y="14" width="48.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="284.00" y="14" width="48.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="332.00" y="14" width="48.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="92" y="14" width="288" height="28" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<text x="82" y="73.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#1a1a1a">3/4</text>
+<rect x="92.00" y="54" width="72.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="164.00" y="54" width="72.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="236.00" y="54" width="72.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="308.00" y="54" width="72.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="92" y="54" width="288" height="28" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<text x="200" y="112" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#1a1a1a">tizenkettedekre vágva:</text>
+<text x="82" y="143.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#1a1a1a">10/12</text>
+<rect x="92.00" y="124" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="116.00" y="124" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="140.00" y="124" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="164.00" y="124" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="188.00" y="124" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="212.00" y="124" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="236.00" y="124" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="260.00" y="124" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="284.00" y="124" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="308.00" y="124" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="332.00" y="124" width="24.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="356.00" y="124" width="24.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="92" y="124" width="288" height="28" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<text x="82" y="183.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#1a1a1a">9/12</text>
+<rect x="92.00" y="164" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="116.00" y="164" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="140.00" y="164" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="164.00" y="164" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="188.00" y="164" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="212.00" y="164" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="236.00" y="164" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="260.00" y="164" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="284.00" y="164" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="308.00" y="164" width="24.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="332.00" y="164" width="24.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="356.00" y="164" width="24.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="92" y="164" width="288" height="28" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<text x="200" y="222" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#1a1a1a">a tizenkettedek összeadva:</text>
+<text x="82" y="253.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#1a1a1a">1 egész</text>
+<rect x="92.00" y="234" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="116.00" y="234" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="140.00" y="234" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="164.00" y="234" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="188.00" y="234" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="212.00" y="234" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="236.00" y="234" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="260.00" y="234" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="284.00" y="234" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="308.00" y="234" width="24.00" height="28" fill="#5b9bd5" stroke="#333333" stroke-width="1.2"/>
+<rect x="332.00" y="234" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="356.00" y="234" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="92" y="234" width="288" height="28" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<text x="82" y="293.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#1a1a1a">7/12</text>
+<rect x="92.00" y="274" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="116.00" y="274" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="140.00" y="274" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="164.00" y="274" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="188.00" y="274" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="212.00" y="274" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="236.00" y="274" width="24.00" height="28" fill="#f0a04b" stroke="#333333" stroke-width="1.2"/>
+<rect x="260.00" y="274" width="24.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="284.00" y="274" width="24.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="308.00" y="274" width="24.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="332.00" y="274" width="24.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="356.00" y="274" width="24.00" height="28" fill="#ffffff" stroke="#333333" stroke-width="1.2"/>
+<rect x="92" y="274" width="288" height="28" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<text x="200" y="334" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#1a1a1a">összesen 19/12, vagyis 1 egész és 7/12</text>
+</svg>

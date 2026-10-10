@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="922" viewBox="0 0 600 922" role="img" aria-labelledby="title desc">
+<title id="title">Hogyan született döntés Athénban?</title>
+<desc id="desc">Négy egymás alatti doboz, közöttük lefelé mutató nyilak. 1. Indítvány: bármely polgár javasolhat, új törvényt vagy régi eltörlését. Nyíl: az indítvány a tanácshoz kerül. 2. Ötszázak tanácsa (bulé): 500 tag, sorsolással, egy évre; előkészíti az indítványt, és állást foglal róla. Nyíl: csak előkészítve mehet tovább. 3. Népgyűlés, a legfőbb szerv: tagja minden 20. évét betöltött athéni polgár; vita, majd szavazás kézfelemeléssel vagy kaviccsal az urnába. Nyíl: a népgyűlés dönt. 4. Döntés, például háborúról és békéről, törvényről, közellátásról.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4.2" markerHeight="4.2" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#4a5864"/></marker></defs>
+<rect width="600" height="922" fill="#fffdf7"/>
+<g font-family="DejaVu Sans, Verdana, sans-serif" fill="#1f3440">
+<text x="20" y="46" font-size="30" font-weight="bold">Hogyan született döntés?</text>
+<text x="20" y="82" font-size="20">Athéni demokrácia · Kr. e. 5. század</text>
+<rect x="60" y="110" width="480" height="110" rx="14" fill="#f1ead8" stroke="#8a6d2f" stroke-width="3"/>
+<text x="300.0" y="144" font-size="22" font-weight="bold" text-anchor="middle" fill="#8a6d2f">Indítvány</text>
+<text x="300.0" y="174" font-size="20" text-anchor="middle">bármely polgár javasolhat:</text>
+<text x="300.0" y="200" font-size="20" text-anchor="middle">új törvényt vagy régi eltörlését</text>
+<path d="M170 226 V290" stroke="#4a5864" stroke-width="6" marker-end="url(#arr)"/>
+<text x="190" y="265.0" font-size="19" font-style="italic">az indítvány a tanácshoz kerül</text>
+<rect x="60" y="298" width="480" height="136" rx="14" fill="#dfe9f3" stroke="#2c5d8a" stroke-width="3"/>
+<text x="300.0" y="332" font-size="22" font-weight="bold" text-anchor="middle" fill="#2c5d8a">Ötszázak tanácsa (bulé)</text>
+<text x="300.0" y="362" font-size="20" text-anchor="middle">500 tag, sorsolással, egy évre</text>
+<text x="300.0" y="388" font-size="20" text-anchor="middle">előkészíti az indítványt,</text>
+<text x="300.0" y="414" font-size="20" text-anchor="middle">és állást foglal róla</text>
+<path d="M170 440 V504" stroke="#4a5864" stroke-width="6" marker-end="url(#arr)"/>
+<text x="190" y="479.0" font-size="19" font-style="italic">csak előkészítve mehet tovább</text>
+<rect x="60" y="512" width="480" height="162" rx="14" fill="#e4efdc" stroke="#3c7a3a" stroke-width="3"/>
+<text x="300.0" y="546" font-size="22" font-weight="bold" text-anchor="middle" fill="#3c7a3a">Népgyűlés, a legfőbb szerv</text>
+<text x="300.0" y="576" font-size="20" text-anchor="middle">tagja minden 20. évét</text>
+<text x="300.0" y="602" font-size="20" text-anchor="middle">betöltött athéni polgár;</text>
+<text x="300.0" y="628" font-size="20" text-anchor="middle">vita, majd szavazás:</text>
+<text x="300.0" y="654" font-size="20" text-anchor="middle">kézfelemelés vagy kavics az urnába</text>
+<path d="M170 680 V744" stroke="#4a5864" stroke-width="6" marker-end="url(#arr)"/>
+<text x="190" y="719.0" font-size="19" font-style="italic">a népgyűlés dönt</text>
+<rect x="60" y="752" width="480" height="110" rx="14" fill="#f3e3df" stroke="#a2412b" stroke-width="3"/>
+<text x="300.0" y="786" font-size="22" font-weight="bold" text-anchor="middle" fill="#a2412b">Döntés</text>
+<text x="300.0" y="816" font-size="20" text-anchor="middle">például háborúról és békéről,</text>
+<text x="300.0" y="842" font-size="20" text-anchor="middle">törvényről, közellátásról</text>
+</g></svg>

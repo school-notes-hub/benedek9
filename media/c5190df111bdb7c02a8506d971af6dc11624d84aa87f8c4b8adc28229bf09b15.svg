@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280" role="img" aria-label="Téglalap, 2 egység magas és 7 egység széles, egységnégyzetekre osztva. A bal 3 oszlop kék, a jobb 4 oszlop narancs. Fölötte a kék rész szélessége 3, a narancsé 4, bal oldalt a magasság 2. A kék rész alatt: 6 négyzet, a narancs alatt: 8 négyzet. Alul kapcsos zárójel a teljes szélességgel: 7; alatta: összesen 14 egységnégyzet.">
+<title>Téglalap, 2 egység magas és 7 egység széles, egységnégyzetekre osztva. A bal 3 oszlop kék, a jobb 4 oszlop narancs. Fölötte a kék rész szélessége 3, a narancsé 4, bal oldalt a magasság 2. A kék rész alatt: 6 négyzet, a narancs alatt: 8 négyzet. Alul kapcsos zárójel a teljes szélességgel: 7; alatta: összesen 14 egységnégyzet.</title>
+<rect width="400" height="280" fill="#ffffff"/>
+<rect x="60" y="60" width="40" height="40" fill="#cfe5fb" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="100" y="60" width="40" height="40" fill="#cfe5fb" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="140" y="60" width="40" height="40" fill="#cfe5fb" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="180" y="60" width="40" height="40" fill="#ffd9b3" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="220" y="60" width="40" height="40" fill="#ffd9b3" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="260" y="60" width="40" height="40" fill="#ffd9b3" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="300" y="60" width="40" height="40" fill="#ffd9b3" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="60" y="100" width="40" height="40" fill="#cfe5fb" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="100" y="100" width="40" height="40" fill="#cfe5fb" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="140" y="100" width="40" height="40" fill="#cfe5fb" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="180" y="100" width="40" height="40" fill="#ffd9b3" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="220" y="100" width="40" height="40" fill="#ffd9b3" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="260" y="100" width="40" height="40" fill="#ffd9b3" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="300" y="100" width="40" height="40" fill="#ffd9b3" stroke="#4a4a4a" stroke-width="1"/>
+<rect x="60" y="60" width="120" height="80" fill="none" stroke="#1f5fa8" stroke-width="3"/>
+<rect x="180" y="60" width="160" height="80" fill="none" stroke="#c25e00" stroke-width="3"/>
+<text x="120.0" y="48" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1f5fa8">3</text>
+<text x="260" y="48" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#c25e00">4</text>
+<text x="46" y="106" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1a1a1a">2</text>
+<text x="120.0" y="164" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f5fa8">6 négyzet</text>
+<text x="260" y="164" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#c25e00">8 négyzet</text>
+<path d="M 60 176 q 0 10 10 10 L 192.0 186 q 8 0 8 10 q 0 -10 8 -10 L 330 186 q 10 0 10 -10" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<text x="200.0" y="218" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1a1a1a">7</text>
+<text x="200.0" y="246" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1a1a1a">összesen 14 egységnégyzet</text>
+</svg>
