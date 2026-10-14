@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 746" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>Két vonat elhalad egymás mellett: 600 m-es 20 m/s-mal és 400 m-es 30 m/s-mal; a 600 m-es vonathoz viszonyítva a másik vonat eleje mindkét esetben 1000 m-t tesz meg; szemben 50 m/s-mal 20 s, egy irányba 10 m/s-mal 100 s alatt</title>
+<rect width="400" height="746" rx="16" fill="#f5f8fb"/>
+<text x="200.0" y="30.0" font-size="18" fill="#16283b" text-anchor="middle" font-weight="700">Két vonat elhalad egymás mellett</text>
+<rect x="20" y="52" width="144.0" height="22" rx="4" fill="#175e96"/>
+<text x="92.0" y="68.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">600 m</text>
+<text x="174.0" y="68.0" font-size="15" fill="#175e96" text-anchor="start" font-weight="700">72 km/h = 20 m/s</text>
+<rect x="20" y="84" width="96.0" height="22" rx="4" fill="#c4561c"/>
+<text x="68.0" y="100.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">400 m</text>
+<text x="126.0" y="100.0" font-size="15" fill="#c4561c" text-anchor="start" font-weight="700">108 km/h = 30 m/s</text>
+<text x="200.0" y="132.0" font-size="15" fill="#4a5568" text-anchor="middle" font-weight="400">Az alábbi két rajz a 600 m-es vonathoz viszonyítva:</text>
+<text x="200.0" y="150.0" font-size="15" fill="#4a5568" text-anchor="middle" font-weight="400">ez a vonat áll, a másik mozog hozzá képest.</text>
+<text x="200.0" y="184.0" font-size="16" fill="#16283b" text-anchor="middle" font-weight="700">Szemben haladnak</text>
+<text x="200.0" y="204.0" font-size="15" fill="#16283b" text-anchor="middle" font-weight="400">viszonylagos sebesség: 20 m/s + 30 m/s = 50 m/s</text>
+<text x="20.0" y="232.0" font-size="14" fill="#4a5568" text-anchor="start" font-weight="400">az elhaladás kezdete:</text>
+<text x="20.0" y="306.0" font-size="14" fill="#4a5568" text-anchor="start" font-weight="400">az elhaladás vége:</text>
+<line x1="116.0" y1="238" x2="116.0" y2="290" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="4 4"/>
+<line x1="116.0" y1="312" x2="116.0" y2="374" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="4 4"/>
+<line x1="260.0" y1="238" x2="260.0" y2="290" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="4 4"/>
+<line x1="260.0" y1="312" x2="260.0" y2="374" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="116.0" y="240" width="144.0" height="22" rx="4" fill="#175e96"/><text x="188.0" y="256.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">600 m</text>
+<rect x="260.0" y="266" width="96.0" height="22" rx="4" fill="#c4561c"/><text x="308.0" y="282.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">400 m</text>
+<rect x="116.0" y="314" width="144.0" height="22" rx="4" fill="#175e96"/><text x="188.0" y="330.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">600 m</text>
+<rect x="20.0" y="340" width="96.0" height="22" rx="4" fill="#c4561c"/><text x="68.0" y="356.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">400 m</text>
+<line x1="254.0" y1="277.0" x2="229.0" y2="277.0" stroke="#c4561c" stroke-width="3"/><path d="M220.0,277.0 L230.0,271.0 L230.0,283.0 z" fill="#c4561c"/>
+<line x1="260.0" y1="382.0" x2="30.0" y2="382.0" stroke="#1d7a43" stroke-width="3"/><path d="M20.0,382.0 L31.0,375.5 L31.0,388.5 z" fill="#1d7a43"/>
+<line x1="260.0" y1="374" x2="260.0" y2="390" stroke="#1d7a43" stroke-width="2"/>
+<line x1="20.0" y1="374" x2="20.0" y2="390" stroke="#1d7a43" stroke-width="2"/>
+<text x="200.0" y="406.0" font-size="15" fill="#1d7a43" text-anchor="middle" font-weight="700">a 400 m-es vonat eleje 1000 m-t tesz meg</text>
+<text x="200.0" y="428.0" font-size="16" fill="#16283b" text-anchor="middle" font-weight="700">t = 1000 m : 50 m/s = 20 s</text>
+<text x="200.0" y="452.0" font-size="16" fill="#16283b" text-anchor="middle" font-weight="700">Egy irányba haladnak</text>
+<text x="200.0" y="472.0" font-size="15" fill="#16283b" text-anchor="middle" font-weight="400">viszonylagos sebesség: 30 m/s − 20 m/s = 10 m/s</text>
+<text x="20.0" y="500.0" font-size="14" fill="#4a5568" text-anchor="start" font-weight="400">az elhaladás kezdete:</text>
+<text x="20.0" y="574.0" font-size="14" fill="#4a5568" text-anchor="start" font-weight="400">az elhaladás vége:</text>
+<line x1="116.0" y1="506" x2="116.0" y2="558" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="4 4"/>
+<line x1="116.0" y1="580" x2="116.0" y2="642" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="4 4"/>
+<line x1="260.0" y1="506" x2="260.0" y2="558" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="4 4"/>
+<line x1="260.0" y1="580" x2="260.0" y2="642" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="116.0" y="508" width="144.0" height="22" rx="4" fill="#175e96"/><text x="188.0" y="524.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">600 m</text>
+<rect x="20.0" y="534" width="96.0" height="22" rx="4" fill="#c4561c"/><text x="68.0" y="550.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">400 m</text>
+<rect x="116.0" y="582" width="144.0" height="22" rx="4" fill="#175e96"/><text x="188.0" y="598.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">600 m</text>
+<rect x="260.0" y="608" width="96.0" height="22" rx="4" fill="#c4561c"/><text x="308.0" y="624.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">400 m</text>
+<line x1="122.0" y1="545.0" x2="147.0" y2="545.0" stroke="#c4561c" stroke-width="3"/><path d="M156.0,545.0 L146.0,551.0 L146.0,539.0 z" fill="#c4561c"/>
+<line x1="116.0" y1="650.0" x2="346.0" y2="650.0" stroke="#1d7a43" stroke-width="3"/><path d="M356.0,650.0 L345.0,656.5 L345.0,643.5 z" fill="#1d7a43"/>
+<line x1="116.0" y1="642" x2="116.0" y2="658" stroke="#1d7a43" stroke-width="2"/>
+<line x1="356.0" y1="642" x2="356.0" y2="658" stroke="#1d7a43" stroke-width="2"/>
+<text x="200.0" y="674.0" font-size="15" fill="#1d7a43" text-anchor="middle" font-weight="700">a 400 m-es vonat eleje 1000 m-t tesz meg</text>
+<text x="200.0" y="696.0" font-size="16" fill="#16283b" text-anchor="middle" font-weight="700">t = 1000 m : 10 m/s = 100 s</text>
+<text x="200.0" y="726.0" font-size="15" fill="#16283b" text-anchor="middle" font-weight="400">1000 m = 600 m + 400 m, a két vonat hosszának összege</text>
+</svg>

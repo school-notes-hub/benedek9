@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<title>Egyenletesen változó mozgás nyugalomból indulva: az út-idő grafikon origóból induló parabolaág (s = a/2 · t²), a sebesség-idő grafikon origón átmenő egyenes (v = a · t), a meredeksége a gyorsulás</title>
+<rect width="400" height="600" rx="16" fill="#f5f8fb"/>
+<text x="200.0" y="30.0" font-size="18" fill="#16283b" text-anchor="middle" font-weight="700">Egyenletesen változó mozgás</text>
+<text x="200.0" y="50.0" font-size="15" fill="#4a5568" text-anchor="middle" font-weight="400">nyugalomból indulva</text>
+<line x1="60.0" y1="270.0" x2="339.0" y2="270.0" stroke="#16283b" stroke-width="2"/><path d="M350.0,270.0 L338.0,276.0 L338.0,264.0 z" fill="#16283b"/>
+<line x1="60.0" y1="270.0" x2="60.0" y2="91.0" stroke="#16283b" stroke-width="2"/><path d="M60.0,80.0 L66.0,92.0 L54.0,92.0 z" fill="#16283b"/>
+<text x="350.0" y="292.0" font-size="15" fill="#16283b" text-anchor="end" font-weight="700">t (idő)</text>
+<text x="52.0" y="76.0" font-size="15" fill="#16283b" text-anchor="start" font-weight="700">s (út)</text>
+<text x="52.0" y="286.0" font-size="14" fill="#16283b" text-anchor="end" font-weight="400">0</text>
+<polyline points="60.0,270.0 66.2,269.9 72.5,269.6 78.8,269.0 85.0,268.3 91.2,267.3 97.5,266.2 103.8,264.8 110.0,263.2 116.2,261.4 122.5,259.4 128.8,257.1 135.0,254.7 141.2,252.0 147.5,249.2 153.8,246.1 160.0,242.8 166.2,239.3 172.5,235.6 178.8,231.6 185.0,227.5 191.2,223.1 197.5,218.6 203.8,213.8 210.0,208.8 216.2,203.6 222.5,198.2 228.8,192.5 235.0,186.7 241.2,180.6 247.5,174.4 253.8,167.9 260.0,161.2 266.2,154.3 272.5,147.2 278.8,139.8 285.0,132.3 291.2,124.5 297.5,116.6 303.8,108.4 310.0,100.0" fill="none" stroke="#175e96" stroke-width="4"/>
+<text x="180.0" y="150.0" font-size="16" fill="#175e96" text-anchor="middle" font-weight="700">s = a/2 · t²</text>
+<text x="180.0" y="170.0" font-size="15" fill="#175e96" text-anchor="middle" font-weight="400">parabola: s ~ t²</text>
+<line x1="60.0" y1="530.0" x2="339.0" y2="530.0" stroke="#16283b" stroke-width="2"/><path d="M350.0,530.0 L338.0,536.0 L338.0,524.0 z" fill="#16283b"/>
+<line x1="60.0" y1="530.0" x2="60.0" y2="351.0" stroke="#16283b" stroke-width="2"/><path d="M60.0,340.0 L66.0,352.0 L54.0,352.0 z" fill="#16283b"/>
+<text x="350.0" y="552.0" font-size="15" fill="#16283b" text-anchor="end" font-weight="700">t (idő)</text>
+<text x="52.0" y="336.0" font-size="15" fill="#16283b" text-anchor="start" font-weight="700">v (sebesség)</text>
+<text x="52.0" y="546.0" font-size="14" fill="#16283b" text-anchor="end" font-weight="400">0</text>
+<polyline points="60.0,530.0 310.0,360.0" fill="none" stroke="#175e96" stroke-width="4"/>
+<line x1="160" y1="462" x2="235" y2="462" stroke="#c4561c" stroke-width="3"/>
+<line x1="235" y1="462" x2="235" y2="411" stroke="#1d7a43" stroke-width="3"/>
+<text x="197.5" y="482.0" font-size="15" fill="#c4561c" text-anchor="middle" font-weight="700">Δt</text>
+<text x="243.0" y="441.5" font-size="15" fill="#1d7a43" text-anchor="start" font-weight="700">Δv</text>
+<text x="90.0" y="380.0" font-size="16" fill="#175e96" text-anchor="start" font-weight="700">v = a · t</text>
+<text x="90.0" y="400.0" font-size="15" fill="#175e96" text-anchor="start" font-weight="400">egyenes: v ~ t</text>
+<text x="200.0" y="580.0" font-size="15" fill="#16283b" text-anchor="middle" font-weight="700">a = Δv / Δt = állandó (a gyorsulás)</text>
+</svg>
